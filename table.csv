@@ -1,0 +1,1757 @@
+﻿File name,Radar name,Frequency,PRT,PRF,Pulsewidth,Receiving time,Dead time,Peak Power,Average Power,Instrumented Range,Range Resolution,Accuracy,Beamwidth,Hits per scan,Antenna Rotation,MTBCF,MTTR
+karte001.en.html,AN/FPS-50,425 MHz,,27 Hz,2 ms,,,10 MW [1],,5 000 km,,,,,(fixed torus antenna),,
+karte002.en.html,AN/FPS-85,442 MHz,,20 Hz,"1,5,10,25,125 & 250 µs",,,30 MW,10 kW,3 000 km,,,,,,,
+karte003.en.html,AN/FPS-108 “Cobra Dane”,"1 175 … 1 375 MHz
+	(L-Band)",,,1 or 2 ms,,,16 MW,1 MW,"46,000 km",,,0.6˚,,,,
+karte004.en.html,AN/FPS-115 “Pave Paws”,420 … 450 MHz,,0.02 … 20 Hz,250 … 16 000 µs,> 38 ms,,600 kW (per face),150 kW,3 000 NM (4 800 km),,,2.2 degrees,,,
+karte005.en.html,ALTAIR,"155 … 162, 422 MHz",,300 Hz,80 μsec,,,5 MW,120 kW,,20 m,,"1.1° (UHF)
+	2.8° (VHF)",,,
+karte006.en.html,AN/TPS-71 (ROTHR),5 … 28 MHz,,,,,,200 kW,,926 … 2 963 km,,,,,,
+karte007.en.html,77YA6 «Voronezh-M»,150 … 200 MHz,,,,,,,,100 … 4 200 km,,,,,,
+karte008.en.html,AN/FPS-16,5 400 … 5 900 MHz,,"160, 320, 640 Hz","0.25, 0.5, 1 µs",,,1 MW,,"500 … 8 000 000 Yards
+	(≙ 450 m … 7 300 km)",,"±30 ft, ±0.1 mil",1.2°,,,
+karte009.en.html,AN/FPS-118,"5 … 28 MHz
+	(HF-Band)",,,,,,,1 MW,1 800 NM (≙ 3 333 km),,,Tx: 7.5°; Rx: 2.5°,,,,
+karte010.en.html,ELM-2270 OTH,HF-Band,,,,,,,,200 NM (≙ 370 km),3 km,2 km,,,,,
+karte011.en.html,SWR-503 (HFSWR),"3 … 5 MHz
+	(HF-Band)",,250 Hz,,,,16 kW,1.6 kW,200 NM (≙ 370 km),,,,,,,
+karte012.en.html,29B6 «Container»,"3 … 30 MHz
+	(HF-Band)",,50 Hz,,,,,,3 000 km,,,,,,,
+karte013.en.html,AN/FPS-80,UHF-Band,,,,,,,,,,,,,,,
+karte014.en.html,OTH-Radar “Telets”,"3.5 … 15 MHz
+	(HF-Band)",,,,,,,,250 km,,,,,,,
+karte015.en.html,LD-JHC 300,HF-Band,,,,,,,,300 NM (≙ 555 km),,,,,,,
+karte016.en.html,TIRA,,"1 333 MHz
+	(L-Band)",,30 Hz,l ms,,,1.6 MW,,,,,0.45°,,4 rpm,,
+karte017.en.html,AN/FPS-95 “Cobra Mist”,"6 … 40 MHz
+	(HF-Band)",,10 … 160 Hz,250 … 6 000 µs,,,3.5 MW,300 kW,500 … 2 000 NM(≙ 920 … 3 700 km),,,7°,,,,
+karte018.en.html,“Cobra King”,S-Band,,,,,,,,,,,,,,,
+karte019.en.html,LOTHAR-FATT,"7 … 28 MHz
+	(HF-Band)",,,,,,,,2 000 NM(≙ 3 700 km),,,1°,,,,
+karte020.en.html,Nostradamus,"3 … 30 MHz
+	(HF-Band)",,,,,,,,800 … 3 000 km,,,,,,,
+karte021.en.html,AN/FPS-129,"9.5 … 10.5 GHz
+	(X-Band)",,,,,,200 kW,,25 000 NM(≙ 40 000 km),,,< 0.1°,,,,
+karte001.en.html,AN/FPS-88,1280 - 1380 MHz,,360 Hz,,,,1 MW,1.1 kW,,,,1.3°,,5 and 10 r.p.m.,,
+karte002.en.html,AN/TPS-75,2.9 … 3.1 GHz,,235 … 275 Hz,6.8 ±0.25 µs,,,2.8 MW,4.7 kW,240 NM,,,1.1°,,6.5 r.p.m.,> 1 500 h,
+karte003.en.html,HADR,F-Band,4 ms,60 - 1430 Hz,96 / 36 µs,< 3 ms,approx. 50 µs,> 1.5 MW,< 32 kW,240 NM,450 ft,,1.1° - 1.7°,1 - 8,5 rpm,,
+karte004.en.html,“Lanza”,1215 - 1400 MHz,,,10 - 200 µs,,,53.5 kW,5.3 kW,250 NM,450 ft,,β=1.4°   ε=2°,1 … 4,10 s,,
+karte005.en.html,Master-T,S-Band,,,,,,,,240 NM,45 ft,,,,10 seconds,,
+karte006.en.html,RAT-31SL,S-Band,,(staggered),,,,155 kW,,250 NM,,,"1,5° (1,3°)",1 to 3;,10 s,,
+karte007.en.html,AN/FPS-117 “Seek Igloo” (RRP-117),1215 - 1400 MHz,0.9 - 4 ms,250 / 1100 Hz,100 / 800 µs,"0,6 / 3 ms",ca 200 µs,20 kW,,bis 463 km,,,"β:3,4°, ε:2,7°",1 … 3,12 s or 10 s,,
+karte008.en.html,Martello S 723,"D-Band
+(former called 
+	L-Band)",,255 Hertzes,,,,132 kW,5 kW,270 NM,,,1.6 Degrees,1 to 4,10 Seconds,,
+karte009.en.html,Martello S 743,D-Band,,,,,,,,,,,,,,,
+karte010.en.html,TRD-1211,"D-Band
+(former called
+	L-Band)",2857 µs,350 Hz,20 µs,,,1.2 MW,9 kW,350 km,100 m,,2.8 degrees,,10 s,,
+karte011.en.html,TRS-2215,E/F-Band,,380 Hz (average),3·13 µs (pulse-compressed: 0.2 µs),,,700 kW,10 kW,335 NM,,,β 1.5° (ε 1.3° - 3.6°),,10 seconds,,
+karte012.en.html,RAT-31 DL/M,"D-Band
+(former L-Band)",,,,,,84 kW,,270 NM,,,,1 to 3,10 s,,
+karte013.en.html,Protivnik-GE,D-Band (former L-Band),,,"ca. 64 µs 
+(Pulse compression)",,,,,270 NM,,,,1 to 3,5 and 10 seconds,,
+karte014.en.html,AN/TPS-79,"2.7 … 2.9 GHz
+	(S-Band)",,staggered,5 µs und 120 µs,,,11 (or 21) kW,,60 (or 80) NM,,,,1 to 4,6 and 12.5 r.p.m.,> 1 300 h,
+karte015.en.html,AN/TPY-2,8.55 … 10 GHz,,,,,,,,1000 km,,,,,static,,
+karte016.en.html,Ground Master GM 403,2.9 … 3.3 GHz,,,,,,,,470 km,200 m,50 m; 0.3°,3°,1 … 3,6 r.p.m.,> 3 500 h,
+karte017.en.html,G/ATOR,X-Band,,,,,,,,,,,,,,,
+karte018.en.html,LSTAR®,L-Band,,,,,,,,,,,,,,,
+karte019.en.html,AN/TPS-59,1 215 … 1 400 MHz,,"180 and
+	625 Hz","0.18 and
+	1 ms",,,46 kW,,7 - 740 km,43 m,,"ε: < 1.7°, (1.4° low angle)
+β: 3,2°",1 - 3,5 or 10 s,> 1 000 hrs,< 40 min
+karte020.en.html,Ground Master GM 200,S-Band,,,,,,,,250 km or 100 km,,,,,20 or 40 r.p.m.,> 2 800 h,
+karte021.en.html,AN/TPS-78,2 800 … 3 100 MHz,,,,,,,,240 NM (445 km),,,,,10 r.p.m.,> 3 000 h,< 0.5 h
+karte022.en.html,TAFLIR,"2 900 … 3 100 MHz
+	(S-Band)",appr. 4 ms,235 – 275 Hz,6.8 µs,,,1 MW,1.7 kW,100 km,,,1.1°,,,,
+karte023.en.html,AN/TPS-70,2 900 … 3 000 MHz,,250 … 275 pps,6.5 µs,,,3.5 MW,6.2 kW,450 km,,,1.5°,,6 r.p.m.,600 hrs,0.5 hr
+karte024.en.html,Serdar,X-Band,,,,,,,,48 NM (≙ 90 km),,,,,6 / 12 / 18 r.p.m.,,
+karte025.en.html,AN/TPS-77,1 215 … 1 400 MHz,,,51.2 µs (short range)409.6 µs (long-range),,,19.9 kW,3.6 kW,5 to 250 NM (10 to 470 km),,,,1 … 3,"5, 6, 10, 12 r.p.m.",> 2 000 h,
+karte026.en.html,80K6M,S-Band,,,,,,,,400 km,,100 m; 0.33°,,,5 or 10 r.p.m.,,
+karte027.en.html,JY-27 “Wide Mat”,,"240 – 390 MHz 
+	(VHF-Band)",,,,,,,,280 km,600m,±150 m ; ±1º,7°,,,,
+karte028.en.html,39N6 “Casta 2E2”,UHF-Band,,,,,,,,5 … 150 km,300 m,100 m ; 0.7°,5.5°,,6 or 12 r.p.m.,,
+karte029.en.html,JY-27A,VHF-Band,,,,,,,,310 NM (≙ 500 km),,,,,,,
+karte030.en.html,JYL-1,"2 900 … 3 100 MHz
+	(S-Band)",,430 Hz (?),,,,,,450km,200 m,±100m ; 0.3º,1.5°,,,> 800 h,< 0.5 h
+karte031.en.html,JY-11 “Hunter-1”,,2.7 … 3.4 GHz,,,20 µs,,,"13,5 kW",,110 NM (≙ 220 km),200 m,±100 m; ±0.5°,2.5°,,,> 800 h,< 0.5 h
+karte032.en.html,YLC-2,,"1 240 … 1 400 MHz
+	(L-Band)",,275 Hz,,,,85 kW,5.5 kW,330 km,≤ 300 m,≤ 100 m ; ≤ 0.3°,,,,,
+karte033.en.html,Vostok E,"≈ 175 MHz
+	 VHF-Band",,,,,,,,360 km,150 … 200 m,25 m ; 0.8°,5.5°,,,,
+karte034.en.html,55Zh6ME Nebo-M RLM-ME,VHF-Band,,300 Hz,,,,140 kW,,,,< 400 m; < 0.67°,,,3 or 6 r.p.m.,,
+karte035.en.html,Vostok-3S,S-Band,,,,,,,,360 km,220 m,25 m; β: 0.15°; ε: 0.08° …	0.1°,β: 1.8°; ε: 1.2°,,6 r.p.m.,,
+karte036.en.html,AN/TPS-63,1 225 … 1 400 MHz,,"300, 375, 500, 750 Hz",41 µs (dual frequency),,,100 kW,3 kW,370 km,190 m,150 m; 0.35°,2.7º,,"6, 12, 15 r.p.m.",> 2 000 h,30 min
+karte037.en.html,ELM-2288,S-Band,,,,,,,,480 km,,,,,,,
+karte038.en.html,Giraffe 8A,S-Band,,,,,,,,470 km,,,,,24 r.p.m.,,
+karte039.en.html,55Zh6U “NEBO-U”,VHF-Band,,,,,,500 kW,5 kW,700 km,,500 m ; 0.4°,,,6 r.p.m.,> 250 h,
+karte040.en.html,48Ya6-K1 “Podlet K1”,S-Band,,,,,,,,,,,,,,,
+karte041.en.html,NUR-15 «Odra»,S-Band,,,,,,185 kW,,240 km,,< 50 m,,,8 to 12 rpm,,
+karte042.en.html,AMBER 1800,"140 MHz … 180 MHz
+	(in steps of 200 kHz)",,,6 µs and 78 µs,,,8 kW (optional: 30 kW),,360 km (optional: 500 km),1100 m,270 m ; 0.4°,6°,,3 to 6 rpm,,
+karte043.en.html,AN/FPS-124,"1218 to 1398 MHz
+	(at six assigned frequencies)",,,,,,,,70 NM (≙ 113 km),,,,,,> 4000 hrs,< ½ hr
+karte044.en.html,96L6E “Cheese Board”,C-Band,,,ca. 30 µs (?),,,,,5 … 300 km,,,,,5 or 10 rpm,10 000 hrs,
+karte045.en.html,Commander SL,S-Band,,,,,,,,250 NM (≙ 470 km),200 m,"50 m, 0.2°",,,,1 500 hrs,30 min
+karte046.en.html,YLC-6,S-Band,,,,,,180 kW,,180 km,150 m,,1.5º,,,,
+karte047.en.html,RDL-45,L-Band,,,,,,,,470 km,,,,,,,< 1 hr
+karte048.en.html,AN/TPS-703,S-Band,,,,,,,,80 NM (≙ 148 km),,,,,,2 000 hrs,
+karte049.en.html,"N-21, N-22",S-Band,,1 000 Hz,10 µs,,,90 kW,,100 km,,100 m; 0.2°,,,12 or 24 rpm,,
+karte050.en.html,Master M,S-Band,,,,,,,,470 km,200 m,30m; 0.3°,3°,,,1 500 hrs,
+karte051.en.html,Master A,S-Band,,,,,,,,370 km,220 m,30 m; 0.1°,,,,,
+karte052.en.html,GS 1000,S-Band,,,,,,,,1 000 km,,,,,,,
+karte053.en.html,GS 100,S-Band,,,,,,,,180 km,,,,,,,
+karte054.en.html,Rohini,S-Band,,,,,,,,200 km,200 m,50 m; ±0.5°,1.8°…3°,,7.5 or 15 rpm,,
+karte055.en.html,Indra,,L-Band,,,3.2 µs,,,40 kW,,50 km,,,3°,,16 rpm,,
+karte056.en.html,EIRS,S-Band,,,,,,,,700 km,,,,,,3000 hrs,30 min
+karte057.en.html,ESR 360L,,L-Band,,,,,,,,150 km,,60 m; 0.3°,,,7.5 … 15 rpm,,
+karte058.en.html,N-11,S-Band,,,,,,,,,,,,,,,
+karte059.en.html,HGR-106,UHF-Band,,,,,,,,180 or 210 km,,150 m; 0.5°,,,,,
+karte060.en.html,ESR 220,L-Band,,,,,,,65 NM (≙ 120 km),,,,,,,
+karte061.en.html,FPS-303K,S-Band,,,,,,,,200 km,,,,,,,
+karte062.en.html,Gryphon R1410,X-Band,,,,,,,,48 km,,5 m ; β: 0.2° ; ε: 1°,,,,20 000 h,
+karte063.en.html,67N6E «Gamma-D»,D-Band,,,,,,,12.5 kW,400 km,300 m,100 m; 0.2°,1.35°,,6 min⁻¹,1 000 hrs,
+karte064.en.html,TRML-4D,G-Band,,,,,,,,250 km,,,,,,,
+karte065.en.html,YLC-8B,UHF-Band,,,,,,,,300 NM (≙ 550 km),,,,,,,
+karte066.en.html,SLC-7,L-Band,,,,,,,,450 km,,,,,,,
+karte067.en.html,JTPS-P25,X-Band,,,,,,,,300 km (?),,,,,,,
+karte068.en.html,JTPS-P14,S-Band,,,,,,,,400 km,,,,,,,
+karte069.en.html,AR-320,E/F-Band,,,,,,24 kW,,250 NM (≙ 470 km),70 m,,1.4°,,,,
+karte070.en.html,AR-325 Commander,"2 700 … 3 100 MHz
+	(E/F-Band)",,270 … 1 400 Hz,max. 200 µs,,,135 kW,7.5 kW,250 NM (≙ 470 km),,,1.4°,,,,
+karte071.en.html,ELM 2084,S-Band,,,,,,,,256 NM (≙ 475 km),,,,,,,
+karte072.en.html,Malachit,VHF-Band,,,,,,,,400 km,450 m,107 m; 0.32°,6°,,,2 000 h,
+karte073.en.html,N22-N(3D),"3,2 … 3,4 GHz
+	 (S-Band)",,,,,,10 or 20 kW,,60 or 100 km,120 m,,3°,,12 or 24 min⁻¹,,
+karte074.en.html,NUR-31,L-Band,,,10 µs,,,400 kW,,200 km,150 m,,1.8°,,6 min⁻¹,,
+karte075.en.html,GESTRA,"1 280 … 1 380 MHz
+	(L-Band)",,,(≈ 2 ms  *),,,256 kW,64 kW,3 000 km,(≈ 1 m  *),(≈ 15 cm  *),(≈ 4°  *),,,,
+karte076.en.html,1RL123E,L-Band,,,,,,,,350 km,100 m,20 … 50 m; 0.42°,β= 4° ;ε= 5.5°,,3 or 6 min⁻¹,1 800 hrs,
+karte077.en.html,ANGD,S-Band,,,,,,,,100 km,,,,,12 min⁻¹,,
+karte078.en.html,ASR-100X,"9.0 … 9.5 GHz
+	(X-Band)",,,,,,8 kW,,100 km,,32 m,1.4º,,7.5 or 15 min⁻¹,,
+karte079.en.html,J17,VHF-Band,,,,,,,,,,,,,,,
+karte080.en.html,MMSR,"3.2 … 3.4 GHz
+	(F-Band)",,,10 µs,,,10 kW,400 W,40 km,,100 m; 0.5°,3.3°,,60 rpm,,
+karte081.en.html,Saber M200,S-Band,,,,,,2 × 115 kW,,240 NM (≙ 450 km),150 m,0.08°,,,,,
+karte082.en.html,Pather-A,VHF-Band,,,,,,,,,,,,,,,
+karte083.en.html,LANZA LTR-25,"1 215 … 1 400 MHz
+	(L-Band)",,,,,,53.5 kW,5.35 kW,240 NM (≙ 450 km),,,,,5 … 12 rpm,,
+karte084.en.html,AN/SPQ-11 “Cobra Judy“,"2 900 … 3 100 MHz
+	(S-Band)",,CW … < 400 kHz,CW … > 50 ns,,,,,> 2 000 NM(≙ > 3 700 km),,,,,,,
+karte085.en.html,JTPS-P11,"… 
+	(X-Band)",,,,,,,,,,,,,,,
+karte086.en.html,JTPS-102,L-Band,,,,,,,,200 NM (≙ 370 km),,,,,,,
+karte087.en.html,LeoLabs Space Radar,S-Band,,,,,,,,,,,,,,,
+karte088.en.html,9S15M,F-Band,,,22 … 47 µs,,,18 kW,8 kW,330 km,400 m,250 m; 0.5°,1.4°,,6 … 12 rpm,,
+karte089.en.html,Kashif 1,S-Band,,866; 1250 or 1666 Hz,1; 0.8 or 0.4 µs,,,800 kW,800 W,150 km,,,4°,,3; 6 or 12 rpm,≥ 1000 hrs,≤ 0.5 hr
+karte090.en.html,Kashif 2,S-Band,,,,,,,,200 km,,,,,,,
+karte091.en.html,AN/MPS-39,"5.4 … 6.9 GHz
+	(C-Band)",,10 … 1280 Hz,"0.25; 0.5; 1 µs;
+	3.125; 12.5; 50 µs",,,1 MW,5 kW,8000 km,,,1.05°,,,,
+karte092.en.html,S3TSR,"1 215 … 1 400 MHz
+	(L-Band)",,,,,,,,200 … 2 000 km,,,,,,,
+karte093.en.html,9S18M,H/I-Band,,,,,,,2.5 … 4.5 kW,160 km,400 m,130 m; 0.3°,"3 … 4,5°",,3 … 14 rpm,,
+karte094.en.html,PSR 3D,"1 250 … 1 350 MHz
+		(L-Band)",,,up to 500 µs,,,,,60 NM(≙ 110 km),200 m; 3°,"50 m, 0,2°",β= 2.8° ;ε= 6°,,15,20 000 h,30 min
+karte095.en.html,REL-4,L-Band,,,,,,,,,,,,,,,
+karte096.en.html,J/FPS-5,"L,S-Band",,,,,,,,1 800 km,,,,,,,
+karte097.en.html,LP-23SST-NG,"1 250 … 1 350 MHz
+	(L-Band)",,,,,,,,250 NM (≙ 460 km),140 m,50 m; 0.2°,1.25°,,5 or 6 rpm,34 000 h,30 min
+karte098.en.html,LANZA LTR-20,"1 215 … 1 400 MHz
+	(L-Band",,,,,,,,60 NM(≙ 110 km),,,,,12/15 rpm,,
+karte099.en.html,LANZA LRR,L-Band,,,,,,,,250 NM (≙ 460 km),,,,,6 rpm,,
+karte100.en.html,LRS-450,L-Band,,,,,,,,250 NM (≙ 460 km),,,,,,,
+karte001.en.html,Alenia Marconi ALE 3x5,"D-Band
+(former called
+	L-Band)",,,,,,up to 2 MW,,15 to 190 NM,,,,,,,
+karte002.en.html,Surface Movement Radar ASDE,15.7 … 17.7 GHz,,16 kHz,40 nanoseconds,,,3 kW,,600 … 7300 meters,,,β=0.25 ; ε=1.6 degrees,,1 second (60 rpm),,
+karte003.en.html,Airfield Surveillance Radar ASR 9,2.7 to 2.9 GHz,,325 to 1200 pps,1 microsecond,,,1.3 Mwgawatt,,up to 60 NM,450 ft,,1.4 degrees,,12.5 rpm,3 500 h,
+karte004.en.html,ASR 910,S-Band,≈ 952 µs,≈ 1050 pps (staggered),2·1 Microseconds,801.5 µs,150 µs,2·500 kW,2·525 W,60 NM,450 ft,,1.55°,20,4.2 s,,
+karte005.en.html,ASR 12,2.7 to 2.9 GHz,processor controlled,,"1 µs and
+	55 µs",,,22 kW,,60 / 80 / 100 NM,700 ft,,1.4 degrees,,10 / 12 / 15 rpm.,> 37 500 h,< 0.25 h
+karte006.en.html,ASR-E,2.7 to 3.0 GHz,(staggered and dependenton a schedule),alternating: 1 µs und 2· 45 µs,dependent on a schedule,,maximum 25 kW,2.5 kW,60 NM (≙ 110 km),540 ft,,< 1.43 Degrees,,4 or 5 Seconds(15 and 12 rpm.),,
+karte007.en.html,ASTRE 2000,15.7 bis 16.7 GHz,122 Microseconds,8192 Hertzes,40 Nanoseconds,,,22 to 24.9 kW,,,,,"β=0,33 Degrees   ε=3,5 Degrees",,1 Second,,
+karte008.en.html,Digital Air Surveillance Radar (DASR) ASR 11,"2,7 bis 2,9 GHz",,,1 µs and 80 µs,,,25 kW,2.1 Kilowatt,60 NM (≙ 110 km),926 m (0.5 NM),,1.41°,,12 RPM,,
+karte009.en.html,EA5025,2.7 to 2.9 GHz,,,,,,,,,,,< 1.5°,,,,
+karte010.en.html,Marconi S-511,S-Band,,< 1000 Hz (staggered),0.85 µs,,,650 kW,550 W,200 NM,½ NM,,,,4 s (15 rpm.),,
+karte011.en.html,NOVA 9004,9.37 GHz,,8192 Hertzes,,,,17 kW,,"4,500 ft",30 ft,,,1 second,,,
+karte012.en.html,PAR-80,I-Band,290 Microseconds,3450 Hertzes,0.24 Microseconds,250 Microseconds,40 Microseconds,180 Kilowatts,124 Watts,20 NM,100 feets,,1.1 Degrees,,,,
+karte013.en.html,SRE-M,1250 … 1350 MHz,,310 - 480 Hz,2 µs,> 2.5 Megawatts,,400 km,1 km,,1.1 degrees,5 … 12 s,,
+karte014.en.html,Star 2000,2 700 … 2 900 MHz,,"10000 pps (short pulse)
+	850 to 1150 pps (long pulse)",1 µsec and 75 µsec,,,15 or 28 kW,,60 or 80 NM,700 ft,,2.3 degrees,,4 s (15 rpm) or 5s (12 rpm),,
+karte015.en.html,TASR,2 700 … 2 900 MHz,,,,,,,,60 NM,,,,,4.8 … 5 seconds,4800 h,0.26 h
+karte016.en.html,Scanter 2001,"9.170, 9.375, 9.410,9.438 or 9.490 GHz (X-Band)",,800 - 8.000 Hz (Programmable),40 nanoseconds,,,25 to 30 kW,,5 km,,,β< 0.37° ε= 11°,,60 rpm,,
+karte017.en.html,ATCR-33S DPC,2 700 … 2 900 MHz (S-Band),,800 Hz (Programmable),10 µs and 100 µs,,,19 to 24 kW,"2 to 2,6 kW",60 NM (≙ optional: 100 NM),220 m,,"1,45°",monopulse,"10, 12 or 15 rpm",40 000 h,20 min
+karte018.en.html,RL-2000/GCI,2.7 … 2.9 GHz,staggered,,"2x 1 and 2x 45 µs
+	(frequency diversity)",,,14 or 25 kW,2 … 2.6 kW,60 or 80 NM,70 … 230 m,,< 1.5 Degrees,monopulse radar,,,
+karte019.en.html,Watchman,"2,750 … 3,050 MHz",,"≈ 1,100 Hz (9-fold staggered)",0.4 and 20 µs,,,58 kW,1.3 kW,80 NM,60 m (190 ft),,"β=1,5°   ε=30°",,4 Seconds (15 rpm),,
+karte020.en.html,Morava,2.7 … 2.9 GHz,1.1 ms or 1.4 ms,,"1µs, 75µs (alternating)",,,15 or 25 kW,,60 or 80 NM,225 m,,1.3 degrees,,12 or 15 rpm,,
+karte021.en.html,PAR 2090,9 to 9.18 GHz (X-Band),,,,,,,,20 nmi (40 nmi),< 100 m,,"β: 1°, ε: 0.6°",,,,
+karte022.en.html,ASR 2000,"2.7 to 2.9 GHz 
+	(S-Band)",between approx. 0.9 and 1.1 ms,1000 pps,0.8 µs / 60 or 80 µs,,,up to 32 kW,,60 or 80 nmi (110 or 150 km),60 m / 0.12°,"210 m / 2,3°",,1.5°,,15 rpm,,
+karte023.en.html,PAR-E,X-Band,,,,,,,,40 km (21.6 NM),,,,,,> 13 400 h,"< 0,5 h"
+karte024.en.html,Terminal Area Radar RL-64 I,2 700 … 2 900 MHz,,,,,,,,65 NM (120 km),,,,,15 rpm,,
+karte025.en.html,Terminal Area Radar RL-71 SX,2 700 … 2 900 MHz,,,1µs and 90 µs,,,,,120 - 150 km (65 - 80 NM),,,,,10 – 15 rpm,,
+karte026.en.html,RP-5G,9 250 - 9 500 MHz,,1.8; 2; 2.2 kHz ±10%,0.5 µs,,,2 · 150 kW,,30 km,120 m,,"Azimuth:	β= 0,62° ±0,12°;
+	Elevation:	ε = 0,44°",,,,
+karte027.en.html,Star NG,2 700 − 2 900 MHz,,,,,,,,60 / 80 / 100 NM,< 50 m,,"1,4°",,15 / 12 / 10 rpm,,
+karte028.en.html,ARSR-4,1 215 − 1 400 MHz,,,"150 μsec NLFM
+(sub-pulses: 90 µsec; 60µsec)",,,65 kW,3.5 kW,250 NM (≙ 463 km),323 m,,1.5º,,5 rpm,,
+karte029.en.html,ATCR-44S,1240 – 1355 MHz (L-Band),,,,,,,,up to 220 NM (≙ 410 km),,,,,5 or 12 rpm,,
+karte030.en.html,AN/FPN-63(V),9.00 GHz … 9.16 GHz,,"2750 Hz fixed3300 Hz (7, 8, 9) staggered",0.2 µs,,,80 kW,,20 NM,,,"course: β = 0.85°, ε = 2.2°
+	glide: β = 3.8°, ε = 0.55°",,,,
+karte031.en.html,AN/TPS-73,"2.7 … 2.9 GHz 
+	(S-Band)",,,,,,10 kW,"1,1 kW",60 NM (≙ 110 km),230 m,"range: 60 m,azimuth: 0.18°","β= 1.45°, ε= 5°",,12 or 15 rpm,5 000 hrs,1.4 hr
+karte032.en.html,FBPAR,X-Band,,,,,,,,15 NM (≙ 28 km),,"Azimuth: 0.34°
+	Elevation: 0.23°
+	Range: 88 ft",,,,,
+karte033.en.html,AN/MPN-14,,2780 … 2820 MHz,,1100 Hz,,,,600 kW,,60 NM (≙ 110km),200 m,1°; 4%,2.3°,,,,
+karte034.en.html,Scanter 5502/5602 ,Scanter,9.0 - 9.5 GHz (X-Band),,,,,,0 … 20 kW,50 W,5 NM (≙ 9 km),,3 m,,,60 rpm,> 50 000 h,
+karte035.en.html,Lira-A10,2 700 … 2 900 MHz,,10 kHz or 750 Hz,1.6 µs or 60 µs,,,,,160 km,225 m,50 m; 0.1°,1.5°,,12 or 15 rpm,,
+karte036.en.html,AORL-1,"1 215 - 1 279 MHz
+	 L-Band",,,6 µs and 88 µs,,,10 kW,,87 NM (≙ 162 km),225 m,< 40 m; < 0.14°,2.25°,,12 rpm,,
+karte037.en.html,ASR-NG,"2.7 … 2.9 GHz
+	(S-Band)",,,,,,,,120 or 80NM (≙ 220 or 160 km),150 m,,2.9°,,12 or 15 rpm,,
+karte038.en.html,GLC-33,S-Band,,,,,,,,60 or 80NM (≙ 111 or 148 km),250 m,≤ 60 m; ≤0.16°,2.5°,,15 or 12 rpm,,
+karte039.en.html,SOPKA-2,S-Band,,,,,,,,360 km,250 m,50 m; β:0.17° ; ε:0.25°,1.3°,,6 rpm,,
+karte040.en.html,TRAC 2000N,"1215 … 1  MHz
+	(L-Band)
+pulse repetition time (PRT):
+ 
+pulse repetition frequency (PRF):
+ 
+pulsewidth (τ):
+ 
+receiving time:
+ 
+dead time:
+ 
+peak power:
+ 
+average power:
+ 
+instrumented range:
+200 or 250 NM
+(≙   or 460 km)
+range resolution:
+ 
+accuracy:
+ 
+beamwidth:
+ 
+hits per scan:
+ 
+antenna rotation:
+5 or 6 rpm
+MTBCF:
+> 35 000 h
+MTTR:
+< 0.5 h",,,,,,,,"200 or 250 NM
+(≙   or 460 km)
+range resolution:
+ 
+accuracy:
+ 
+beamwidth:
+ 
+hits per scan:
+ 
+antenna rotation:
+5 or 6 rpm
+MTBCF:
+> 35 000 h
+MTTR:
+< 0.5 h",,,,,5 or 6 rpm,> 35 000 h,< 0.5 h
+karte041.en.html,SCR-24,"9.0 … 9.2 GHz
+	(X-Band)",,,50 µs,,,,,15 NM (≙ 28 km),60 m,30 m,1.2°,,,≥ 30000 h,
+karte042.en.html,PAR 2080 C,X-Band,,,,,,,,,< 100 m,,"β: < 1° ε: < 0,6°",,,3000 h,
+karte043.en.html,SCR-25,Ku-Band,,,,,,,,5500 m,10 m,"7.5 m, 0.25°",,,60 rpm,> 30000 h,
+karte044.en.html,ASR-23,1 250 … 1 350 MHz,,,1 and 100 μsec,,,23 kW,,80 NM,,,1.25°,,12 or 10 rpm,30 000 hr,
+karte045.en.html,SCR-21,2 700 … 2 900 MHz,,,,,,15 kW (8 modules),,70 NM (≙ 130 km),200 m,100 m; 0.25°,1.5°,,7.5 or 15 rpm,≥ 30 000 hrs,
+karte046.en.html,KUŞRAD,,S-Band,,500; 600; 1100 Hz,"1,2;   0,6;   0,2 μs",,,60 kW,,40 km,< 20 m,,"β: 1.8°, ε: 20°",,26 rpm,,
+karte047.en.html,AN/TPN-31,S-Band,,,,,,,,25 NM(≙ 46 km),,,1.8°,,15 rpm,,
+karte048.en.html,AN/TPN-22,"9 000 … 9 200 MHz
+	(X-Band)",,1 200 Hz,0.8 µs,,,120 kW,,3 NM (≙ 5.5 km),,,,,,,
+karte049.en.html,AN/GPN-22,"9 000 … 9 200 MHz
+	(X-Band)",,3 500 Hz,"0.5, 1.0, 2 µs",,,300 kW,1 kW,20 NM (≙ 37 km),,"100 ft, 1°",β= 0.75°; ε= 1.45°,,,,
+karte050.en.html,ASR (NEC),"2 700 … 2 900 MHz
+	(S-Band)",,,1 and 80 µs,,,10 … 50 kW,,"60 NM (≙ 110 km) or
+	80 NM (≙ 150 km)",,≦150 m; ≦1.5°,1.3°,,15 rpm,,
+karte051.en.html,CGA-2000,,X-Band,,,,,,,,30 NM,,,,,60 rpm,2212 hrs,0.25 hrs
+karte052.en.html,Scanter 4000,"9 000 … 9 200 MHz
+	(X-Band)",,,80 ns … 100 μs,,,6 kW,,42.5 NM (≙ 64 km),,,,,12 … 20 min⁻¹,,
+karte053.en.html,Shoghi PSR,S-Band,,,,,,,,,,,,,,,
+karte054.en.html,ASDE-X,X-Band[2],,4 kHz,1 and 100 µs,,,60 W,,,,,0.4°,,60 min⁻¹,,
+karte055.en.html,SR-3,"9.0 … 9.2 GHz
+	(X-Band)",,16 384 Hz,,,,75 W,,,,,0.35°,,60 min⁻¹,,
+karte056.en.html,Merlin,S & X-Band,,,,,,,,2 … 4 NM(≙ 3.4 … 7.5 km),,,,,,,
+karte057.en.html,Indra SMR,"9.0 … 9.5 GHz
+	(X-Band)",,,,,,,5 W,6 km,,,< 0.4º,,60 min⁻¹,,
+karte058.en.html,ASR-22AL,"1 250 … 1 350 MHz
+	(L-Band)",,,1.5 µs; 19.5 µs;42 … 132 µs,,,,,100 km,250 m,100 m; 0.4°,5°,,,,
+karte059.en.html,RSP-6M,,UHF-Band,2 000 µs,500 Hz,1.2 µs,,,180 kW,,135 km,400 m,200 m; 1°,2.5°,,10 min⁻¹,,
+karte060.en.html,Mars-L,"1 250 … 1 350 MHz
+	(L-Band)",,,"1,5 and (19.5 or 63) µs",,,1.8 kW,,80 NM (≙ 150 km),230 m,150 m; 0.4°,,,6 min⁻¹,5 000 h,30 min
+karte061.en.html,Utes-A and Utes-T,,"1 240 … 1 350 MHz 
+	(L-Band)",,,80 µs; 1.6 µs,,,,,160 km,250 m,150 m; 0.15°,1.5°,,12 min⁻¹,10 000 h,0.5 h
+karte062.en.html,Scanter 5202,X-Band,,,,,,,,18 km,,,,,,,
+karte063.en.html,Theia,,1.25 GHz (L-Band),,,,,,,,5 NM(≙ 9 km),,,,,,,
+karte064.en.html,RSP-27,,L-Band,,,,,,,,110 km,,,,,10 min⁻¹,,
+karte065.en.html,ARLK “Ural”,"2 700 … 2 900 MHz
+	(S-Band)",,,1 and 75 µs,,,7 or 14 kW,,100 km,,,1.3°,,,,
+karte066.en.html,MGR,S-Band,,830 Hz (average),,,,15 kW,,60 NM (≙ 110 km),< 200 m,,2°,,12 min⁻¹,,
+karte067.en.html,Atlantika SMR,"33,5 … 34,1 GHz
+	 (K-Band)",,,55 or 125 ns,,,6 kW,,,10 m,,0.25°,,60 min⁻¹,,
+karte068.en.html,PSR 2D,"2.7 … 2.9 GHz
+	(S-Band)",,700 … 1 300 Hz(830 Hz average),1.2 and (60 … 98) µs,,,18 … 22 kW,,"60 NM (≙ 111 km)
+	 80 NM (≙ 148 km)
+	100 NM (≙ 185 km)",200 m,,1.35º,,10/12/15 min⁻¹,45 000 h,20 min
+karte069.en.html,AMI 2700,"2.7 … 2.9 GHz
+	(S-Band)",,,,,,,,86 NM (≙ 160 km),225 m,60 m; 0.1°,1.39°,,… 15 min⁻¹,100.000 hrs,30 min
+karte070.en.html,Robin Radar Max®,"9 650 MHz
+	(X-Band)",,,,,,,20 W,15 km,,,,,60 min⁻¹,,
+karte071.en.html,Robin Radar 3D Flex,S-Band,,,,,,60 kW,,10 km,,,,,46  min⁻¹,,
+karte072.en.html,Robin Radar Iris®,X-Band,,,,,,,2 × 12 W,5 km,,,,,30 min⁻¹,,
+karte073.en.html,ASR-1000L,"1 215 … 1 365 MHz  
+	(L-Band)",,,200 µs,,,6 or 12 kW,,60 or 80 NM(≙ 110 or 148 km),<100 m,,,,15 or 12 min⁻¹,,
+karte074.en.html,D-RAPCON,"2.7 … 2.9 GHz
+	(S-Band)",,,5 µs and 120 µs,,,11 kW,,60 NM (≙ 110 km),,,,,12.5 rpm,> 1 300 h,
+karte075.en.html,ATCR-33S-NG,"2 700 … 2 900 MHz
+	(S-Band)",,,"1 or 10 µs
+10/100/150 µs",,,10 … 17 kW,,60/80/100 NM(≙ 110/150/185 km),,,,,15/12/10 rpm,40 000 h,20 min
+karte076.en.html,AORL-85,,1 216 … 1 278 MHz,,,24 µs,,,35 kW,450 W,60 NM (≙ 110 km),250 m,250 m,2.1°,,9 … 11 rpm,1 000 h,60 min
+karte077.en.html,EASAT PSR,"2 700 … 2 900 MHz
+	(S-Band)",,,1 µs and 40 … 300 µs,,,16 or 28 kW,,60 … 120 NM(≙ 110 … 220 km),230 m,50 m ; 0.1°,< 2°,,6 … 15 rpm,,
+karte001.en.html,HARD 3D,"8 800 … 9 300 MHz
+	(X-Band)",,,,,,65 W,8 W,20 km,"50 m; 0,5°",,,,40 rpm,,
+karte002.en.html,ARTHUR,5.4 - 5.9 GHz,,,,,,,,25 NM,,,,,,,
+karte003.en.html,COBRA,C-Band,,,,,,,,,,,"β=1,8° ε=1,4°",,,,
+karte004.en.html,Surveillance radar “Giraffe AMB”,5.4 … 5.9 GHz,,,,,,,,100 km,,,,,,,
+karte005.en.html,RAC 3D “Flamingo”,G/H-Band,,,,,,,,100 km,15 m,,,,2 or 3 seconds,,
+karte006.en.html,TRM-S,G-Band,,,,,,,,110 NM,,,,,2.25 s to 4.44 s,,
+karte007.en.html,TRML-2D,G-Band,,,,,,,,32 NM,,,,,,,
+karte008.en.html,TRML-3D,G-Band,,,,,,,,130 NM,,,,,,,
+karte009.en.html,AN/TPQ-36 Firefinder weapon locating radar,X-Band,,,,,,23 kW,,24 km,,,,,
+karte010.en.html,AN/TPQ-37 Firefinder weapon locating radar,S-Band,,,,,,120 kW,,50 km,,,,,
+karte011.en.html,AN/MPQ-64 “Sentinel”,X-Band,,,,,,,,40 km (upgraded:75 km),,,,,"15 rpm ,virtual: 30 rpm (with electronic back-scan)",,
+karte012.en.html,Blindfire tracking radar,F-Band,,,,,,,,max. 32 km (height: max. 5 km),,,,,,,
+karte013.en.html,AN/TPQ-37 Firefinder weapon locating radar,S-Band,,,,,,,,60 km,,,,,
+karte014.en.html,76N6 Low Altitude Acquisition Radar,I-Band,none (FMCW-radar),1.4 kW,120 km,4 km,1°,,
+karte015.en.html,X-Band,,,,,,,,100 km,,-10° to +55°,,,,,
+karte016.en.html,L-Band,,,,,,,,"7,000 m",,,,,,,
+karte017.en.html,S-Band,,,,,,,,,,,,,,,
+karte018.en.html,Aslesha,X-Band,,,,,,,,50 km,,,,,,,
+karte019.en.html,ELM-2140NG - AGSR,X-Band,,,,,,25 W,,60 km,,,0.4° ; 50 m,,,,
+karte020.en.html,Serhat,L-Band,,,,,,,,6 km,,,,,,,,
+karte021.en.html,Giraffe 4A,S-Band,,,,,,,,"280 km (air targets)
+	100 km (mortar radar)",,,,,30 or 60 rpm,,,
+karte022.en.html,Giraffe 1X,X-Band,,,,,,,,75 km,,,,,60 rpm,,
+karte023.en.html,PSTAR,"1.22 … 1.46 GHz
+	(L-Band)",,,,,,1 kW,50 W,20 km,,,±200 m; 2°,,10 or 20 rpm,,1 000 hrs,15 min
+karte024.en.html,CLC-3,(S-Band ?),,,,,,,,> 80 km,,,,,,,
+karte025.en.html,SLC-2,S-Band,,,,,,45 kW,,50 km,,0.35% or 35 m,,,,,
+karte026.en.html,YLC-15,S-Band,,,,,,,,20 km,,,,,,500 hrs,0.5 hr
+karte027.en.html,Bharani,L-Band,,,,,,400 W,,50 km,120 m,30 m; 0.5°,6°,,,1000 hrs,< 30 min
+karte028.en.html,1L277,J-Band,,,,,,,,20 km,10 m,10 m; 0.18°,"4,5°",,,,
+karte029.en.html,TRS 2620 « Gerfaut »,S-Band,,,,,,,,14 km,175 m,25 m; 0.4°,1°,,40 rpm,1 850 hrs,
+karte030.en.html,PAGE,Ku-Band,,,,,,,20 W,20 km,100 m,,,,10 … 20 rpm,,
+karte031.en.html,TPS-830KE,X-Band,,2 500 Hz(average),0.2 - 7 μs,,,8 kW,140 W,40 km,,,1.5º,,30 rpm,,
+karte032.en.html,Askarad,X-Band,,,,,,5 kW,,38 km,,±10 m; 0.12°,,,,,
+karte033.en.html,Ground Master 60,C-Band,,,,,,,,80 km,,,,,,,
+karte034.en.html,BFSR-SR,J-Band,,,,,,,5 W,10 km,,,,,,,
+karte035.en.html,Arabel,X-Band,,,,,,150 kW,,100 km,,,2°,,60 min⁻¹,,
+karte036.en.html,1L271,J-Band,,,,,,,,20 km,,,,,,,
+karte037.en.html,ELM-2106 NG,L-Band,,,,,,400 W,,80 km,,30 m; 0.5°,,,,,
+karte038.en.html,Swathi,C-Band,,,,,,40 kW,,,,,,,,,
+karte039.en.html,JMPQ-P13,X-Band,,,,,,,,15 km,,,,,,,
+karte040.en.html,JMPQ-P7,X-Band,,3 600 Hz,2 µs,,,250 kW,,30 km,,100 m; 0.17°,,,,,
+karte041.en.html,JTPS-P16,S-Band,,,,,,,,40 km,,,,,,,
+karte042.en.html,Saber M60,L-Band,,,,,,,,60 km,,50 m; 2°,,,15 min⁻¹,,
+karte043.en.html,Biskvit-KB,L-Band,,,,,,,,20 km,,,,,,,
+karte044.en.html,YLC-48,L-Band,,,,,,,,20 km,,,,,,,
+karte045.en.html,MVRS-700,"10.4 … 10.6 GHz
+	(X-Band)",,,,,,300 mW,,25 km,,,β= 10° ;ε= 20°,,,> 10 000 hrs,
+karte046.en.html,1L122,L-Band,,,,,,,,40 km,,100 m,,,15 or 30 rpm,,
+karte047.en.html,BR 2140,X-Band,,,,,,25 W,,40 km,,,,,,,
+karte048.en.html,Reporter,X-Band,,,,,,,,40 km,,,,,,,
+karte049.en.html,JY-17,X-Band,,,,,,,,,,,,,,,
+karte050.en.html,Arine,Ku-Band,,5 or 5.5 kHz,0.12; 0.33; 10 or 20 µs,,,< 7 W,,24 km,50 m,,2.1º,,,1 000 hrs,
+karte051.en.html,AN/TPQ-47,S-Band,,,,,,,,300 km,,,β= 0.9° ;ε= 0.6°,,,,
+karte052.en.html,AN/TPQ-50,"1 250 … 1 350 MHz
+	(L-Band)",,,,,,,,15 km,,50 m,,,,,
+karte053.en.html,AMMR,S-Band,,,,,,,,20 km,,,,,,,
+karte054.en.html,STR,S-Band,,,,,,,,100 km,,,,,,,
+karte055.en.html,MAR,X-Band,,,,,,,,70 km,,,,,10 … 60 min⁻¹,,
+karte056.en.html,1L220-U,F-Band,,,,,,40 kW,,80 km,,,,,,,
+karte057.en.html,1RL144,Hot Shot,S-Band,,,,,,10 kW,,20 km,,20 m; 1°,,,,,
+karte058.en.html,BYSTRA,C-Band,,,,,,,,80 km,,,,,30 rpm,,
+karte059.en.html,X-TAR3D,X-Band,,,,,,,,30 or 50 km,,,,,40 rpm,,
+karte060.en.html,ELM-2026BF,X-Band,,,,,,,,40 km,,,,,,,
+karte061.en.html,ELM-2311 C-MMR,C-Band,,,,,,,,250 km,,,,,,,
+karte001.en.html,SharpEye™ SxV,9.2 … 9.5 GHz (X-Band),,,,,,up to 80 W,,44 km,45 m,,"β: < 4°, ε: 25°",,,,
+karte002.en.html,Blighter Radar,"15.7 … 17.2 GHz
+	(Ku-Band)",FMCW-radar,1 or 4 W,"2, 5, 8, 16 or 32 km",,,"5°, 10° or 20°",90 degrees,,
+karte003.en.html,BOXER ground surveillance radar,9.0 … 9.5 GHz,,,,,,50 W,,"3, 6, 12, 24, 48 km",40 m,,2 degrees,,3 s,,
+karte004.en.html,BOR-A 550,I-Band,,,,,,,,40 or 80 km,40 m,,2.7 Degrees,,,2 000 h,
+karte005.en.html,SPEXER™ 2000,X-Band,,,,,,,,40 km,,,,1 … 3 (monopulse),,,
+karte006.en.html,ART Midrange High-Resolution Ground Surveillance Radar,Ku-Band,(FMCW Radar),,5000 m,0.2 to 1 m,,,60 rpm,,
+karte007.en.html,RPS-42,S-Band,,,,,,,350 W,50 km,,,,,,,
+karte008.en.html,Squire,X-Band,,,,,,,1 W max.,48 km,5 m,≤ 5 m ; ≤ 5 mils,,,,,
+karte009.en.html,MSTAR (V6),"Ku-Band
+(6 selectable frequencies)",,,,,,5 W,,100 m to 27 km,,,,,,,
+karte010.en.html,Ranger R20SS,X-Band,,,,,,,,20 – 30 000 m,,,,,,,
+karte011.en.html,ARGOS 30VS,X-Band,,,,,,,,,,,,,,,
+karte012.en.html,Scanter 1002,Ku-Band,,,,,,8 W,,12 km,,< 5 m; < 2°,,,12 to 60 rpm,,
+karte013.en.html,ACAR,Ku-Band,,,,,,,,40 km,,,,,,,
+karte014.en.html,R6SS,X-Band,,,,,,,,15 km,,± 2 m; < 0.2 degrees,,,,,
+karte015.en.html,Lyra 10,X-Band,,,,,,,1 W,24 km,9 m,,3°,,,,
+karte016.en.html,Retinar PTR®,Ka-Band,,,,,,1.5 W,,12 km,3 m,0.2°,2°,,,,
+karte017.en.html,RSR 904,,,,,,,,,20 km,,,,,,,
+karte018.en.html,Ground Observer 80,X-Band,,,,,,,,80 km,,,1.4°,,,,
+karte019.en.html,ARS,"77 GHz
+	(M-Band)",,,,,,,,1 600 m,25 cm,,1°,,36 min⁻¹,,
+karte020.en.html,Spexer 500 and Spexer 1000,,X-Band,,,,,,,4 W,4.8 NM(≙ 9 km),,,,,,,
+karte021.en.html,Ranger R5,Ka-Band,,,,,,,,5 km,0.7 m,,1°,,60 min⁻¹,,
+karte022.en.html,Fortem Trueview™ R20,K (?)-Band,,,,,,,,,,,,,,,
+karte023.en.html,SR Hawk™,"16.21 … 16.50 GHz
+	(Ku-Band)",,,,,,,,48 km,,10 m ; 0.2°,θβ= 1.9° ;θε= 3.8°,,,,
+karte024.en.html,Gamekeeper 16U,"1.25 GHz
+	(L-Band)",,,,,,2 kW,,5 km,,,,,,,
+karte025.en.html,ELM-2105,X-Band,,,,,,10 W,1 W,up to 10 km,4 or 8 m,0.5 m,10°,,4 or 5 min⁻¹,> 10 000 hrs,
+karte026.en.html,Foxtrack,X-Band,"20, 200, 2000 mW",24 km,,±3 m; ≤ 0.3°,,8 or 16 min⁻¹,>10 000 hrs,
+karte027.en.html,ONESAR,Ku-Band,,,,,,,,,,,,,,,
+karte028.en.html,ELM-2127,"10.4 GHz ±0.1 GHz
+	(X-Band)",,,,,,700 mW,70 mW,3 000 m,4 m,1 m; 1.5°,15°,,,,
+karte029.en.html,RS24,"24.05 … 24.25 GHz
+	(K-Band)",,,,,,,1 mW (100 mW EIRP),1 500 m,0.75 m,,1.4°,,60 min⁻¹,,
+karte030.en.html,1L111M “Fara-VR”,J-Band,,,,,,,,10.2 km,,,,,,5000 hrs,
+karte031.en.html,AN/PPS-6,"9.0 … 9.5 GHz
+	(X-Band)",,1 800 … 2 200 Hz,0.26 µs (±0.04 µs),,,100 W,,3 000 m,,,7°,,,,
+karte032.en.html,JPPS-P24,X-Band,,,,,,,,,,,,,,,
+karte033.en.html,Rosa,X-Band,,,,,,,400 mW,15 km,15 m,,4.5°,,,,
+karte034.en.html,LIS-2M,"36 GHz
+	(Ka-Band)",,,,,,,1 W,,,"25 m, 1°",,,,,
+karte035.en.html,LIS-3M,Ka-Band,,,,,,15 W,10 W,12 km,,25 m; 1°,,,,,
+karte036.en.html,X-Band,,,,,,,,45 km,,,,,15 rpm,,
+karte037.en.html,A800 3D,"15.7 … 17.2 GHz
+	(Ku-Band)",,,,,,,4 W,20 km,,,,,,65 000 hrs,
+karte038.en.html,Scan-360,"24 050 … 24 250 MHz
+	(K-Band)",,None (FMCW radar),,,,,100 mW (EIRP),200 m,,,,,60 rpm,,
+karte039.en.html,Scan-Sector,"24.00 … 24.25 GHz
+	(K-Band)",,,,,,,,200 m,,,,,,,
+karte040.en.html,Spexer® 360 Enhanced,"9.22 … 9.38 GHz
+	(X-Band)",,,,,,80 W,,12 km,28 m,5 m; 0.8°,≤ 4.1°,,,50 000 hrs,
+karte001.en.html,Green Pine,"500 … 1000 MHz
+	(UHF-Band)",,,,,,,,,,,,,,,
+karte003.en.html,Patriot Radar AN/MPQ-53,G/H-Band,,,"0.4, 1.3, 2.0, 2.7 or 50 µs",,,10 kW,,170 km,,,,,
+karte004.en.html,Dagger target acquisition and surveillance radar,J-Band,,,,,,,,"32 km range, 5 km height",,,,,30 or 60 rpm,,
+karte005.en.html,30N6E “Flap Lid”,I/J-Band,,,,,,,,300 km,,,,,,,
+karte006.en.html,92N6E “Grave Stone”,I/J-Band,,,,,,,,,,,,,,,
+karte007.en.html,AN/MPQ-65,C-Band,,,,,,,,100 km,,,,,,,
+karte008.en.html,TRS 3207 Crotale,,S-Band,,,,,,,,18.5 km,,,,,60 min⁻¹,,
+karte009.en.html,5N62V,C-Band,,,,,,,3 kW,180 … 300 km,,,0.7° or 1.4°,,,5 000 hrs,
+karte010.en.html,1S32 “Pat Hand”,C-Band,,,,,,750 kW,,130 km,,,1°,,,,
+karte011.en.html,1S91 “Straight Flush”,,C-Band,,,,,,600 kW,,75 km,,,1°,,15 or 20 min-1,,
+karte012.en.html,Flycatcher,,9 200 MHzI-Band,,4 800 Hz,0.2 µs,,,160 kW,,20 km,30 m,,1.1°,,40 min⁻¹,,
+karte013.en.html,91N6,"2.9 … 3.3 GHz
+	(S-Band)",,,,,,,,600 km,,"200 m, 0.5°",,,5 or 10 min⁻¹,,
+karte014.en.html,64N6E,"2.9 … 3.3 GHz
+	(S-Band)",,,,,,,,,,200 m; 0.5°,,,6 or 12 min⁻¹,,
+karte015.en.html,9S32,X-Band),,,,,,150 kW,,250 km,,,0.5°,,,,
+karte016.en.html,9S19M,X-Band,,,,,,,16 kW,95 NM (≙ 176 km),,,0.5°,,,,
+karte017.en.html,Rajendra,C-Band,,,,,,70 kW,,80 km,,,,,,,
+karte018.en.html,Eagle,Ka-Band,,,,,,20 W,,20 km,,"0,01°",,,,,
+karte001.en.html,AN/SPQ-9B,X-Band,,,,,,1.2 kW,,10 NM,,,1°,,2 s,,
+karte002.en.html,AN/SPS-49 Radar,,850 to 942 MHz,,"280, 800 or 1000 Hz",120 µs ; 2µs,,,280 kW,12 kW,250 NM,0.16 NM,0.03 NM; 0.5°,3.3°,,6 or 12 rpm.,,
+karte003.en.html,AN/SPY-1,E/F-Band,,,,,,4 to 6 MW,58 kW,,,,1.7 degrees,,none (fixed antenna),,
+karte004.en.html,Type 1007 Naval/coastal surveillance and navigation radar,9 410 MHz,,,,,,25 kW,,300 km,,,0.75°,,,,
+karte005.en.html,LW 08 “Jupiter”,D-Band,,500 or 1000 Hz,,,,150 kW,5 kW,140 NM (≙ 270 km),0.5 NM,,2.2°,15 to 20,7.5 or 15 rpm.,,
+karte006.en.html,SMART-L Radar,D-Band,,,,,,,,250 NM (≙ 460 km),,,2.2 degrees,,12 rpm.,,
+karte007.en.html,SMART-S,F-Band,,,,,,145 kW,,55 NM (≙ 100 km),0.5 NM,,2 degrees,,2.22 seconds (27 rpm.),,
+karte008.en.html,TRS-3D,G-Band,,,,,,,,200 km,,"< 20 m; β: < 0,24°; ε: < 1,3°",,,"10, 17, 20 or 60 rpm",> 3 000 h,"< 0,5 h"
+karte009.en.html,Variant,I- and G-Band,,3 - 9 kilohertzes,"4.5, 12.8 and 16 microseconds",,,200 watts,,40 or 50 NM,,,"1,2° …	1,8 degrees",,14 and 28 rpm.,,
+karte010.en.html,AN/SPS-48E,,2 900 … 3 100 MHz,,330 - 2250 pps,9 or 27 µs,,,"2,2 MW",35 kW,400 km,475 m,,1.5° * 1.6°,15 rpm,,
+karte011.en.html,Active Phased Array Radar APAR,I-Band,,,,,,,,150 km,,,,(monopulse),,
+karte012.en.html,JRC Radar 3000,9 445 MHz ±30 MHz,,2250 Hz / 1500 Hz / 750 Hz,0.08 µs / 0.35 µs / 0.7 µs,,,4 kW,,0.75 NM / 6 NM / 24 NM,,,"β=6°, ε=25°",,24 … 27 rpm,,
+karte013.en.html,SharpEye™ Naval Radar Transceiver,"I- and 
+	E/F-Band",,350 … 3000 Hz,50 … 400 ns,,,200 W,20 … 25 W,,,,1.8 degrees,,"12, 24 or 46 rpm",,
+karte014.en.html,Broadband Radar BR24,"9.3 … 9.4 GHz
+	(X-Band)",1 ms ±10%,200 Hz,65 MHz,100 mW,50 m to 45 km,< 1 m,5.2° ±10%,30° ±20%,≤ -18 dB,24/36/48 rpm ±10%,,
+karte015.en.html,INDERA MX-2 & MX-3 Radars,X-Band,0.5 ms,2 kHz,60 MHz,0.1 … 5 W,20 NM (≙ 37 km),0.9 … 72 m,1.6°,20°,< 20 dB,20 rpm max.,,
+karte016.en.html,AN/SPS-40 Surface Search Radar,"402.5 … 447.5 MHz
+	(UHF-Band)",,ø 257 Hz (staggered)300 Hz (non-staggered),"60 µs (long-range mode) 3 µs (short range mode)
+	compressed to 1 µs (or 0.6 µs)",,,200 - 255 kW,2 kW,370 km,90 m,,"β=10.5°, ε=19°",,"7.5 or 15 rpm
+	(6 rpm in SPS-40 and -40A)",,
+karte017.en.html,Type 1022,1 215 … 1 400 MHz,,,,,,150 kW,5 kW,225 NM (≙ 416 km),,,2.3°,,6 … 8 rpm,,
+karte018.en.html,AN/SPS-55,9.05 − 10 GHz(X-Band),,750 pps,1 μsec,,,130 kW,,190 km,200 m,43 m,1.5 degrees,,16 rpm,,
+karte019.en.html,Kronos 3D,C-Band,,,,,,,,250 km,,,,,60 rpm,> 2000 h,< 0.75 h
+karte020.en.html,Artisan 3D,E/F-Band,,,,,,,,> 200 km,< 200 m,,,< 2.5 degrees,,30 rpm,> 4 500 h,< 0.5 h
+karte021.en.html,Type 996 Radar,E/F-Band,,,,,,,,,,,,,30 rpm,,
+karte022.en.html,LPI 2000,X-Band,,350 to 2500 Hz,0.05 to 93 μs,,,50 W or 100 W,"9,5 W (pulsed),down to 0,25 W (FMCW)",,15 … 30 m,,"1.2°, 
+	1.05°,
+	0.85°, or
+	0.65°",,"22 rpm. (IMO mode),11 rpm (SEARCH mode)",,
+karte023.en.html,ALPER Naval LPI Radar,X-Band,,,,,,,"1 W, 0.1 W, 10 mW, 1 mW
+	(selectable)",36 NM,,,,,>20 rpm,10 000 hrs,
+karte024.en.html,RM-100,X-Band,,,,,,,,0.25 to 48 NM,,"range: 1%,bearing: 1°",,,12-30 rpm,,
+karte025.en.html,Coast Watcher 100,X-Band,,,,,,up to 1.2 kW,,up to 100 NM (≙ 185 km),4 m,,0.6°,,6-10 rpm,1 year,
+karte026.en.html,Scout,J-Band,,,,,,from 3 mW up to 5 W,24 NM (≙ 45 km),6 m,3 m,1.4°,,"10, 20 or 40 rpm",,
+karte027.en.html,TRS-4D,G-Band,,,,,,,,250 km,,"15 m; β: 0,2°; ε: 0,5°",,,15 or 30 min⁻¹,,
+karte028.en.html,AN/SPS-73(V)12,X-Band,,,,,,,,,,,,,,,
+karte029.en.html,AN/SPS-64,"9 375 ± 25 MHz
+	(X-Band)",,"900, 1800, 3600 Hz","0.06, 0.5, 1 µs",,,"10, 25 and 50 kW",,64 NM (≙ 118 km),,,"0.7°, 0.9°, 1.25°, 1.9°
+	(depending on antenna size)",,33 rpm,,
+karte030.en.html,RSR 210 N,X-Band,,,,,,,,27 NM (≙ 50 km),,,,,,,
+karte031.en.html,SPS-95K,"5.45 … 5.825 GHz
+	(C-Band)",,2 400 Hz or 1 200 Hz or 750 Hz,0.12 µs or 0.25 µs or 1 µs,,,250 kW,,200 km,,,1.5º,,,600 h,0.75 h
+karte032.en.html,SPN-730 and BPN-730,X-band,,,,,,,,,1.5 m,,,,,,
+karte033.en.html,RAN-30X,X-Band,,,,,,,,,25 … 200 km,,1.2°,,"3, 15 or 30 rpm",,
+karte034.en.html,RAN-40L,L-Band,,,,,,,,400 km,,< 50 m; < 0.4°,,,6 or 12 rpm,≥ 1500 h,≤ 30 min
+karte035.en.html,SPN-732,X-Band,,,,,,,,16 NM (≙ 30 km),,,,,,,
+karte036.en.html,AN/SPS-67,5 450 … 5 825 MHz,,"750, 1200 or 2400 Hz","1 µs, 0.25 µs or 0.1 µs",,,280 kW,,56 NM (≙ 104 km),,,1.6°,,2 or 4 rpm,> 600 hrs,
+karte037.en.html,AN/SPS-52,"2 910 … 3 100 MHz
+	(E/F-Band)",,329 Hz,1 µs,,,330 kW,,240 NM (≙ 445 km),150 m,,1.1°,,5 rpm,,
+karte038.en.html,Sea Giraffe AMB,5.4 … 5.9 GHz,,,,,,25 kW,,180 km,,,,,30 or 60 rpm,,
+karte039.en.html,Lyra 50,X-Band,,,"0.1 µs, 2.5 μs, 30 … 60 µs",,,,5 W,48 km,9 m,,0.45°,,11 or 22 rpm,,
+karte040.en.html,AN/SPY-3,X-Band,,,,,,,,,,,,,,,
+karte041.en.html,AN/SPN-43,"3 500 … 3 700 MHz
+	(S-Band)",1000 µs,,0.95 (±0.05) µs,,,1 MW,1 kW,50 NM (≙ 93 km),,,1.5°,,15 rpm,,
+karte042.en.html,AWS-6,G-Band,,,5 µs,,,49 kW,1 kW,180 km,,50 m; 0.5°,1.5°,,10 … 60 rpm,,
+karte043.en.html,Dalyan,X-Band,,,,,,,"1 W, 0.1 W, 10 mW, 1 mW
+	(selectable)",36 NM (≙ 66 km),,,,,>20 rpm,10 000 h,
+karte044.en.html,AN/SPS-41,"9 375 MHz
+	(X-Band)",,"1600 Hz, 625 Hz","0.1 µs, 0.4 µs",,,7 … 10 kW,,32 NM (≙ 60 km),,,1.8°,,21 rpm,,
+karte045.en.html,AN/SPS-46,"9 345 … 9 405
+	(X-Band)",,"1 500 Hz, 750 Hz","0.2 µs, 0.4 µs",,,7 kW,,33 mi (≙ 51 km),,,2.2°,,18 rpm,,
+karte046.en.html,AN/SPG-55,"5 400 … 5 900 MHz
+	(C-Band)",,427 Hz,0.1; 12; 13 µs,,,1 MW,,148 NM (≙ 275 km),,,1.6°,,,,
+karte047.en.html,AN/SPG-62,X-Band,,,,,,,10 kW,,,,,,,9 000 hrs,
+karte048.en.html,AN/SPG-49,"5 400 … 5 900 MHz
+	(C-Band)",,,,,,3 MW,,150 NM (≙ 275 km),150 ft,0.025%; 0.25 mil,1.8°,,,30 hrs,
+karte049.en.html,AN/SPG-60,X-Band,,1800 and 3600 Hz,0.22; 0.45 µs,,,5.5 kW,,60 NM (≙ 111 km),,,1.2°,,60 rpm,,
+karte050.en.html,ELM-2258,S-Band,,,,,,,,65 NM (≙ 120 km),,,,,,,
+karte051.en.html,ELM-2221,"X, Ka-Band",,,,,,,,30 km,,,,,12 or 20 rpm,,
+karte052.en.html,ELM-2226,X-Band,,,,,,,5 W (50 W),100 km,,1 m,< 1.5°,,,>5000 h,
+karte053.en.html,Herakles,S-Band,,,,,,50 kW (100 kW),,250 km (300 km),,,,,60 rpm,,
+karte054.en.html,Type 346,"3.0 … 3.4 GHz
+	5.25 … 5.95 GHz",,,,,,,,150 NM (≙ 280 km),,,,,,,
+karte055.en.html,Quantum™,"9 354 … 9 446 MHz
+	(X-Band)",,2 083 … 4 167 Hz,400 ns … 20 μs,,,20 W,,24 NM (≙ 45 km),,,β= 4.9°;  ε= 20°,,24 rpm,,
+karte056.en.html,TRSS,X-Band,,,,,,,,> 40 km,,,,,,> 2000 hrs,
+karte057.en.html,5P27 “Furke” ,,E-Band,,,,,,,,60 km,150 – 200 m,50 m,3.2°,,30 rpm,850 hrs.,
+karte058.en.html,Swiss Radar PN II,"9 410 MHz ±30 MHz
+	(X-Band)",,"1, 2 or 3 kHz","0.05, 0.15, or 0.6 µs",,,4 kW,"0.6, 1.2 or 2.4 W",64 km,,,"0.8°, 1.05° or 1.2°",,28 min⁻¹,,
+karte059.en.html,RAN 20S,S-Band,,,,,,,,150 NM (≙ 278 km),,,,,,,
+karte060.en.html,Coastwatcher 10,X-Band,,,,,,50 kW,,40 NM (≙ 74 km),12 m,,0.75°,,18 … 22 min⁻¹,> 5 000 hrs,
+karte061.en.html,Magnum,X-Band,,,,,,4 kW,,72 NM(≙ 130 km),,,1.85° or 1.15°,,24 or 48 min⁻¹,,
+karte062.en.html,Scanter 6000,"9 250 … 9 500 MHz
+	(X-Band)",,max. 20 kHz,,,,200 kW,40 W,96 NM (≙ 178 km),12 m,,,,6 … 48 min⁻¹,,
+karte063.en.html,Humminbird HB2124,"9 354 … 9 446 MHz
+	(X-Band)",,,400 ns … 20 µs,,,20 W,,24 NM (≙ 44 km),6 m,,4.9°,,,,
+karte064.en.html,Simrad TX06S-1,X-Band,,,,,,6 kW,,64 NM (≙ 120 km),,,1.8°,,27 min⁻¹,,
+karte065.en.html,Simrad HALO,,X-Band,,500 … 2 000 Hz,2 … 96 µs,,,25 W ±10%,,48 NM(≙ 90 km),,,2.4°,,24 … 48 min⁻¹,,
+karte066.en.html,AN/SPX-6(V) AMDR,"S-Band and
+		X-Band",depending on softwareand configuration,,
+karte067.en.html,MRR-3D NG,G-Band,,,,,,,,180 km,,,,,10 or 30 min⁻¹,,
+karte068.en.html,STIR,X-Band,,1 800 or 3 600 Hz,,,,220 kW,,120 … 512 km,,,1.4°,,,,
+karte069.en.html,Furuno M1835,"9 410 ±30 MHz
+	(X-Band)",,,,,,4 kW,,36 NM (≙ 66 km),,,4°,,24 min⁻¹,,
+karte070.en.html,Furuno M1935,"9 410 ±30 MHz
+	(X-Band)",,,,,,4 kW,,48 NM (≙ 89 km),,,2.4°,,24 or 48 min⁻¹,,
+karte071.en.html,Furuno M1945,"9 410 ±30 MHz
+	(X-Band)",,,,,,6 kW,,64 NM (≙ 118 km),,,1.9°,,24 or 48 min⁻¹,,
+karte072.en.html,Simrad TX10S-1,X-Band,,,,,,10 kW,,72 NM (≙ 133 km),,,1.2°,,27 min⁻¹,,
+karte073.en.html,MW 08,G-Band,,,,,,50 kW,,80 NM (≙ 148 km),90 m,"40 m, 0.25°",2°,,27 min⁻¹,,
+karte074.en.html,DA 08,,F-Band,,500 … 1 000 Hz,"1, and 34 or 68 µs",,,145 kW,5 kW,104 NM(≙ 193 km),90 m,,1.55°,,10 … 20 min⁻¹,,
+karte075.en.html,Score coastal radar,X-Band,,,,,,,,130 km,3 m,,0.55º,,11 min⁻¹,,
+karte076.en.html,Sea Master 400,E/F-Band,,,,,,,,250 km,,,,,,,
+karte077.en.html,RTN-10X „Orion“,I-Band),,,,,,,,40 km,,,,,,,
+karte078.en.html,RTN-20X “Orion”,,J-Band,,,,,,,10 km,,,,,,,,
+karte079.en.html,RTN-30X “Orion”,I-Band,,,0.5 or 6.5 µs,,,12 kW,,45 km,,,,,,,
+karte080.en.html,LIROD,"35 GHz
+	(K-Band)",,6 kHz,0.4 or 16 µs,,,,100 W,24 km,,,β= 1.5°; ε= 0.55°,,,,
+karte081.en.html,Castor 2,X-Band,,,4 µs,,,80 kW,,25 km,,,,,,,
+karte082.en.html,S 1850 M,L-Band,,,,,,132 kW,5 kW,400 km,,,,,,,
+karte083.en.html,TRS 3405,X-Band,,570 … 1 080 Hz,0.05 µs,,,200 kW,,120 km,7.5 m,,0.24º,,5 or 10 min⁻¹,,
+karte084.en.html,S 1830,,"2.8 … 3.1 GHz
+		(S-Band)",,,18 µs,,,,,200 km,,,,,10 or 20 min⁻¹,,
+karte085.en.html,DP-RDR-8035,X-Band,,,,,,,,100 km,,,,,1 … 10 min⁻¹,,
+karte086.en.html,Çafrad,S-Band,,,,,,,,450 km,,,,,,,
+karte087.en.html,AWS-4,"2.7 … 3.1 GHz
+	(S-Band)",,,1.0 and 0.3 µs,,,62 kW,,60 NM (≙ 110 km),,,,,10 or 20 min⁻¹,,
+karte088.en.html,Type 1048,S-Band,,,,,,,,,,,,,,,
+karte089.en.html,AWS-10,S-Band,,,,,,2 kW or 15 kW,,100 NM (≙ 185 km),,0.35°,1.65°,,15 min⁻¹,> 4000 h,< 30 min
+karte090.en.html,DRBC 33,X-Band),,,,,,30 kW,,,,,,,,,
+karte091.en.html,MR-750 “Top Plate”,D/E-Band,,,,,,,,150 or 300 km,,"120 m, 0.25°",,,12 or 6 min⁻¹,,
+karte092.en.html,MR-302 “Strut Curve”,F-Band,,,,,,,,278 km,,,,,,,
+karte093.en.html,"KR 1008, KR 1068",,"9 410 ±30 MHz
+		(X-Band)",,2 100; 1 200; 600 Hz,0.08; 0.3; 0.8 µs,,,4 kW,,36 NM (≙ 66 km),,,4°,,24 min⁻¹,,
+karte094.en.html,SBS-900,X-Band,,,,,,,,,,,,,,,
+karte095.en.html,DRBR 51,G-Band,,,,,,,,,,,,,,,
+karte096.en.html,DBRI 23,L-Band,,,,,,,,,,,,,,,
+karte097.en.html,DRBJ 11,S-Band,,,,,,,,360 km,,,,1 … 2,15 min⁻¹,,
+karte098.en.html,9GR-600,"8.5 … 9.6 GHz
+	(I-Band)",,,,,,,,30 NM (≙ 55 km),,,2.4°,,0.5 … 20 min⁻¹,,
+karte099.en.html,Sea Tiger,S-Band,,2 200 or 1 100 Hz,5.5 or 12 µs,,,60 kW,1 kW,72 NM (≙ 133 km),,,1.65°,,12 or 24 min⁻¹,,
+karte100.en.html,BridgeMaster E,3 050 MHzS-Band,,1 760 or 785 Hz,"0.05, 0.25 or 0.75 µs",,,30 kW,,96 NM (≙ 192 km),,,2°or 2.8°,,28 or 45 min⁻¹,,
+karte001.en.html,VisionMaster FT,3 050 MHzS-Band,,"3 000, 1 800 or 785 Hz","0.05, 0.25 or 0.75 µs",,,30 kW,,96 NM (≙ 192 km),,,2°or 2.8°,,28 or 45 min⁻¹,,
+karte002.en.html,NS100,S-Band,,,,,,,,280 km,,,,,15 or 30 min⁻¹,2 100 h,
+karte003.en.html,SHN X12,"9.2 GHz
+	(X-Band)",,,,,,2×25 kW,,,,,,,,,
+karte004.en.html,SBS-700,X-Band,,,,,,25 kW,,,,,,,,,
+karte005.en.html,Type 911,X-Band,,,,,,,,18 NM (≙ 33 km),,,,,,,
+karte006.en.html,3Ts-25E,X-Band,,800 Hz,3 µs,,,200 kW,,76 NM (≙ 141 km),40 m,,1°,,12 min⁻¹,,
+karte007.en.html,Maars,"5.2 … 5.8 GHz
+	(C-Band)",,,,,,,,200 km,,,1.6°,,12; 30; 60 min⁻¹,,
+karte008.en.html,Neva-B,"33.85 ± 0.25 GHz
+	(Ka-Band)",,3.5; 1.25; 0.8 kHz,0.03; 0.2; 0.6 µs,,,12 kW,,45 km,,,0.23°,,10 … 60 min⁻¹,,
+karte009.en.html,Furuno DRS4D-NXT,"9 380 … 9 440 MHz
+	(I-Band)",,1100 Hz,0.08 … 1.2 ; 5 … 18 µs,,,25 W,,36 NM (≙ 67 km),,± 1°,3.9°,,24 min⁻¹,,
+karte010.en.html,JMA-610,"9 410 ± 30 MHz 
+	(X-Band)",,"4, 2, 1 kHz","0.05, 0.1, 0.3, 0.6 µs",,,4.9 … 6 kW,2.4 W,32 km,< 15 m,1.5%,1° (7 ft-antenna),,"26, 36 or 48 min⁻¹",,
+karte011.en.html,SeaEagle 200N,"9 300 … 9 500 MHz
+	(X-Band)",,350 … 5 000 Hz,0.05 … 93 µs,,,200 W,,32 NM (≙ 60 km),,10 m (or 1%),1.25°; 1.05°; 0.85°,,16 … 42 min⁻¹,160 000 hrs,
+karte012.en.html,CBAAR,C-Band,,,,,,,,,,,,,,,
+karte013.en.html,Type 1047,X-Band,,,,,,,,48 NM (≙ 89 km),,,,,,,
+karte014.en.html,Revathi,"3.1 … 3.5 GHz
+	(F-Band)",,,,,,120 kW,,220 km,200 m,,,,"6, 12, 24 min⁻¹",,
+karte015.en.html,ASR (Naval Radar),L-Band,,,,,,,,>110 NM (≙ 200 km),,,,,6 min⁻¹,,
+karte016.en.html,TRS-4D Fixed Panel,C-Band),,,,,,,,162 NM (≙ 300 km),,,,,,1 000 hrs,0.5 hr
+karte017.en.html,LCR-2020,"5.25 … 5.925 GHz
+	(C-Band)",,,,,,,,100 NM (≙ 185 km),,,,,,,
+karte018.en.html,CRM-203,"9.3 … 9.5 GHz
+	(X-Band)",,,,,,,1 mW … 2 W,48 NM (≙ 89 km),,50 m; 0.1°,0.7°,,12 or 30 min⁻¹,,
+karte019.en.html,LD 1500,,"9 410 ±30 MHz
+	(X-Band)",,500 … 3200 Hz,50 … 1200 ns,,,4 kW,,64 NM(≙ 118 km),,,1.8° … 1.1°,,22 min⁻¹,,
+karte020.en.html,SkyFender AMSR,X-Band,,,,,,,,,,,,,,,
+karte021.en.html,Dorado,"9.41 GHz
+	(X-Band)",,,,,,,0.2 or 0.4 W,23 NM (≙ 43 km),2 m,,3° … 5°,,24 or 50 min⁻¹,,
+karte022.en.html,MR-231,"9 410 ± 30 MHz
+	(X-Band)",,2.8; 1.4; 0.7 kHz,0.06; 0.35; 0.8 µs,,,4; 10 or 25 kW,,48 NM (≙ 89 km),,,,,15 min⁻¹,,
+karte023.en.html,MR-231 S,"3 050 ± 10 MHz
+	(S-Band)",,,,,,30 kW,,96 NM (≙ 178 km),,,2°,,,,
+karte024.en.html,Rapan,"9 410 ±30 MHz
+	(X-Band)",,,,,,25 kW,,,,,0.8°,,24 min⁻¹,,
+karte025.en.html,SeaEagle 50,"9 300 … 9 500 MHz
+	(X-Band)",,,,,,,48 NM (≙ 90 km),,,4°,,22 min⁻¹,,
+karte026.en.html,RTS 3200,X-Band,,,,,,,20 W,40 km,,,,,,> 2000 hrs,
+karte027.en.html,AN/SPS-46(V1),X-Band,,,,,,,,10 NM (≙ 18 km),,,,,,,
+karte028.en.html,Type 364 Radar,S-Band,,,,,,60 kW,100 W,40 NM (≙ 75 km),,,2°,,30 rpm,,
+karte029.en.html,AN/SPQ-9A,X-Band,,3 000 Hz,,,,1.2 kW,,20 NM (≙ 37 km),,,,,60 rpm,,
+karte030.en.html,TRS-3015,L-Band,,,,,,250 kW,10 kW,160 NM (≙ 300 km),,,,,12 rpm,,
+karte031.en.html,RAWS-03,"3 100…3 500 MHz
+	(F-Band)",,"500, 1 000 or 4 000 Hz","67, 35, or 9 µs",,,100 kW,,70 NM (≙ 130 km),,,1.55°,,,13.5 or 27 rpm,
+karte032.en.html,AN/SPG-51,,"5 450 … 5 825
+	MHz (C-Band)",,4 100 Hz or 9 600 … 16 700 Hz,2.1 or 3.2 µs,,,81 kW,1.6 kW,100 NM (≙ 180 km),,,1.6°,,,,
+karte033.en.html,Atlas 9600M,"3 050 MHz
+	(S-Band)",,,,,,30 kW,,25 NM (≙ 46 km),,,1.7º,,23 rpm,,
+karte034.en.html,GWSR,"9 410 MHz
+	(X-Band)",,2 100 Hz,50 ns,,,,,5 km,7.5 m,,,,,,
+karte035.en.html,CEAFAR,S-Band,,,,,,,,,,,,,,,
+karte036.en.html,Type 517M,VHF-Band,,,,,,,,350 km,,,,,,,
+karte037.en.html,MM/TPS-755,X-Band,,,,,,,,,,,,,,,
+karte038.en.html,RAWL-02,L-Band,,,,,,,,150 NM (≙ 277 km),,,2.2°,,7.5 or 15 rpm,,
+karte039.en.html,Akrep-D,X-Band,,,,,,,,120 km,,,,,,,
+karte040.en.html,Aries,"9.2 … 9.5 GHz
+	(X-Band)",,,,,,,0.005 … 5 W,40 NM (≙ 74 km),0.5 m,,,,,,
+karte041.en.html,MYS-М1E,X-Band,,,,,,,,128 NM (≙ 237 km),,14 m or 1%; 0.13°,0.8°,,6 rpm,,
+karte042.en.html,ELM-2248,Version,S-Band,,,,,,,,135 NM(≙ 250 km),,,,,,,
+karte001.en.html,Airborne Multimode Radar AN/APG-65GY,X-Band,,,,,,,,,,,,,,,
+karte002.en.html,Battlefield Surveillance Aircraft ASTOR,X-Band,,,,,,,,250 … 300 km,1.18 m,,,,,,
+karte003.en.html,Euroradar ECR 90,I-Band,,,,,,,,,,,,,,,
+karte004.en.html,Ocean Master,"9.3 - 9.8 GHz
+	(X–Band)",,300 Hz to 125 kHz,,,,6 kW or 8 kW,100 W or 400 W,7.5 to 240 NM,3 m,,,,6-30 rpm,,
+karte005.en.html,Airborne Weather Radar “Primus 660”,9375 ±25 MHz,,"180, 360, and 480 Hz",1 or 2 µs,,,10 kW,,2.5 … 300 NM,,,,120 degrees,29.4 lbs,,
+karte006.en.html,Primus 880 Weather Radar,9345 ±25 MHz,,"180, 360, and 480 Hz",1 or 2 µs,,,12 kW,,2.5 … 300 NM,,,"7,9°; 5,6° or 4,2°",120 degrees,,,
+karte007.en.html,Surveillance Aircraft SRA-1,X-Band,,,,,,,,200 km,,,,,,,
+karte008.en.html,Airborne Multimode Radar AN/APG-70,X-Band,,,,,,,,100 NM (≙ 185 km),,,,,,80 h,
+karte009.en.html,Airborne Radar ELDORA/ASTRAIA,"9.3 – 9.8 GHz
+	(X-Band)",,2 – 5 kHz,0.25 – 3.00 µs,,,35 – 40 kW,,20 – 90 km,37.5 – 1200 m,,1.8°,,,,
+karte010.en.html,RDR 1400C SAR and Weather Radar,"9375 MHz ±5 MHz(SAR and Wx modes)
+9310 MHz(Beacon mode)",,800 Hz or 200 Hz,2.35 or 0.5 µsec,,,10 kW,,240 NM (≙ 444 km),,,,,,,
+karte011.en.html,Searchmaster,X-Band,,,,,,,,,,,,,,,
+karte012.en.html,Seaspray 5000E,,X-Band,,,,,,,,200 NM(≙  370 km),,,,,,,
+karte013.en.html,AN/APG-73,X-Band,,,,,,,,>60 NM,,,,,,,
+karte014.en.html,AN/APG-79,X-Band,,,,,,,,80 NM (≙ 150 km),,,,,,,
+karte015.en.html,AN/APG-66,X-Band,,,,,,,,80 NM (≙ 150 km),,,,±10°/±30°/±60º,120 h,5 min
+karte016.en.html,RDR 2000,X-Band,,,,,,4 kW,,240 NM (≙ 445 km),,,,,,,
+karte017.en.html,AN/APG-77,X-Band,,,,,,20 kW,,460 km,,,,,,,
+karte018.en.html,VIXEN 1000 E,X-Band,,,,,,,,,,,,,,,
+karte019.en.html,Grifo-346,X-Band,,,,,,,,50 NM (≙ 92 km),,,,,,,
+karte020.en.html,AN/APG-80,X-Band,,,,,,,,220 NM (≙ 410 km),,,,,,,
+karte021.en.html,AN/ZPY-1 “STARLite”,Ku-Band,,,,,,,,40 NM (≙ 74 km),1 ft,,,,,,
+karte022.en.html,Gabbiano,X-Band,,,,,,20 kW or 200 kW,,"40 NM (≙ 74 km), or
+	220 NM (≙ 407 km)",,,,,,,
+karte023.en.html,AN/APG-83,X-Band,,,,,,,,200 NM (≙ 370 km),,,,,,,
+karte024.en.html,AN/APG-68,X-Band,,,,,,,,50 … 85 km,,,,,,,
+karte025.en.html,AN/APG-71,X-Band,,,0.4 and 50 µs,,,10 kW,500 W,140 NM (≙ 260 km),,,,,,,
+karte026.en.html,AN/APN-242,"9 375 ±10 MHz
+	(X-Band)",,1 024 … 180 Hz,0.2 … 4.5 µs,,,25 kW,,240 NM (≙ 445 km),,,,,12 or 45 rpm,> 1 000 hrs,
+karte027.en.html,AN/APN-59,9 375 MHz (X-Band),,"180, 350, 1 025 and 2 000 Hz","4.5, 2.35, 0.8 and 0.35 µs",,,58 … 75 kW,,240 NM (≙ 444 km),,,β =3°; ε =5°,,,50 h,
+karte028.en.html,AN/APN-234,X-Band,,,,,,,,80 NM (≙ 148 km),,,,,,,
+karte029.en.html,AN/APS-143,"9 250 … 9 700 MHz
+	(X-Band)",,"2 491, 1 513, 750 Hz
+	(400 - 800 Hz in ISAR mode)","10, 23.4, or 40 μs",,,8 kW,,256 NM (≙ 475 km),50 m,,,,,800 hrs,
+karte030.en.html,AN/APG-63,X-Band,,,,,,,,90 NM (≙ 175 km),,,,,,60 hrs,
+karte031.en.html,AN/APG-78,Ka-Band,,,,,,,,8 … 12 km,,,,,,,
+karte032.en.html,Mildar,Ka-Band,,,,,,,,12 km,,,,,,,
+karte033.en.html,AN/APG-81,… X-Band,,,,,,,,150 km,,,,,,,
+karte034.en.html,Foxhunter,X-Band,,,,,,,,185 km,,,,,,,
+karte035.en.html,I-Master,"… 
+	(Ku-Band)",,,,,,,,35 km,,,,,,,
+karte036.en.html,AN/APG-67,X-Band,,,,,,2.8 kW,396 W,80 NM (≙ 148 km),,,β= 3.7°;  ε= 5.4°,,,200 hrs.,
+karte037.en.html,ELM-2022,X-Band,,,,,,,,200 NM (≙ 370 km),,,,,,,
+karte038.en.html,ELM-2054,X-Band,,,,,,,,12 km,,,,,,,
+karte039.en.html,ELM-2052,X-Band,,,,,,,,200 km,,,,,,,
+karte040.en.html,ELM-2032,X-Band,,,,,,,,80 NM (≙ 150 km),,,,,,,
+karte041.en.html,RBE2,X-Band,,,,,,,,,,,,,,,
+karte042.en.html,RDY/RDM,X-Band,,up to > 100 kHz,,,,4 kW,400 W,120 km,,,,,,,
+karte043.en.html,Osprey,X-Band,,,,,,,,200 NM (≙ 370 km),,,,,,,
+karte044.en.html,SARPER,X-Band,,,,,,,,40 km (SAR)70 km (ISAR),,,,,,,
+karte045.en.html,RASAR,"1 110 … 1 390 MHz
+	(L-Band)",,< 1 kHz,,,,25 W,5 W,,0.5 m,,80°,,,,
+karte046.en.html,Primus 700,X-Band,,,0.1 … 3.5 µs,,,10 kW,,300 NM (≙ 555 km),,,,,,,
+karte047.en.html,AN/APQ-100,I-Band,,,,,,,,40 NM (≙ 74 km),,,,,,,
+karte048.en.html,E-Captor,I-Band,,,,,,,,,,,,,,,
+karte049.en.html,AN/ZPQ-1 (TESAR),Ku-Band,,,,,,,,,0.3 m,,,,,>700 hrs,
+karte050.en.html,AN/APY-8 (Lynx),"… 
+	(Ku-Band)",,,,,,,,47 NM (≙ 87 km),,,,,,,
+karte051.en.html,NSP-3,Ku-Band,,,,,,,,14.3 km,66 km,,,,,,,
+karte052.en.html,NSP-5,Ku-Band,,,,,,,,24 km,102 km,,,,,,,
+karte053.en.html,NSP-7,Ku-Band,,,,,,,,32 km,135 km,,,,,,,
+karte054.en.html,AN/APN-241,X-Band,,,,,,,,320 NM (≙ 593 km),,,,,,1300 h,
+karte055.en.html,SeaVue XMC,"9.3 … 10 GHz
+	(X-Band)",,388 … 1 854 Hz,5; 10 or 12.3 µs,,,50 kW,230 … 500 W,250 NM (≙ 463 km),10 … 100 ft,,1.3°,,6 or 60 min⁻¹,>500 hr,
+karte056.en.html,AN/APY-6,"16.5 … 16.6 GHz
+	(Ku-Band)",,"300, 800, 2 400 Hz","0.4, 1.25, 3 µs",,,13 kW,400 W,80 NM (≙ 148 km),,,2.2º,,,,
+karte057.en.html,Kontur-10,"9 345 ± 25 MHz
+	(X-Band)",,400; 800; 1 400 Hz,0.6 … 4.0 µs,,,,,320 km,,,,,,,
+karte058.en.html,OPTIMARE SLAR,"9.38 … 9.44 GHz
+	(X-Band)",,,,,,,,120 km,,,0.75°,,,,
+karte059.en.html,WXR-700X,X-Band,,180 … 9 000 Hz,1 … 20 µs,,,150 W,,320 NM (≙ 600 km),,,2.5º × 2.1º,,,"15,000 hrs",30 min
+karte060.en.html,Anemone,X-Band,,,,,,,,200 km,,,,,,,
+karte061.en.html,JSTARS,X-Band,,,,,,,,124 NM (≙ 230 km),,,,,,,
+karte062.en.html,AN/APY-10,X-Band,,,,,,,,250 NM (≙ 470 km),,,,,,,
+karte063.en.html,MESA,L-Band,,,,,,,,600 km,,,,,,,
+karte064.en.html,SAR 3000,400 MHz(UHF-Band),,,,,,,,,2 m,0.5 m,,,,,,
+karte065.en.html,ORB-32 Héraclès Ⅱ,X-Band,,,,,,70 kW,,60 NM (≙ 110 km),,,,,80 rpm,,
+karte066.en.html,CAESAR,X-Band,,,,,,14 kW,,200 km,,,,,,,
+karte067.en.html,ASARS-2,X-Band,,,,,,,,,,,,,,,
+karte068.en.html,SLAR 2000,X-Band,,,,,,,,60 … 100 km,3 m,,,,,,
+karte069.en.html,RDR-4000,"9.3 … 9.5 GHz
+	(X-Band)",,200 Hz,≥ 5.2 µs,,,80 W,40 W,320 NM (≙ 590 km),,,3.3°,,,8 000 hrs,
+karte070.en.html,AN/ZPY-3,X-Band,,,,,,,,200 NM (≙ 370 km),,,,,,,
+karte071.en.html,RDR-1700,,X-Band,,200 … 1600 Hz,0.1 … 2.35 µs,,,10 kW,40 W,160 NM(≙ 296 km),,,,,,,
+karte072.en.html,Iguane,X-Band,,,,,,,,130 NM (≙ 240 km),,,,,,,
+karte073.en.html,AN/APQ-158,Ku-Band,,,,,,,,150 NM (≙ 280 km),,,,,,,
+karte074.en.html,MMWR,"35 GHz
+	(K-Band)",,,,,,,,2 km,,,1.6°,,,,
+karte075.en.html,Horizon,X-Band,,,,,,,,150 km,,,,,,,
+karte076.en.html,Gukol-1,X-Band,,,,,,0.5 kW,,190 NM (≙ 350 km),,,,,,2 500 hrs,
+karte077.en.html,AN/APQ-164,X-Band,,,,,,,,160 NM (≙ 300 km),,,,,,,
+karte078.en.html,AN/APQ-170,X + Ku-Band,,,,,,,,50 NM (≙ 92 km),,,,,,,
+karte079.en.html,AN/APQ-181,Ku-Band,,,,,,,,NM (≙  km),,,,,,,
+karte080.en.html,picoSAR,X-Band,,,,,,,,20 km,< 1m,,,,,,
+karte081.en.html,MP-RTIP,X-Band,,,,,,,,200 NM (≙ 370 km),,,,,,,
+karte082.en.html,MİLSAR,Ku-Band,,,,,,,,155 km (SAR: 27 km),,,,,,,
+karte001.en.html,European Remote Sensing Satellite ERS-1,5.3 GHz,"linear, vertical",1640 … 1720 Hz,37.12 µs,"4,8 kW",,15.55 MHz,≤ 26.3 m,≤ 30 m,"782·785 km, 98.5°",100 min,ERS-1: 23°ERS-2: 47°,102.5 km
+karte002.en.html,Envisat,"5.331 GHz
+	C-Band)",dual linear,1 650 … 2 100 Hz,,,,16 MHz,30 m,30 m,"796 km, 98,54°",100 min,15° … 45°,500 … 800 km
+karte003.en.html,SIR-C/X-SAR,L-Band,0.235 m,"VV, HH, VH, HV",1395 to 1736 pulses per second,"33.8, 16.9, 8.5 µs",,,"10, 20 and 40 MHz;",3.7 m,5.8 m,54 m,≈ 17 m,≈ 22 m,225 km,17° … 63°,15 … 90 km,7255 m/sec,
+karte004.en.html,Jason-1 Radar-Altimeter,"13.575 and 5.3 GHz
+	(Ku–, C-Band)",,1800 Hz ±10%,105.6 µs,,7 W,320 MHz,1336 km,7.2 km/s,9.9156 days,,"1,28° (Ku),3,4° (C)"
+karte005.en.html,TerraSAR-X,"9.65 GHz
+	(X-Band)",,,,,,,1 m,1 m,514 km,,15° … 45°,
+karte001.en.html,Ground Based Weather Radar DWSR 8500S,"2.7 … 2.9 GHz
+	(S–Band)",,"250 Hz, and 
+	623, 700 or 900 Hz",0.8 µs and 4.5 µs,,,850 kW,,"120 km - 250 km, and 
+	480 km - 550 km",,,"down to 0,95°",,,,
+karte002.en.html,Microburst Radar MBR,X-Band,,7092 Hz,"1,25 µs",,,80 watts,4 watts,12 nautical miles,,,,,3 rpm.,,
+karte003.en.html,Weather Radar Meteor 360 AC,5.6 GHz,,250 and 1200 Hz,0.5 µs,,,250 kW,,250 km,,,1°,,3 rpm.,,
+karte004.en.html,Weather Radar Meteor 500C and Meteor 500S,,5.45 - 5.82 GHz,,200 - 1200 Hz,"0,5 - 2 µs",,,250 kW,,500 km,"62,5 m",,1°,10 … 30 s,,
+karte005.en.html,Meteor 1500C,5.60 … 5.65 GHz,,2 000 … 100 Hz,"0,4 … 3,3 µs",,,250 kW,,,"62,5 … 1 500 m",,,,,,
+karte006.en.html,Weather Radar Rainscanner,9 410 MHz,1 ms,1 000 Hz,1.2 µs,,25 kW,30 W,50 … 100 km,180 m,,1° or 4°,-107 dBm,24 rpm,,
+karte007.en.html,Weather Radar SWR-250,5 300 … 5 700 MHz,,250 … 1180 Hz,0.8 … 2.0 µs,,,250 kW,,480 km,,,< 1°,,0 … 5 rpm,,
+karte008.en.html,E600 Tactical Weather Radar System,9 375 ±25 MHz,,106.5 Hz ±5 Hz,,,,2.5	…  3.3  …	4.0 Kilowatts,,capable up to 240 NM (444 km),,,5.5 Degrees,,12 rpm,,
+karte009.en.html,Wetterradar Meteor 600S,"2,7 … 2,9 GHz",,250 … 2000 Hz,"0,83 µs, 1,67 µs, 3,3 µs",,,850 kW,,100 km … 400 km … 1000 km,"125 m, 250 m, 500 m",,"2,0° … 1,3° … 1,0°",,0.2 … 6 rpm,,
+karte010.en.html,Meteor 1600C/S<,,"5,45 - 5,82 GHz",,1300 Hz  …  300 Hz,"0,4 µs  …  3,3 µs",,,250 kW,,115 km  …  1000 km,,,"0,2  …  6 rpm",,
+karte011.en.html,Weather Radar WSR-88D,"2,700 - 3,000 MHz",,"320 … 450,	… 1300 Hz",1.57 and 4.57 µs,,,700 … 750 kW,,460 km,47 m or 135 m,,"0,96° (2.7 GHz)to 0,88° (3.0 GHz)",15,3 rpm,,
+karte012.en.html,Over The Horizon oceanography radar WERA,4 … 48 MHz,50 … 500 kHz,2 … 10 Hz,max: 30 W,15 … 250 km,"1,5 km down to 100 m",,3 … 6 degrees,,electronically steered,,
+karte013.en.html,Poldirad,"5.504 GHz
+	(C-Band)",,400 … 2400 Hz,1 µs; 2 µs,,,180 kW,,0 … 300 km,75; 150; 300 m,,1 degree,,max. 2 rev./min,,
+karte014.en.html,C-Band Scanning ARM Precipitation Radar,"6.25 GHz
+	(C-band)",,200 Hz … 2.7 kHz,0.2 … 2 µs,,,250 kW,250 W,100 km (200 km),,,0.9 degrees,up to 10 seconds,,
+karte015.en.html,OSWIN,53.5 MHz,,< 50 kHz,1 … 32 µs,,,90 kW,4.5 W,(0.4) 1 … 18 km(65 … 95 km),"150 m, 300 m,600 m, 1000 m",,6 degrees,,
+karte016.en.html,CSU-CHILL National Weather Radar Facility,"2735 MHz,(S-Band),",800 – 2500 µs,,0.3 – 1.0 µs,750 kHz,1 MW( Klystron),1600 W,375 km,± 34.3 m/s,"min: 30 m,typ: 150 m",,1.1°,,
+karte017.en.html,Meteor 1700C and 1700S,,"5,45 - 5,82 GHz",,250 - 2000 Hz,"0,4 µs … 4,5 µs",250 kW,,115 km  …  1000 km,,,"0,2  …  6 rpm",,
+karte018.en.html,Weather Radar “Defender CK250”,5600 - 5650 MHz,,200 - 2400 Hz,0.4 - 4.5 µs,250 kW,,600 km,,0.95º,Up to 10 rpm,,
+karte019.en.html,Ka-Band ARM Zenith Radar (KAZR),34.83 - 34.69 GHz (Ka-band),,max.: 20 kHz,100 ns – 20 μs,2 kW,,,,0.2 or 0.3°,,
+karte020.en.html,Terminal Doppler Weather Radar,"5.5 … 5.65 GHz
+	(C-Band)",,"300 Hz (long-range surveillance)
+	1 200-1 700 Hz (Doppler velocity hits)",1.1 µs,,,250 kW,550 W,275 NM (≙ 460 km),,,,0.55°,5 rpm,1 500 hrs,
+karte021.en.html,Meteor 700C / 735C,,"5 430 … 5 800 MHz
+	(C-Band)",,250 … 2400 Hz,3.5 … 0.5 µs,,,250 KW,,200 … 600 km,,,± 0.05°,≤ 1.0°,,,
+karte022.en.html,DWSR-8501,,Magnetron,"2 700 … 3 000 MHz
+	(S-Band)",,200 … 2400 Hz,0.2 … 2 µs,,,850 kW,,≥ 600 km,,,,0.95°,,≤ 10 rpm,,
+karte023.en.html,SeaSonde,"4.3 … 45 MHz
+	(HF-Band)",,,,,,80 W,40 W,up to 200 km,,,,,,,
+karte024.en.html,DWSR 2501C,"5 300 … 5 700 MHz
+	(C-Band)",,250 Hz,"0.4, 0.8, and 2.0 μs",,,250 kW,,550 km,,± 0.1°,1°,,≤ 5 min⁻¹,,
+karte025.en.html,DWSR 88,,"2 700 … 2 900 MHz
+	(S-Band)",,"250 Hz, or600 … 1 200 Hz",0.8 and 2 µs,,,550 kW,425 W,480 km,125 m,,2.1°,,,,
+karte026.en.html,DWSR 5001C,"5 400 … 5 900 MHz
+	(C-Band)",,"200 … 2 400 Hz,",0.2 or 3.0 µs,,,500 kW,,,,,0.95º,,,,
+karte027.en.html,WRM 100,C-Band,,,,,,,,500 km,,,,,,,
+karte028.en.html,WACR,"95 GHz
+	(W-Band)",,20 kHz,0.3 µs,,,1 500 W,,,,,0.43°,,,,
+karte029.en.html,RPMK-1 Ulybka,"1 770 … 1 795 MHz
+	 (L-Band)",,457 Hz,0.5 or 1.1 µs,,,,,300 km,,,6°,,,110 h,
+karte030.en.html,1B77 “Ulybka-M”,L-Band,,,,,,,,200 km,,,,,,,
+karte031.en.html,DMRL-C,"5 600 … 5 650 MHz
+	(C-Band)",,300 … 2 000 Hz,1; 25 and 60 µs,,,15 kW,,250 km,,,1°,,,,
+karte032.en.html,Monocle K-100,"9 330 … 9 375 MHz
+	(X-Band)",,2 … 5 kHz,1 µs,,,100 W,,100 … 150 km,,,3.25°,,,,
+karte033.en.html,DMRL-Z,X-Band,,,,,,300 W,,150 km,,,,,,,
+karte034.en.html,MRL-5,"9 595 ±15 MHz
+	(X-Band)",,250 … 1 000 Hz,1 or 2 µs,,,250 kW,,300 km,,,0.5°,,0 … 6 min⁻¹,5000 hrs,
+karte035.en.html,DMRL-10,"2 775 … 3 025 MHz
+	(S-Band)",,300 … 3000 Hz,1.2; 25; 60; 100 µs,,,5 kW,> 400 W,250 km,,,,,,,
+karte036.en.html,Kontur-METEO-01,"9 345 ± 30 MHz
+	(X-Band)",,400; 800; 1400 Hz,1.0; 2.0; 4.0 µs,,,5 kW,,600 km,,,3°,,,,
+karte037.en.html,WR-10X,"9 410 ± 30 MHz
+	(X-Band)",,1600; 800; 500 Hz,0.3; 0.6; 1.2 µs,,,10 kW,"4,8 … 6 W",108 km,30 … 60 m,,3°,,,,
+karte038.en.html,WR-25XP,"9 410 ± 30 MHz
+	(X-Band)",,1000; 750; 500 Hz,0.2; 0.4; 0.8 µs,,,25 kW,5 … 10 W,120 km,32 … 125 m,,2.5°,,,,
+karte039.en.html,Meteor 50DX,"9.36 … 9.38 or
+	9.30 … 9.35 GHz
+	(X-Band)",,250 … 2 500 Hz,"0.33 … 2.0 or
+	0.83 … 3.3 µs",,,75 kW,,120 km,,,1.3°,,1 … 6 rpm;3 rpm (typical),,
+karte040.en.html,Ranger-X Series,,"9 200 … 9 700 MHz
+	(X-Band)",,2100 … 2 500 Hz,0.4 … 100 µs,,,2×100 W,,,,,2.3°; 1.3° or 0.95°,,0 … 8 rpm,,
+karte041.en.html,Mira-10,"9.2 … 9.5 GHz
+	(X-Band)",,,0.1 … 0.4 µs,,,800 W,50 W,15 km,,,,,,,
+karte042.en.html,Mira-35,"35.2 GHz
+	(Ka-Band)",,2.5 … 10 kHz,0.1 … 0.4 µs,,,30 kW,60 W,58.8 km,15 … 60 m,,0.6° or 0.3°,,,,
+karte043.en.html,SACR,X,,10 kHz,40 µs,,,20 kW,,20 km,,,1.2°,,,,
+karte044.en.html,KASPR,"35.29 GHz
+	(Ka-Band)",,,0.1 … 13 µs,,,10 or 100 W,,,15 … 200 m,,,,,,
+karte045.en.html,NPOL,"2 700 … 2 900 MHz
+	(S-Band)",,250 … 2 000 Hz,0.8 … 2 µs,,,850 kW,,,,0.1°,0.95°,,,,
+karte046.en.html,QXP-120P,"9.3 … 9.5 GHz
+	(X-Band)",,up to 20 kHz,,,,200 W,,120 km,15 m,± 0.1°,≤ 3°,,,,
+karte047.en.html,Hydrix,"9.3 … 9.5 GHz
+	(X-Band)",,2 000 … 250 Hz,0.25 … 2 µs,,,50 kW,,300 km,,,1.4°,,6 min⁻¹,,
+karte048.en.html,E700XD,X-Band,,,,,,275 W,,,,,,,,,
+karte049.en.html,E 750,"9.35 GHz
+	(X-Band)",,500 … 2 000 Hz,1 … 80 µs,,,0.5 or 1 kW,,150 km,,< 0.1°,1.8°,,0 … 14 rpm,,
+karte050.en.html,EWIS II,"5.61 GHz
+	(C-Band)",,"250, 900 or 1200 Hz",0.58 or 2.0 µs,,,250 kW,,480 km,,,0.9°,,1 … 6 min⁻¹,,
+karte051.en.html,BASTA,"94.95 GHz
+	(W-Band)",80 or 160 µs,,,,,,,12 km,12.5 m,,0.4°,,,,
+karte052.en.html,WR 2120,"9.4 GHz
+	(X-Band)",,2 000 Hz,0.5 … 50 µs,,,2 × 100 W,,70 km,,,2.7°,,0.5 … 10 rpm,,
+karte053.en.html,JMA-254,"2.7 … 2.9 GHz
+	(S-Band)",,250 … 1 200 Hz,1; 2; 50 or 100 µs,,,10 kW,≤ 1 kW,450 km (@23 dBZ),,,≤ 1.7°,,0 … 6 rpm,,
+karte054.en.html,JMA-540,"5.6 … 5.65 GHz
+	(C-Band)",,250 … 1 200 Hz,1; 2; 50 or 100 µs,,,2 × 2.5 kW,2 × ≤ 250 W,400 km (@23 dBZ),,,≤ 1.1°,,0 … 6 rpm,,
+karte055.en.html,JMA-912,"9.7 … 9.8 GHz
+	(X-Band)",,≤ 2500 Hz,,,,2 × 125 W,,80 km (@23dBZ),,,,,,,
+karte056.en.html,GMWR-400/1000-SST,,9 410 ± 30 MHz (X-Band),,200 … 3 000 Hz,0.5 … 2.0 μs and 40 … 100 μs,,,2 × 200 W,,100 km,75 m,,<2° or <1.3°,,,,
+karte057.en.html,GMWR-25-SP,"9 410 ± 30 MHz
+	(X-Band)",,650 or 1300 Hz,0.75 or 0.25 μs,,,25 kW,,150 km,,,,,,
+karte058.en.html,QX-120,"9.3 … 9.5 GHz
+	(X-Band)",,up to 10 kHz,,,,,2 × 20 W,120 km,,,≤ 1.5°,,0 … 6 rpm),,
+karte059.en.html,MAARSY,"53.5 MHz
+	(VHF-Band)",,≤ 30 kHz,≥ 0.33 μs,,,800 kW,,150 km,≥ 50 m,,3.6°,,,,
+karte060.en.html,MP-PAWR,"9 425 MHz
+	(X-Band)",,,,,,,,60 … 80 km,,,1.2°,,1 or 2 rpm,,
+karte061.en.html,MRL-700,"5 625 MHz
+	(C-Band)",,250 or 1 000 Hz,0.5; 1 or 2 µs,,,250 kW,,450 km,,,1°,,,,
+karte062.en.html,WRK-200,"5.6 … 5.65 GHz
+	(C-Band)",,250 … 2125 Hz,"0.5, 1.0, 2.0, 5.0 μs",,,250 kW,550 W,480 km,,,< 1°,,1 … 9 rpm,,
+karte063.en.html,CAMRa,"3.0765 GHz
+	(F-Band)",,610 Hz,0.5 µs,,,600 kW,183 W,246 km,,,0.28°,,max: 6 rpm,,
+karte064.en.html,XPOL,"9 340 … 9 410 MHz
+	(X-Band)",,,0.1 or 1 µs,,,25 kW,,120 km,15 or 150 m,,0.9°,,,,
+karte001.en.html,“Freya” Radar,120 … 130 MHz,,500 Hz,3 µs,,,10 … 15 kW,,120 km,500 m,,,,,,
+karte002.en.html,“Mammut” Radar,120 … 135 MHz,,,2 to 3.5 µs,,,200 kW,8 kW,200 km,300 m,,0.5°,,,
+karte003.en.html,“Würzburg” Radar,"560 MHz
+	(UHF-Band)",,3 750 Hz,,,,7 … 11 kW,,30 km,,± 15 m,,,,,
+karte004.en.html,Würzburg Riese (Giant) radar,"560 MHz
+	(UHF-Band)",,1 875 Hz,1 µs,,,,,50 … 70 km,,,,,,,
+karte005.en.html,“Lichtenstein”,"90 MHz (3,3m)","1,1 ms;",900 Hz,"1...1,25 µs",,,"2,5 kW",,8 km,200 m,,,,,,
+karte006.en.html,Jagdschloß Radar,"120 … 157, 157 … 250 MHz",,450 Hz ±15%,2 µs,,,"8 bis 20 kW,later 150 kW",,80 km,600 m,,8°,,10 rpm,,
+karte007.en.html,Wassermann Radar,"125 … 158 MHz,158 … 250 MHz",,,,,,,,300 km,,±300 m,,,,,
+karte008.en.html,RUS-1,"75 … 83 MHz
+	(HF-Band)",,,,,,,300 W,35 … 50 km,,,60°,,,,
+karte009.en.html,SCR-268,"205 MHz
+	(VHF-Band)",244 µs,4 098 Hz,6 ±3 µs,6 ±3 µs,,75 kW,,22 mi (≙ 36 km),,"±183 m, ±1°",12°,,,,
+karte010.en.html,SCR-527,"209 MHz
+	(VHF-Band)",,400 Hz,1 µs,,,225 kW,90 W,220 km,,,,,,,
+karte011.en.html,SC,,"220 MHz
+	(VHF-Band)",,60 Hz,5 µs,,,100 kW,,30 mi(≙ 48 km),550 m,"±180 m, ±5°",25°,,(manually),,
+karte012.en.html,Chain Home,20 to 50 MHz,"12,5 and 25 Hz;",20 µs,350 kWlater: 750 kW,up to 300 km,up to 190 km,,
+karte013.en.html,H2S,3.3 GHz,,,,,,50 kW,,80 km,±300 m,,,,60 rpm,,
+karte014.en.html,CXAM-1,200 to 400 MHz,,1 640 Hz,3 µs,,,15 kW,,,±275 m; ±3°,,14°,,5 rpm,,
+karte015.en.html,Airfield Surveillance Radar ASR 3,2 700 - 2 900 MHz,833 µs,1 200 Hz,0.833 µs,,,500 kW,500 W,54 NM (≙ 100 km),410 ft (1/16 NM),,2.5 degrees,,25 rpm,,
+karte016.en.html,SRE-LL,1250 - 1350 MHz,2.5 ms,400 Hz (staggered),2.5 µs,,,5 MW,9 kW,"200 nautical miles (  km)
+range resolution:
+< 400 m
+accuracy:
+ 
+beamwidth:
+1°
+hits per scan:
+ 
+antenna rotation:
+2 - 7.5 rpm
+MTBCF:
+ 
+MTTR:",< 400 m,,1°,,2 - 7.5 rpm,,
+karte017.en.html,Precision Approach Radar AN/FPN-36,"9,000 - 9,160 MHz",,"1,500 Hz",0.18 to 0.6 µs,,,150 kW,,40 NM,,"Range: 170 ft or 1%
+	Azimuth: 0.75°; 0.35°
+	Elevation: 0.6°; 0.175°",,,,,
+karte018.en.html,AN/FPS-6,,2 700 - 2 900 MHz,,300 - 405 Hz,2 µs,,,3.5 or4.5 MW,3.6 kW,200 NM(≙ 370 km),1000 ft,,"β: 3.2°, ε: 0.85°",,,,
+karte019.en.html,AN/FPS-8,1 280 … 1 380 MHz,,360 Hz,3 µs,,,1 MW,"1,1 kW",220 NM (≙ 410 km),"¼ nautical mile, ±0,5 degrees","900 m, ±0,5°",2.5 degrees,,0 to 10 rpm.,,
+karte020.en.html,AN/TPS-43,2 900 - 3 100 MHz,4 ms,250 Hz,6.5 µs,,,2.8	MW,6.7 kW,450 km,,,1.1°,,10 seconds (6 rpm.),,
+karte021.en.html,AN/TPS-44,1.25 - 1.35 GHz,,267 - 800 Hz,1.4 - 4.2 µs,,,1 MW,up to 1.12 kW,,,,3.8°,,0 to 15 rpm.,,
+karte022.en.html,Green Archer,9500 - 9700 MHz,,3.66 … 3.95 kHz,0.25 µs,,,60 kW,66 W,9.5 miles,220 ft,,,,,,
+karte023.en.html,Type 80,2 980 … 3 020 MHz,3.7 ms,"235 … 300 Hz,nominally: 270 Hz","2 or 5 µsec,standard 2 µsec",ca. 3.4 ms,240 µs,"1 MW, later 2.5 MW",,200 NM (≙ 370 km),,,0.35°,,4 or 6 rpm,,
+karte024.en.html,AN/MPS-16,5.2 … 5.3 GHz,,"300 … 364 Hz,nominally: 360 Hz",2.5 µs,,,1 MW,900 W,200 NM (≙  370 km),,,"β:2,4° ε:0,6°",,0 … 8 rpm,,
+karte025.en.html,PAR-C,9 … 9.18 GHz,,"2,400 Hz",0.25 µs,,,35 kW,,10 NM (≙ 18.5 km),,,0.6°,,,,
+karte026.en.html,AN/TPS-1E,1 220 … 1 350 MHz,,360 … 380 … 400 Hz,2.7 µs,,,500 kW,500 W,160 miles,,Range: ±(3% + 1 NM)Azimuth:±1°,3.4 to 4 degrees,,1 … 15 rpm,,
+karte027.en.html,AN/FPS-7 Long-Range Search Radar,1250 to 1350 MHz,,,,,,,,270 NM (≙ 500 km),,,,,,,
+karte028.en.html,AN/FPS-20,1 280 … 1 350 MHz,2 858 µs,350 Hz,2 µs,,,2 … 2.5 MW,4.35 … 6 KW,231 NM (≙ 428 km),1000 Yard,,1.3°,,"3.3, 5 or 10 rpm",,
+karte029.en.html,MPR,E/F-Band,4 ms,250 pps,4 µs,3132 µs,800 µs,up to 20 MW,up to 40 kW,480 km,600 m,,0.45°,3,6 rpm,,
+karte030.en.html,Fan Song E,"5,010 - 5,090 MHz and4,910 - 4,990 MHz",,"828 - 1,440 pps and
+ 1,656 - 2,880 pps","0,4 and 1,2 µs",,,1.5 MW,,75 and 150 km,60 m and 180 m,,7.5° · 1.5°,,,,
+karte031.en.html,Anti-Aircraft-Tank “Gepard”,,E-Band,,,,,,,,16 km,,,,,60 rpm,,
+karte032.en.html,Low Blow tracking and missile control radar,9 … 9.4 GHz,288 and 560 µs,"1,750 and 3,500 Hz",0.26 and 0.5 µs,,,210 kW,,40 and 80 km,30 m,,1°,,,,
+karte033.en.html,Armored reconnaissance radar Rasit,X-Band,,,,,,3 kW,,40 km,,,,,1.5 rpm,,
+karte034.en.html,RAVEN,I-Band,(FMCW-Radar),,,,,3 kW,20 W,20 km,,,,,"10, 15 and 20 rpm",,
+karte035.en.html,FlaRakPanzer ROLAND,j-Band,,5 kHz,400 ns,,,10 kW,,16 km,,,,,,,
+karte036.en.html,AN/TPQ-30 (CWAR “HAWK”),J-Band,,,,,,,400 W,70 km,,,,,20 rpm,,
+karte037.en.html,AN/MPQ-46,X-Band,,,,,,,,,,,,,,,
+karte038.en.html,AN/MPQ-33/39 Continuous Wave Illumination Radar (CWIR),"10 - 10.25 GHz
+	 X-Band",none (CW-radar),125 W,,,
+karte039.en.html,AN/MPQ-50 (PAR),C-Band,,,,,,1 kW,,100 km,,,,,20 rpm,,
+karte040.en.html,AN/MPQ-34 (ROR),K-Band,,,,,,,,53 km,,,,,,,
+karte041.en.html,Kabina 66 “Back Net”,F-Band,4 ms,60 to 1460 Hz,96 / 36 µs,up to 3 ms,ca. 50 µs,up to 1.5 MW,up to 32 kW,250 NM,450 ft,,1.1 to 1.7 degrees,1 - 8,5 rpm,,
+karte042.en.html,Oborona “Tall King C”,"150 - 170 MHz
+	(VHF-Band)",ca. 6 ms,ca. 180 pps,ca. 6 µs,ca. 5 ms;,,,,1 200 km,1 200 m,,,> 15,4 rpm,90 h,
+karte043.en.html,P-3 “Dumbo”,VHF–Band,,,,,,55 kW,,120 km,2.5 km,,24°,,,,
+karte044.en.html,P-8 “Knife Rest”,VHF-Band,,,,,,70 … 75 kW,,150 km,,,24°,,2 min⁻¹,,
+karte045.en.html,P-10 “Knife Rest B”,VHF-Band,,100 Hz,4 or 12 µs,,,55 … 75 kW,,180 … 200 km,,,21 degrees,,0 … 6 rpm,,
+karte046.en.html,P-12,"150 - 170 MHz
+	 (lower VHF-Band)",2.77 milliseconds,345 Hz ±10%,6 µs,2.4 milliseconds,377 µs,160 to 250 kW,up to 540 watts,200 NM,½ NM,,8°,> 15,6 … 30 seconds(0 … 10 rpm.),,
+karte047.en.html,P-14,150 to 170 MHz,5 or 10 milliseconds,100 or 200 Hz,10 µs,,,700 to 900 kW,800 watts,320 NM,0.8 nautical mile,,4°20' … 8°,>15,10 to 25 seconds (0 … 4 … 6 rpm.),,
+karte048.en.html,P-15,830 … 882 MHz,2 to 4 ms,500 to 680 pps,2 µs,,,270 … 390 kW,270 W,200 km,300 m,,8°,> 15,6 rpm.,,
+karte049.en.html,P-18 “Spoon Rest D”,150 … 170 MHz,2.77 ms,360 Hz,6 µs,2.4 ms,377 µs,160 … 260 kW,540 W,360 km,900 m,,6°,> 15,0 … 6 … 10 rpm,,
+karte050.en.html,P- 19,830 … 882 MHz,500 or 600 Hz,"2,1 µs",,,,> 300 kW,,160 km,350 m,,"4,5°",,,,
+karte051.en.html,P-37 “Bar Lock”,five frequencies in thesub-band 2 695 … 3 115 MHz,2.6 and 1.3 ms,375 and 750 pps,1.2 µs,,,5 · 700 kW,5 · 700 W,450 km,180 m,,2°,> 8,3 or 6 rpm,,
+karte052.en.html,P-40 “Long Track”,2.2 to 2.3 GHz,2.5 or 1.25 ms,400 or 800 pps,2 × 2 microseconds,2.49 or 1.24 ms,none,up to 2	MW,2 … 3 kW,200 NM,900 ft,,1.5°,> 8,4 or 5,,
+karte053.en.html, PRV-9 “Thin Skin A”,5 to 9 GHz,1.6 and 2.5 ms,400 and 800 pps,1 and 1.7 µs,,,700 kW,470 W,200 to 300 km,1.5 km,1.5°,0.4°,,,
+karte054.en.html,PRV-10 “Rock Cake”,E-Band,,,2.7 … 3.2 µs,,,1.8 … 2 MW,,300 km,3 km,3° … 5°,1°,,,
+karte055.en.html,PRV-11 “Side Net”,ca. 2.7 GHz,"3 and 1,3 ms",330 and 730 Hz,3 and 1.5 µs,,,1.2 MW,1.3 kW,up to 216 NM (≙ 400 km)td>,0.8 und 1.5 km,2°,1.2°,,,
+karte056.en.html,PRV-13 “Odd Pair”,2.5 … 2.7 GHz,,400 Hz,1.5 and 3 µs,,,1.6 MW,1 kW,216 NM(400 km),,,,> 15,,
+karte057.en.html,PRV-16,5 … 9 GHz,2.5 and 1.25 ms,400 and 800 Hz,1.75 µs,,,700 kW,490 … 560 W,162 NM (≙ 300 km),1.5 km,2.5°,0.5°,> 12,,
+karte058.en.html,PRV-17,E-Band,,182 … 1460 pps,1.1 and 9 µs,,,> 2.5	MW,> 41 kW,600 km,1000 m,2.5°,1.15°,,,
+karte059.en.html,ST-68U,"2 850 … 3 200 MHz
+	(E/F-Band)",0.7 or 1.3 ms,750 or 1500 pps,6 or 12 µs,500 or 1000 µs,200 or 300 µs,up to 350 kW,up to 3.2 kW,150 or 75 km,600 m,"80 m; 0,45°","6,5°",3,6 or 12 rpm.,140 h,60 min
+karte060.en.html,ST68UM “36D6”,"2 850 … 3 200 MHz
+	(E/F-Band)",,,,,,350 kW,3 kW,200 km,250 m,,,,6 and 12 rpm.,,
+karte061.en.html,P-30 “Big Mesh”,E/F–Band,,,,,,1 MW,50 kW,360 km,500 m,,"0,6 - 1,7°",,6 rpm,,
+karte062.en.html,RSP-10 “Long Talk”,"1250 … 1350 MHz
+	(D-Band)","550, 800 und 1075 Hz",1 oder 2 µs,230 kW,"45, 90 und 150 km",120 m,,3°
+karte063.en.html,Precision Approach Radar made by TESLA / Pardubice,X-Band,,,0.45 µs,,,150 kW,,20 km,,,"β= 0,8°; ε= 0,6°",β= ±15°; ε= -1° … +9°,,,
+karte064.en.html,Precision Approach Radar RSP–7 (“Two Spot”),"830 … 882 MHz (6 fixed frequencies in
+	UHF-Band)","550, 800, 1075 Hz",2· 1 µs (frequency diversity),"45, 90, 150 km",150 m,,4°
+karte065.en.html,DR-151,1 200 - 1 400 МHz,,,,,,,,30 NM,,,,,,,
+karte066.en.html,DR-174,L-Band,,,110 µs,,,24 kW,,80 NM,,,"2,8°",3,,,
+karte067.en.html,AN/FPS-17 Space Surveillance Radar,175 … 215 MHz (VHF-Band),,30 Hz,2000 µs,,,1.2 MW per beam,,,,,,,,,
+karte068.en.html,AN/FPS-35,420 to 450 MHz (UHF-Band),,,,,,,,,,,,,,,
+karte069.en.html,AN/CPS-4,2 700 … 2 900 MHz,1 575 µs,635 Hz,2 µs,,,750 kW,,90 NM,,,β= 4.7°; ε= 1.2°,,,,
+karte070.en.html,Meteor 200,9 345 – 9 405 MHztyp.: 9 375 MHz,,1200 Hz and 250 Hz,0.5 µsec and 3 µsec,,,200 kW,140 W,100 km,440 m,,"1,06°",,4 rpm,,
+karte071.en.html,GRS Telefunken,"1 325 MHz 
+	(L-Band)",,500 pps,2 µsec,,,1 MW,,120 NM,,,1°,,6 rpm,,
+karte072.en.html,TA-10,2 700 … 2 900 MHz,,1 000 Hz,1 µs,,,600 kW,,65 NM,150 m,,1.44°,,15 rpm,,
+karte073.en.html,X-TAR 25,X-Band,,,,,,,,28 km,,,,,40/60 rpm,,
+karte074.en.html,AN/TPS-10,9 230 to 9 404 MHz,,539 Hz,0.5 and 2 µsec,,,250 kW,,60/120 NM (≙ 110/220 km),,,,,,,
+karte075.en.html,AN/SPS-10,"5 450 … 5 825 MHz
+	(C-Band)",,625 … 650 Hz,0.25 µs (1.3 µs),,,190 kW (280 kW),,,"50 yds (275 yds)
+	≙ 46 m (≙ 250 m)",,1.5 degrees,,15 rpm,,
+karte076.en.html,Marconi S232,"500 … 610 MHz
+	(UHF-Band)",,500 … 800 Hz,2 or 4 µs,,,50 kW,,,,,4°,,0.5 … 10 min⁻¹,,
+karte077.en.html,PAR-T4,X-Band,,,,,,,,,,,,,,,
+karte078.en.html,ZB 298,X-Band),,,,,,,,50 m to 10 km,,,,,,,
+karte079.en.html,AN/FPS-3,L-Band,,400 Hz,,,,"1,5 MW",,320 km,,,,,"3.3, 5 or 10 rpm",,
+karte080.en.html,51U6,"830 … 882 MHz
+	(UHF-Band)",,,,,,,1 kW,150 km,450 m,300 m ; 1.2°,8°,,6 or 12 rpm,,
+karte081.en.html,JY-9,S-Band,,790 … 850 Hz,20 µs,,,200 kW,3.4 kW,150 km,120 - 240 m,,"β= 1,5° ;ε= 40°",,6 or 12 rpm,> 500 h,
+karte082.en.html,JY-14,"1 850 … 2 150 MHz (D/E-Band)
+	2 300 … 2 500 MHz (E-Band)
+	2 700 … 3 400 MHz (E/F-Band)",,,,,,,,390 NM (≙ 600 km),300 m,"±90 m,β= ±0.2°, altit.: ±400 m","β= 0.9°, ε= 20°",,6 rpm,> 4 150 h,"< 0,5 h"
+karte083.en.html,YLC-4,"250 … 500 MHz
+	(UHF-Band)",,,,,,40 kW,,410 km,,300 m; 0.5°,,,,> 500 h,< 0.5 h
+karte084.en.html,Avia-D/Koren,"1 310 and 1 346 MHz
+	(L-Band)",,≈1 kHz (5-fold staggered),1.2 µs,,,800 kW,900 W,200 km,300 m,1°; range: 1% of the displays scale,1.3°,,10 or 15 rpm,,
+karte085.en.html,ZW06,"8 600 … 9 500 MHz
+	(X-Band)",,,,,,60 kW,60 W,22 km,"10-20 m in the short pulse mode
+	100 m in the long pulse mode",,0.9°,,24 rpm,,
+karte086.en.html,AN/CPS-6,"2 700 … 3 019 MHz
+	(S-Band)",,600 Hz or 300 Hz,1 µs or 2 µs,,,5 × 900 kW,,,,azimuth: 0.5°; height: 500 ft,1°,,2 to 15 rpm,,
+karte087.en.html,TRS 3033 (Triton S),S-Band,,,,,,,,1.5 … 26.2 km,,30 m,,,40 rpm,,
+karte088.en.html,TRS 3050 (Triton G),G-Band,,,,,,,,19 km,,,θε= 22°,,40 rpm,,
+karte089.en.html,Type 791-A Precision Approach Radar,X-Band,,,,,,,,35 km,200 m,r= 60m; β= 0.5°; ε= 0.35°,both: 1.2°,,,,
+karte090.en.html,REL-1,"1 220-1 350 MHz
+	(L-Band)",,,,,,,,300 km,,,1.1°,,3 or 6 rpm,,
+karte091.en.html,Marconi Type 7,"192 … 209 MHz
+	(VHF-Band)",,300 … 540 Hz,3.5 or 8 µs,,,80 … 100 kW,,90 Miles (≙ 145 km),,,,,"0 … 8 rpm
+	(normally 4 rpm)",,
+karte092.en.html,AN/SPS-6,"1 250 … 1 350 MHz
+	(L-Band)",,150 or 600 Hz,4 or 1 µs,,,500 … 750 kW,,,,,3.5°,,2.5; 5 to 15 rpm,,
+karte093.en.html,AN/SPS-5,"6 275 … 6 575 MHz
+	(later: 5 450 … 5 285 MHz)",,683 Hz,0.5 µs (later: 0.37 µs),,,285 kW,,30 NM (≙ 55 km),,,1.75°,,5 rpm,,
+karte094.en.html,AN/FPS-18,"2 700 … 2 900 MHz
+	(S-Band)",,1 200 Hz,1 µs,,,1 MW,1.2 kW,50 NM (≙ 93 km),,,1.4°,,5.33 rpm,,
+karte095.en.html,AN/FPS-30,"570 … 630 MHz
+	(lower L-Band)",2595 µs,385 Hz,4 or 52 µs,,,400 kW or 200 kW,4 kW or 616 W,200 NM (≙  370 km),620 m,±0.5°,2°,,,,
+karte096.en.html,AN/TPN-18,"9.0 … 9.6 GHz
+	(X-Band)",,1 200 Hz,0.2 or 0.8 µs,,,200 kW,,40 NM (≙ 74 km),,± 1%,1.3º (horizontal); 3.5º (vertical),1.1º (vertical); 3.4º (horizontal),,16 rpm,,
+karte097.en.html,ASR 8,"2 700 - 2 900 MHz
+	(S-Band)",,,,,,1.4 MW,,60 NM (≙ 111 km),,,,,,,
+karte098.en.html,ASR 4,"2 700 … 2 900 MHz
+	(S-Band)",,700 … 1200 Hz,0.8 µs,,,425 kW,300 … 400 W,60 NM (≙ 111 km),,,1.5°,,15 rpm,,
+karte099.en.html,AN/FPS-27,"2 322 … 2 670 MHz
+	(S-Band)",,226 … 288 Hz,6.5 µs,,,15 MW,30 kW,220 NM (≙ 410 km),,,,,5 rpm,,
+karte100.en.html,Radar Type 1,"9 425 … 9 525 MHz
+	(X-Band)",,1000 Hz,0.2 µs,,,30 kW,,27 NM (≙ 50 km),,1°,1.8°,,30 rpm,,
+karte001.en.html,AN/CPS-5,"1 300 MHz 
+	(L-Band)",,400 Hz,2 µs,,,750 kW,,210 NM (≙ 389 km),300 m,,,,"3.3, 5, 10 rpm",,
+karte002.en.html,AN/MPN-1A,S-Band,,2 kHz,0.5 µs,,,80 kW,,30 NM (≙ 55 km),,,,,30 rpm,,
+karte003.en.html,SCR-270,"104 … 112 MHz
+	(VHF-Band)",,621 Hz,15 - 40 µs,,,100 kW,,250 stat. miles (≙ 400 km),,"4 stat. miles, 2 degrees",,,1 rpm,,
+karte004.en.html,LN-66,9 375 MHz (X-Band),,"800, 1250, or 2500 Hz",0.5 or 0.9 µs,,,12 kW,6.25 W,75 NM (≙ 139 km),,,2.5°,,"22, 24 or 30 rpm",,
+karte005.en.html,AN/CPS-1,"3 200 MHz 
+	(S-Band)",,,,,,(700 kW ? ),,200 miles (≙ 322 km),,,0.8°,,10 rpm,,
+karte006.en.html,AN/SPS-43,"200 MHz
+	(VHF-Band)",,,,,,180 kW,,300 NM (≙ 555 km),,,7°,,,,
+karte007.en.html,AN/SPS-39,"2 910 … 3 100 MHz 
+	(E/F-Band)",,1 850 Hz or 925 Hz,2 or 4 µs,,,1 MW,,100 or 160 NM(≙ 185 or 296 km),,,1.1° × 2.25°,,6 or 15 rpm,,
+karte008.en.html,AN/TPS-32,"2 905 … 3 080 MHz
+	(S-Band)",1 090 … 3 772 µs,920 … 2 650 Hz,30 µs,,,2.2 MW,,300 NM (≙ 556 km),800 m,229 m; 0.5°,2.15°,,6 rpm,,
+karte009.en.html,AN/SPS-53A,"9 345 … 9 405 MHz
+	(X-Band)",,750 or 1500 Hz,0.1 or 0.5 µs,,,35 kW,,32 NM (≙ 60 km),,,1° or 1.6°,,15 rpm,,
+karte010.en.html,AN/SPS-29,"215 … 225 MHz
+	(VHF-Band)",,290 … 310 Hz,10 µs,,,750 kW,,250 NM (≙ 463 km),,,19°,,7.5 or 15 rpm,,
+karte011.en.html,AN/FPS-49,"425 MHz ±5%
+	(UHF-Band)",,27 Hz,2000 µs,,,5 MW,270 kW,5 000 km,,,2°,1,,,
+karte012.en.html,AN/SPS-2,"1 250 … 1 350 MHz
+	(L-Band)",4 166 µs,240 Hz,6 µs,,,7 MW,10 kW,330 NM (≙ 620 km),900 m,366 m,β= 1.3° ;ε= 2.5°,,,,
+karte013.en.html,AN/SPS-12,"1 250 … 1 350 MHz
+	(L-Band)",,300 or 600 Hz,"4 µs (for 300 Hz) or
+	1 µs (for 600 Hz)",,,500 kW,,200 NM (≙  370 km),,,3°,,2.5 … 15 rpm,,
+karte014.en.html,AN/SPN-11,"9 320 … 9 430 MHz
+	(X-Band)",,1 000 Hz,0.4 µs,,,30 kW,12 W,20 NM (≙ 37 km),,,β=1.9°; ε=20°,,17 rpm,,
+karte015.en.html,TMR MPDR 30/1,L-Band,,,,,,,,30 km (45 km),,,,,,300 hrs,
+karte016.en.html,AN/PPS-4,"8 900 … 9 400 MHz
+	(I-Band)",,5 kHz,0.2 µs,,,800 W,,,,35 m,6.5°,,,,
+karte017.en.html,AN/TPQ-32,"2 905 … 3 080 MHz
+	(S-Band)",,4 800 Hz,0.2 µs,,,5 kW,4.8 W,8 NM (≙ 15 km),,,2°,,6 rpm,,
+karte018.en.html,WSR-57,"2 900 MHz
+	(S-Band)",,164 or 545 Hz,0.5 or 4 µs,,,410 kW,,"5 … 125 NM
+(≙ 9 … 230 km)",,,2°,,,,
+karte019.en.html,AN/CPS-9,"9 200 … 9 400 MHz
+	(X-Band)",,931 or 186 Hz,0.5 or 5 µs,,,250 kW,230 W,400 mi (≙ 644 km),,,1°,,,,
+karte020.en.html,AN/TPS-65,"1 250 … 1 350 MHz
+	(L-Band)",,,,,,100 kW,3 kW,160 NM (≙ 296 km),,,3°,,0 … 15 rpm,2 900 hrs,
+karte021.en.html,AN/TPS-3,"590 … 610 MHz
+	(UHF-Band)",5 ms,200 Hz,1.5 µs,,,200 kW,60 W,110 mi (≙ 176 km),,,10° … 12°,,5 rpm,,
+karte022.en.html,AN/TPS-2,"400 MHz
+	(UHF-Band)",,,,,,,,75 mi (≙ 120 km),,,,,,,
+karte023.en.html,AN/TPS-25,"9 375 ±30 MHz 
+	(X-Band)",,1850 Hz,0.5 µs,,,45 kW,43 W,80 km,259 ft,±0.15°,"10° (search) or 2° (track)
+	(switchable)",,,,
+karte024.en.html,AN/CPN-18,"2 700 … 2 900 MHz
+	(S-Band)",,1 500 Hz (or 900 Hz),0.5 µs (or 1 µs),,,500 kW,,53 or 70 NM,,,,,10 rpm,,
+karte025.en.html,AN/SPS-4,"5 450 … 5 825 MHz
+	(C-Band)",,625 … 650 Hz,0.37 … 1.3 µs,,,180 kW,,20 NM (≙ 37 km),90 m,,1.7° … 2.3°,,5 or 15 rpm,,
+karte026.en.html,AN/SPS-8,,"3 430 … 3 570 MHz
+	(S-Band)",,500 or1000 Hz,1 or 2 µs,,,650 kW,,60 NM(≙ 111 km),,,3.5°,1.1°,,,,
+karte027.en.html,AN/TPS-40,"5 280 ±30 MHz
+	(C-Band)",,,,,,1 MW,,100 NM (≙ 185 km),,,,,,,
+karte028.en.html,AN/TPS-48,"2 900 … 3 100 MHz
+	 (S-Band)",,250 ±25 Hz,6.7 µs,,,2.8 MW,4.7 kW,242 mi (≙ 388 km),,,,,,,
+karte029.en.html,ASR 5,"2 700 … 2 900 MHz
+	(S-Band)",,710 … 1 200 Hz,0.833 µs,,,425 kW,380 W,60 NM (≙ 111 km),187 m,± 2%,1.5°,,15 rpm,,
+karte030.en.html,ACR 430,"9 320 and 9 460 MHz
+	(X-Band)",,2 kHz or 1 kHz,0.2 or 0.5 µs,,,2 × 55 kW,110 W,32 NM (≙ 60 km),100 m,±1%,0.55°,,20 or 40 rpm,,
+karte031.en.html,Type 424,X-Band,,,,,,,,25 NM (≙ 46 km),,,,,,,
+karte032.en.html,AR-1,"2 750 … 3 050 MHz
+	(S-Band)",,700 Hz,1 µs,,,2 × 650 kW,2 × 455 W,70 NM (≙ 130 km),,,,,15 rpm,,
+karte033.en.html,AN/TPS-27,"2 700 … 2 900 MHz
+	(S-Band)",,300 Hz,6 ±0.5 µs,,,3.5 MW,6.3 kW,250 NM (≙ 463 km),,,,,,,
+karte034.en.html,AR-5,"1 250 … 1 355 MHz
+	(L-Band)",,680 … 270 Hz,2 … 5 µs,,,2 × 2 MW,,300 NM (≙ 555 km),,,1.2°,,4 … 14 rpm,,
+karte035.en.html,AN/SPN-6,"3 550 … 3 700 MHz
+	(F-Band)",,760 Hz,0.33 or 1.25 µs,,,500 kW,,,,,2°,,15 or 30 rpm,,
+karte036.en.html,AN/TPS-13,"2 927 MHz
+	(S-Band)",,,,,,,10 W,,,,,,,,
+karte037.en.html,AN/FPS-24,"214 … 236 MHz
+	(VHF-Band)",,278 Hz,20 µs,,,5 MW,,250 NM (≙ 463 km),200 m,,,,5 rpm,,
+karte038.en.html,AN/FPS-19,"1 220 … 1 350 MHz
+	(L-Band)",2 500 µs,400 Hz,2 µs,,,2 × 500 kW,,160 NM (≙ 300 km),300 m,,2° and 6.5°,,"3.3, 5, 6.6, and 10 rpm",,
+karte039.en.html,AN/TPN-12,"9 000 … 9 160 MHz
+	(X-Band)",,1 500 Hz,0.55 µs,,,150 kW,120 W,40 NM (≙ 74 km),300 ft or 1% (≙ 90 m),,,,,,
+karte040.en.html,AN/TPN-14,"7 750 … 8 400 MHz
+	(C/X-Band)",,1 200 Hz,"0.2 ±0.05 or
+	0.8 ±0.1 µs",,,200 ±25 kW,,40 NM (≙ 74 km),,,,,,,
+karte041.en.html,AN/MPG-1,"9 090 MHz
+	(X-Band)",,"1 024 Hz (PPI) or
+	4 097 Hz (Tracking)",,,,35 kW,,25 km,,"±3%, ±2°",0.55°,,,,
+karte042.en.html,AN/FPS-23,"475 … 525 MHz
+	(UHF-Band)",,,,,,,1 kW,,,,,,,,
+karte043.en.html,SK,"200 MHz
+	(VHF-Band)",,,5 µs,,,200 … 250 kW,,162 mi (≙ 300 km),550 m,"±90 m, ±3°",10°,,4.5 rpm,,
+karte044.en.html,OAR M-61,S-Band,,200 … 900 Hz,1 µs,,,1 MW,,180 km,300 m,100 m; 1°,1.3°,,,,
+karte045.en.html,AN/FPN-33,"9 000 … 9 160 MHz
+	(X-Band)",,1 500 Hz,0.5 µs,,,50 kW,36 W,,,,"β= 0.85°, ε= 2.5°",,,,
+karte046.en.html,AN/TPN-501,X-Band,,,,,,,,,,,,,,,
+karte047.en.html,LP-23,,"1 250 … 1 350 MHz
+	(D-Band)",,350 … 375 Hz,3 µs,,,2.2 MW,,240 NM (≙ 510 km),450 m,,1.2°,,3 … 6 rpm,,
+karte048.en.html,AN/SPS-501,"1 250 … 1 350 MHz
+	(L-Band)",,300 or 600 Hz,"4 µs (for 300 Hz) or 
+	1 µs (for 600 Hz)",,,500 kW,,200 NM (≙  370 km),,,,,2.5 … 15 rpm,,
+karte049.en.html,AN/SPS-3,"9 003 … 9 168 MHz, and
+	9 345 … 9 405 MHz
+	(X-Band)",,3000 or 1500 Hz,"0.25, 0.33 or 1.33 µs",,,2×200 kW,,25 NM (≙ 46 km),,,,,,,
+karte050.en.html,Selenia ATCR-2/2TI,"1 250 MHz … 1 350 MHz
+	(L-Band)",,triple staggered,,,,2 MW,,300 km,,,1.25°,,5-10,,
+karte051.en.html,ATCR-22,"1 240 … 1 355 MHz
+	(L-Band)",1280 … 1536 µs,430 ± 21.5 Hz,3 ± 0.3 µs,,,1.8 MW,2.25 kW,200 NM (≙  370 km),,,1.2° ± 0.15°,,6 rpm,,
+karte052.en.html,TRS 2100 “Tiger S”,"2 700 … 2 900 MHz
+	(S-Band)",,,,,,,,60 NM (≙ 111 km),,,,,15 rpm,800 hrs,30 min
+karte053.en.html,JY-8,,C-Band,,"365, 500 Hz",3 … 3.3 µs,,,2×800 kW,,350 km,1 000 m; 0.6°,500 m; 0.3°,,,3 or 6 rpm,>150 hrs,30 min
+karte054.en.html,Ratac S,"9.5 GHz
+	(X-Band)",,,,,,7 kW,,38 km,,±10 m; ±0.6º,,,0.7 or 3 rpm,,
+karte055.en.html,Flair or Master-S,S-Band,,,,,,,,150 or 200 km,300 m,30 m; 0.2°,3.5°,,,,
+karte056.en.html,Type 408C,"100 … 120 MHz (low band)
+	150 … 180 MHz (high band)",,200 Hz,10 µs,,,800 kW,,600 km,,,"12° (low band)
+	8° (high band)",,6 rpm,,
+karte057.en.html,AN/APG-30,,9 335 …9 415 MHz,,600 Hz,0.3 … 0.55 µs,,,> 5 kW,1.6 W,,,,,,,,
+karte058.en.html,Pluto,S-Band,,random stagger,,,,135 kW,,60 NM (≙ 110 km),,40 m; 0.35º,1.5º,,12 or 15 rpm,,
+karte059.en.html,ELM-2228X - SGRS,X-Band,,,,,,,,100 km,,10 m; 0.15°,,,12 or 24 rpm,,
+karte060.en.html,ELM-2228S AMDR,S and X-Band,,,,,,,,100 km,,,,,12 or 24 rpm,,
+karte061.en.html,AN/FPS-26,"5 400 … 5 900 MHz
+	(C-Band)",3000 … 3045 µs,333 … 328 Hz,4.5 µs,,,2 × 2.5 MW,,240 NM (≙ 450 km),700 m,,,,,,
+karte062.en.html,Marconi S 314,"2 900 … 3 100 MHz
+	(S-Band)",,200 … 1 000 Hz,0.5 … 2.5 µs,,,1 MW,,,,,β= 0.75°; ε= 2.5°,,0.5 … 10  min⁻¹,,
+karte063.en.html,AN/TPN-25,"9 000 … 9 200 MHz 
+	(X-Band)",,3 500 Hz,1 µs,,,2×12.5 kW,,20 NM (≙ 37 km),,,β=1.4°; ε=0.75°,,,,
+karte064.en.html,S 303 (Marconi),S + L-Band,,,,,,,,100 NM (≙ 185 km),,,,,,,
+karte065.en.html,AN/SPS-58,"1 215 … 1 365 MHz
+	(L-Band)",435 or 328 µs,2 290 or 3 050 Hz,5 µs,,,12 kW,200 W,25 NM (≙ 46 km),750 m,± 185 m; ± 0.5°,6°,,20 min⁻¹ (15 min⁻¹),,
+karte066.en.html,AN/FPS-77,"5 450 … 5 650 MHz
+	(C-Band)",3 086 µs,324 Hz,2 µs,,,300 kW,200 W,200 NM (≙ 370 km),300 m,,1.68°,,0 … 5 … 8 min⁻¹,,
+karte067.en.html,AN/TPS-68,C-Band,,375 Hz,2 µs,,,165 kW,,200 NM (≙ 370 km),,,2°,,,,
+karte068.en.html,Type 293,S-Band,,500 Hz,0.7 and 1.9 µs,,,500 kW,,25 NM (≙ 46 km),110 or 300 m,,2°,,"5, 10 or 15 min⁻¹",,
+karte069.en.html,Type 281,"39 … 72 MHz
+	(HF-Band)",,50 Hz,,,,60 … 70 kW,,100 NM(≙ 185 km),,,35°,,,,
+karte070.en.html,"ARSR-1, -2","1 215 … 1 350 MHz
+	(L-Band)",,360 Hz,2 µs,,,4 MW,2.9 kW,200 NM (≙ 370 km),,,1.2°,,6 min⁻¹,,
+karte071.en.html,"ASDE-1, -2","24 GHz
+	(K-Band)",,5 or 20 kHz,20 ns,,,40 kW,,,,,,,60 min⁻¹,200 hrs,
+karte072.en.html,ASDE-3,"15.7 … 16.2 GHz
+	(Ku-Band)",,"13, 16 or 20 kHz",36 ns,,,10 kW,,18 000 ft (≙ 5 500 m),,,0.25°,,62 min⁻¹,,
+karte073.en.html,AN/MPQ-4,"16 GHz
+	(Ku-Band)",,7 000 Hz,0.25 µs,,,50 kW,285 W,15 km,,50 m,,,,,
+karte074.en.html,AN/SPN-13,"3 070 and 9 375 MHz
+	(S- and
+		X-Band)",,1 200 Hz,1 µs,,,,,50 NM (≙ 92 km),,,,,10 min⁻¹,,
+karte075.en.html,S 600 series (Marconi),"590 … 610 MHz
+	(UHF-Band)",,600 Hz,3.2 µs,,,500 kW,,220 NM (≙ 410 km),,,,,7.5 or 10 min⁻¹,,
+karte076.en.html,S 613,"5.3 … 5.4 GHz
+	(C-Band)",,300 Hz,5 µs,,,1 MW,,150 NM (≙ 280 km),,,,,,,
+karte077.en.html,S 239,"3 000 MHz
+	(S-Band)",,160 … 550 Hz,2 µs,,,> 900 kW,,110 NM (≙ 200 km),,,,,,,
+karte078.en.html,S 609,"9 415 … 9 475 MHz
+	(X-Band)",,360 Hz,2 µs,,,70 kW,,200 NM (≙ 370 km),,1%,1.4°,,13 min⁻¹,,
+karte079.en.html,Type 13 CMH,S-Band,,500 Hz,0.6 or 1.9 µs,,,500 kW,,,,,,,,,
+karte080.en.html,DA 01,S-Band,,,,,,,,50 NM (≙ 90 km),,,,,,,
+karte081.en.html,DA 05,S-Band,,500 or 1 000 Hz,1.3 or 2.6 µs,,,1.2 MW,,,,,1.7°,,,,
+karte082.en.html,Type 85,S-Band,,250 Hz,10 µs,,,8 MW,,300 NM (≙ 555 km),,,0.5°,,4 min⁻¹,,
+karte083.en.html,AN/TPQ-11,"34.5 … 35.2 GHz
+	(Ka-Band)",,1 000 Hz,0.5 µs,,,80 … 120 kW,,,,,,,,,
+karte085.en.html,Cossor CR 21,,"2 940 … 2 980 MHz 
+	(S-Band)",,770 Hz,1 µs,,,500 kW,385 W,70 NM(≙ 130 km),,,1.4°,,12 or 20 min⁻¹,,
+karte086.en.html,Cossor CR 353,S-Band,,,,,,,,200 NM (≙ 370 km),,,,,,,
+karte087.en.html,Cymbeline FA 15,X-Band,,4 000 Hz,0.25 µs,,,100 kW,,20 km,,60 m,,,,,
+karte088.en.html,RAN 3L,L-Band,,,,,,,,200 km,,"70 m, 0.4°",,,6 min⁻¹,,
+karte089.en.html,RAN 10S,F-Band,,,,,,,,60 NM (≙ 110 km),,"20 m, 0.35°",,,15 and 30 min⁻¹,,
+karte090.en.html,DRBV 22A,D-Band,,,,,,400 kW,,130 km,,,,,6 or 12 min⁻¹,,
+karte091.en.html,TRS 3415,X-Band,,,,,,,,120 km,3 m,,0.6°,,11 min⁻¹,,
+karte092.en.html,W-160,"9.7 … 9.9 GHz
+	(I-Band)",,1 560 … 125 000 Hz,0.25 or 8 µs,,,16 kW,,75 km,,,1.8°,,"15, 20 and 25 min⁻¹",600 hrs,
+karte093.en.html,HR-76,I-Band,,1 000 … 3 000 Hz,0.25; 0.5 or 1 µs,,,250 kW,,40 km,,,2.7º,,,,
+karte094.en.html,ST1802,"8.6 … 9.5 GHz
+	(X-Band)",,,,,,50 kW,,40 km,,,,,20 min⁻¹,,
+karte095.en.html,ST801,"8.6 … 9.5 GHz
+	(X-Band)",,3 000 or 4 400 Hz,0.3 µs,,,180 kW,160 W,30 km,,,2.4°,,20 min⁻¹,,
+karte096.en.html,SR,"175 … 225 MHz
+	(VHF-Band)",,60 or 200 Hz,1; 4 or 20 µs,,,300 kW,,200 mi (≙ 320 km),150 m,±90 m; ±2°,20°,,1¼ or 7 min⁻¹,,
+karte097.en.html,Type 271,S-Band,,500 Hz,0.7 or 1.5 µs,,,7 kW,,11 NM (≙ 20 km),,"250 m, 2°",6°,,2 min⁻¹,,
+karte098.en.html,AWS-1,"2 700 … 3 100 MHz
+	(S-Band)",,700 Hz,1 µs,,,650 kW,,75 NM (≙ 139 km),,,,,15 min⁻¹,,
+karte099.en.html,Type 965,"216 … 224 MHz
+	(VHF-Band)",,200 or 400 Hz,3.8 and 10 µs,,,450 kW,,,,,12°,,10 min⁻¹,,
+karte100.en.html,Type 983,"3 GHz
+	(S-Band)",,500 Hz,0.7 or 1.9 µs,,,500 kW,,130 km,,,β= 5°; ε= 2.1°,,7 min⁻¹,,
+karte001.en.html,Argos 45,C-Band,,,,,,15 kW,,45 km,,,,,30 min⁻¹,,
+karte002.en.html,Rascal,K-Band,,,,,,,,20 km,,,,,,,
+karte003.en.html,MRK-1 “Shkval-2”,"1 770 … 1 790 MHz
+	 (L-band)",,457 Hz,0.5 or 1.1 µs,,,10 kW,,300 km,,30 m; 7.2°,6°,,,,
+karte004.en.html,Jawor-M2,L-Band,,400 Hz,3 µs,,,1.5 MW,,350 km,,,,,6 min⁻¹,,
+karte005.en.html,Type 40,X-Band,,,,,,20 kW,,120 NM (≙ 222 km),,,1.2°,,,,
+karte006.en.html,Type 86,X-Band,,,,,,,,,,,,,,,
+karte007.en.html,Type 268,"9 320 … 9 475 MHz
+	(X-Band)",,500 Hz,0.75 µs,,,30 kW,15 W,30 NM (≙ 55 km),100 m,,2.5°,,22 min⁻¹,,
+karte008.en.html,Type 282,"600 MHz
+	(UHF-Band)",,,,,,25 kW,,3.5 NM (≙ 6.5 km),,,,,,,
+karte009.en.html,Type 291,"214 MHz
+	(VHF-Band)",,500 Hz,1.1 µs,,,100 kW,55 W,35 NM (≙ 65 km),180 m,,40°,,,,
+karte010.en.html,Type 262,"9.67 GHz
+	(X-Band)",,1.5 kHz,0.5 µs,,,30 kW,,29 NM (≙ 54 km),,,5.2°,,,,
+karte011.en.html,Type 960,"86 … 90 MHz
+	(VHF-Band)",,250 Hz,5 and 15 µs,,,450 kW,,175 NM (≙ 324 km),,,35°,,0 … 7 min⁻¹,,
+karte012.en.html,EL/M-2125,Ku-Band,,,,,,,,,,,,,60 min⁻¹,,
+karte013.en.html,P-70 Lena-M,VHF-Band,,70 and 140 Hz,50 µs,,,2 × 65 MW,2 × 10 kW,2 300 km,,"650 m, 0.7°",,,,,
+karte014.en.html,Type 277,"2 940 … 3 060 MHz
+	(S-Band)",,500 Hz,0.7 or 1.9 µs,,,400 kW,,,,,4.5°,,,,
+karte015.en.html,MR-500,UHF-Band,,,,,,2 MW,,300 km,,,,,,,
+karte016.en.html,P-20 «Periskop»,S-Band,,,1 µs,,,5 × >0.5 MW,,,400 m,±0.5°; ±500 m,1.3°,,,,
+karte017.en.html,ACR 6,"S-Band
+(λ = 10 cm)",,,,,,,,,,,,,,,
+karte018.en.html,AR-3D (Type 94 radar),"2 915 … 3 055 MHz
+	(S-Band)",4 000 µs,250 Hz,36 µs,,,1.1 MW,10 kW,260 NM (≙ 480 km),,,β= 1°; ε= 2°,,6 min⁻¹,,
+karte019.en.html,Type 992,"2 940 … 3 060 MHz
+	(S-Band)",,833 Hz,2 µs,,,2 MW,,30 NM (≙ 55 km),,,2°,,30 min⁻¹,,
+karte020.en.html,AN/TPS-21,"9375 ±30 MHz
+	(I-Band)",,1 600 Hz,6.4 µs,,,4 … 7 kW,2 … 4 W,18.3 km,,,β= 10° ;ε= 3°,,1.5 min⁻¹,,
+karte021.en.html,AN/FPS-28,"410 … 690 MHz
+	(UHF-Band)",,,,,,,,,,,,,,,
+karte022.en.html,AN/FPN-1 (XN-2),,"2 880 MHz
+	(S-Band)",,2 000 Hz,0.5 µs,,,150 kW,,30 NM(≙ 56 km),,,5°,,30 min⁻¹,,
+karte023.en.html,AN/FPN-16,"9 000 … 9 160 MHz
+	(X-Band)",,5 500 or 1 883 Hz,0.18 µs,,,45 kW,,8 NM (≙ 15 km),200 ft,,0.6°,,,,
+karte024.en.html,AN/FPN-28,,"2 775 … 2 900 MHz
+	(S-Band)",,1 200 Hz,0.8 µs,,,500 kW,,50 NM (≙ 92 km),,1%,2.2°,,15 and 30 min⁻¹,,
+karte025.en.html,AN/FPN-32,S-Band,,,,,,,,50 mi (≙ 80 km),,,,,,,
+karte026.en.html,TRS-N,"5.5 or 9.3 GHz
+	(G + I Band)",,,,,,,,,,,,,,,
+karte027.en.html,Type 273Q,S-Band,,,,,,100 kW,,42 km,,,,,,,
+karte028.en.html,Type 84,L-Band,,250 Hz,10 µs,,,2.5 MW,,240 km,,,,,4 min⁻¹,,
+karte029.en.html,Type 274,"3 230 … 3 340 MHz
+	(F-Band)",,500 Hz,0.5 µs,,,400 kW,,16 NM (≙ 30 km),80 m,100 m; 5 minutes,1°,,,,
+karte030.en.html,Type 279,"39 … 42 MHz
+	(A-Band)",,50 Hz,7 … 30 µs,,,60 or 70 kW,,65 … 95 NM(≙ 120 … 175 km),,,84°,,,,
+karte031.en.html,Type 285,UHF-Band,,,1.7 µs,,,25 kW,,8.5 NM (≙ 16 km),,,18°,,,,
+karte032.en.html,Type 275,"3 450 … 3 614 MHz
+	(F-Band)",,500 Hz,0.5 µs,,,400 kW,,16 NM (≙ 30 km),,,7°,,,,
+karte033.en.html,Type 283,"≈ 580 MHz
+	(UHF-Band)",,,,,,25 kW,,8.5 NM (≙ 16 km),,,,,,,
+karte034.en.html,JTPS-P5,S-Band,,400 Hz,25 µs,,,60 kW,,320 km,150 m,,1.5°,,6 min⁻¹,,
+karte035.en.html,SATRAPE,S-Band,,,,,,,,,,,,,,,
+karte036.en.html,AN/PPS-5A/B,"16 … 16.5 GHz
+	(J-Band)",,4 kHz,0.25 µs,,,,,10 km,,± 20 m;,1.1°,,,,
+karte037.en.html,AN/MPQ-10,"2 700 … 2 860 MHz
+	(S-Band)",,1100 Hz,0.8 µs,,,200 kW,180 W,10 km,,30 m,5°,,,,
+karte038.en.html,Zarya,J-Band,,"1,8 … 2 kHz",0.25 µs,,,10 kW,,60 km,40 m,,2.5°,,,,
+karte039.en.html,S 706,"3 ± 0.15 GHz
+	(S-Band)",,1 000 Hz,12.5 µs,,,160 kW,2 kW,64 NM (≙ 118 km),250 m,,1°,,6 min⁻¹,,
+karte040.en.html,S 711,"3 ± 0.15 GHz
+	(S-Band)",,1 000 Hz,12.5 µs,,,160 kW,2 kW,64 NM (≙ 118 km),250 m,,1.5°,,15 min⁻¹,,
+karte041.en.html,S 712,"3 ± 0.15 GHz
+	(S-Band)",,1 000 Hz,12.5 µs,,,160 kW,2 kW,64 NM (≙ 118 km),250 m,,3°,,15 min⁻¹,,
+karte042.en.html,AN/FPS-40,"9 000 … 9 160 MHz
+	(X-Band)",,1500 Hz,0.18 or 0.6 µs,,,200 kW,,40 NM (≙ 74 km),,,,,,,
+karte043.en.html,AN/FPS-33,"1 350 … 1 450 MHz
+	(L-Band)",,,6 µs,,,10.4 MW,26 kW,,,,1.2°,,6.6 and 10 min⁻¹,,
+karte044.en.html,AN/SPS-38 (XN-1),"510 … 690 MHz
+	(UHF-Band)",,,,,,,,,,,,,5 or 15 min⁻¹,,
+karte045.en.html,AN/SPS-37,"215 … 225 MHz
+	(VHF-Band)",,290 … 300 Hz,,,,250 kW,,200 NM (≙ 370 km),,,19°,,"7,5 or 15 min⁻¹",,
+karte046.en.html,AN/SPG-34,X-Band,,,,,,25 … 30 kW,,23 km,,,2.4°,,,,
+karte047.en.html,Type 903,"8 500 … 9 600 MHz
+	(X-Band)",,3000 Hz,0.1 µs,,,50 kW,,15 NM (≙ 28 km),,,,,,,
+karte048.en.html,AN/APS-20,"2 860 … 2 880 MHz
+	(S-Band)",,300 Hz,2 µs,,,1 MW,,250 NM (≙ 460 km),,,,,6 or 3 min⁻¹,,
+karte049.en.html,AN/APS-94,"9 100 … 9 400 MHz
+	(X-Band)",,694 … 809 Hz,0.2 µs,,,160 kW,,50 NM (≙ 92 km),30 m,,0.45°,,,,
+karte050.en.html,AN/APS-116,"9.5 … 10 GHz
+	(X-Band)",,500 or 2000 Hz,0.5 µs,,,500 kW,,150 NM (≙ 280 km),,,,,,,
+karte051.en.html,REL-3,L-Band,,,,,,,,,,,,,,,
+karte052.en.html,AN/APQ-39,"34.5 GHz
+	(Ka-Band)",,683 Hz,0.8 µs,,,9 kW,5 W,,,,0.6°,,,,
+karte053.en.html,AN/APQ-13,"9 375 MHz
+	(X-Band)",,1350 or 675 Hz,0.5; 0.75; 2.25 µs,,,35 kW,,100 NM (≙ 185 km),,,3°,,13 min⁻¹,,
+karte054.en.html,AN/APQ-120,X-Band,,,,,,,,50 NM (≙ 93 km),,,,,,,
+karte055.en.html,AN/SPN-8,"9 000 … 9 180 MHz
+	(X-Band)",,4000 Hz,0.25 µs,,,40 … 60 kW,,6 NM (≙ 11 km),,,1.5°,,,,
+karte056.en.html,"SG-3, SG-4","3 400 … 3 700 MHz
+	(S-Band)",,750 Hz,0.33 or 1.25 µs,,,300 … 500 kW,,80 NM (≙ 148 km),200 yards,±100 yards; ±0.75°,3°,,2.5 or 5 min⁻¹,,
+karte057.en.html,JTPS-P18,S-Band,,,,,,,,360 km,,,,,,,
+karte058.en.html,Type 974,"9 345 … 9 405 MHz
+	(X-Band)",,1000 Hz,0.14 or 0.26 µs,,,7 kW,,25 NM (≙ 46 km),,2%,1.6°,,24 min⁻¹,,
+karte059.en.html,Type 1002,"9 650 MHz ± 50 MHz
+	(X-Band)",,400 … 500 Hz or2 000 … 2 500 Hz,1 µs or 0.2 µs,,,30 kW,,,,,,,,,
+karte060.en.html,Type 978,"9 410 MHz 
+	(X-Band)",,1 000 or 2 000 Hz,1 µs or 0.2 µs,,,,,40 NM (≙ 74 km),< 46 m,2%,,,20 or 24 min⁻¹,,
+karte061.en.html,AN/TPS-22,"406 … 450 MHz
+	(UHF-Band)",,295 Hz,5 µs,,,2 MW,,750 km,,,,,6 min⁻¹,,
+karte062.en.html,AN/TPS-34,"1 250 … 1 350 MHz
+	(L-Band)",,295 Hz,6 µs,,,2×(4 … 5 MW),,250 NM (≙ 470 km),0.5 NM (≙ 925 m),,1.6°,,6 min⁻¹,,
+karte063.en.html,Type 1006,"9445 or 9650 MHz
+	(X-Band)",,800 or 1600 Hz,0.08; 0.25 or 0.75 µs,,,25 kW,,32 NM (≙ 60 km),,,,,,,
+karte064.en.html,AN/APN-81,X-Band,,8800 Hz,1 µs,,,,,,,0.1%; 0.1°,,,,,
+karte065.en.html,AN/MPN-5,"2 740 … 2 900 MHz
+	(S-Band)",,1 200 Hz,0.8 µs,,,350 kW,400 W,50 NM(≙ 92 km),,,2.5°,,15 min⁻¹,,
+karte066.en.html,NUR-41,S-Band,,,9 µs,,,600 kW,,360 km,200 m,,β= 3.6° ; ε= 0.8°,,,,
+karte067.en.html,RDR-1E,X-Band,,200 Hz,5.5 µs,,,50 kW,,300 NM (≙ 550 km),,,3°,,15 min⁻¹,,
+karte068.en.html,ORB 37,X-Band,,,0.4 or 2.5 µs,,,10 kW,,,,,,,,,
+karte069.en.html,Type 278,S-Band,,400 or 500 Hz,0.5 or 2 µs,,,600 kW,,90 km,,,β= 4.5° ;ε= 2.5°,,,,
+karte070.en.html,MR-212,"9 400 … 9 460 MHz
+	(X-Band)",,,0.8 µs,,,12 or 20 kW,,25 NM (≙ 46 km),130 m,,1.1°,,3 min⁻¹,,
+karte071.en.html,1L13-3 Nebo-SV,"180 … 220 MHz
+	(VHF-Band)",,300 Hz,,,,140 kW,,360 km,,,6°,,3 or 6 min⁻¹,,
+karte072.en.html,Meteorit 2,"1 770 … 1 795 MHz
+	(L-Band)",,416 Hz,1.5 µs,,,200 kW,,300 km,,,5°,,,,
+karte073.en.html,57U6 “Periskop-VM”,L-Band,,,,,,100 kW,,300 km,,,,,,,
+karte074.en.html,1L117,"2 695 … 3 115 MHz
+	(S-Band)",,375 or 750 Hz,1.2 µs,,,5 × 700 kW,,450 km,125 m,,1°,,6 or 12 min⁻¹,350 hrs,
+karte075.en.html,Shahine,S-Band,,,,,,,,19.5 km,,,1°,,60 min⁻¹,,
+karte076.en.html,EKCO E-120,"9 375 MHz
+	(X-Band)",,400 Hz,2 µs,,,60 kW,50 W,120 NM (≙ 222 km),,,5°,,,,
+karte077.en.html,AN/MPS-4,"6 275 … 6 575 MHz
+	(C-Band)",,615 … 650 Hz,0.37 or 1.3 µs,,,140 kW,,80 mi (≙ 128 km),,,β= 3.8° ;ε= 0.8°,,,,
+karte078.en.html,AN/MPQ-35,"1 250 … 1 350 MHz
+	(L-Band)",,667 or 800 Hz,3 µs,,,450 kW,1 kW,100 km,,,,,20 min⁻¹,,
+karte079.en.html,NMD-401,"9 320 … 9 430 MHz
+	(X-Band)",,2 000 Hz,0.3 µs,,,30 kW,,40 NM (≙ 74 km),,,1.8°,,10 min⁻¹,,
+karte080.en.html,NMD-411,X-Band,,,,,,,,,,,,,,,
+karte081.en.html,Type 6,"176 … 212 MHz
+	(VHF-Band)",,,,,,85 kW,,18 NM (≙ 33 km),,,,,4 min⁻¹,,
+karte082.en.html,JPPS-P10,X-Band,,10 kHz,0.5 µs,,,25 W,,10 km,500 m,,4.4°,,,,
+karte083.en.html,ASR-2,"2 700 … 2 900 MHz
+	(S-Band)",,1 200 Hz,1 µs,,,650 kW,400 W,50 NM (≙ 93 km),,,2.3°,,25 min⁻¹,,
+karte084.en.html,ASR-10SS,S-Band,,710 … 1 032 Hz(∅ 825 Hz),1 and 100 µs,,,19.5 kW,,60 or 80 NM (≙ 111 or 148 km),,,1.4°,13,"12, 12.5 or 15 min⁻¹",,
+karte085.en.html,ASR-B1,"2 750 … 2 950 MHz
+	(S-Band)",,,1 µs,,,,,100 km,,,,,13 min⁻¹,,
+karte086.en.html,AN/MSG-1,"2 800 MHz
+	(S-Band)",,1 100 Hz,0.8 or 0.2 µs,,,250 kW,,73 km,,"23 m, 0.08°",5°,,,,
+karte087.en.html,HF-200,"2 800 … 3 010 MHz
+	(S-Band)",,270 Hz,5.5 µs,,,2.5 MW,,280 km,,,β= 3° ;ε= 0.75°,,,,
+karte088.en.html,Type 286,"214 MHz
+	(VHF-Band)",,200 … 800 Hz,2 µs,,,6 kW,,25 NM (≙ 46 km),,,,,,,
+karte089.en.html,Ceros 200,"15.5 … 17.5 GHz
+	(J-Band)",,,,,,1.5 kW,,,,,1.3°,,,,
+karte090.en.html,MR-310 “Angara-A”,L-Band,,,,,,,,200 km,,,,,6 or 12 min⁻¹,,
+karte091.en.html,MR-320 “Topaz”,S-Band,,,,,,,,54 NM (≙ 100 km),,,,,,,
+karte092.en.html,P-80 “Altai”,"2 060 … 2 690 MHz
+	(S-Band)",,,,,,,,360 km,1 000 m,,1°,,6 or 12 min⁻¹,,
+karte093.en.html,P-90 “Pamir”,S-Band,,,,,,2.7 … 3 MW,,360 km,,,,,2.5 … 5 min⁻¹,,
+karte094.en.html,ARSR-3,"1 250 … 1 350 MHz
+	(L-Band)",,310 … 365 Hz,2 µs,,,5 MW,3.3 kW,240 NM (≙ 445 km),450 m,,1.1°,,5 min⁻¹,,
+karte095.en.html,AN/FPS-71,"1 220 … 1 350 MHz
+	(L-Band)",,325 … 400 Hz,2 µs,,,5 MW,,200 NM (≙ 370 km),,3%,1.4°,,6 min⁻¹,,
+karte096.en.html,AN/MPN-11,,"2 780 … 2 820 MHz
+	(S-Band)",,1 500 Hz,1 µs,,,600 kW,,30 NM (≙ 55 km),150 m,,3.3°,,,,
+karte097.en.html,AN/SPN-5,"9 320 … 9 430 MHz
+	(X-Band)",,3000 or 750 Hz,0.25 or 1 µs,,,30 kW,25 W,40 NM (≙ 74 km),,,1.8°,,10 min⁻¹,,
+karte098.en.html,BSPS-1,"9 320 … 9 500 MHz
+	(X-Band)",,,,,,250 kW,,,,,1.6°,,,,
+karte099.en.html,AN/GPN-2,"2 869 … 2 900 MHz
+	(S-Band)",,2 000 Hz,0.5 µs,,,200 kW,,30 NM (≙ 55 km),,,,,,,
+karte100.en.html,AN/TPS-37,"5 250 … 5 310 MHz
+	(C-Band)",,300 … 364 Hz,2.5 µs,,,1 MW,,NM (≙  km),,,β= 2.4° ;ε= 0.6°,,,,
+karte001.en.html,SCR-584,S-Band,,1 707 Hz,0.8 µs,,,250 kW,,30 km (tracking)90 km (search),,20 m; 0.06°,4°,,5 min⁻¹,,
+karte002.en.html,AN/TPS-28,"200 … 225 MHz
+	(VHF-Band)",,170 … 190 Hz,5 µs,,,1 MW,900 W,200 NM (≙ 370 km),,,,,,,
+karte003.en.html,ATCR-3T,S-Band,,1 000 Hz,1 µs,,,500 kW,500 W,80 NM (≙ 150 km),,,,,,,
+karte004.en.html,AN/SPS-11,"1 250 … 1 350 MHz
+	(L-Band)",,200 Hz,7 µs,,,10 MW,14 kW,,,,2.7°; (7 × 4.6°),,10 min⁻¹,,
+karte005.en.html,SS-1,"10.0 GHz
+	(X-Band)",,600 Hz,0.5 µs,,,85 kW,45 W,80 NM (≙ 148 km),80 m,25 m; ± 0.25°,2.6°,,0 … 8 min⁻¹,,
+karte006.en.html,WF-3,X-Band,,,,,,,,150 km,,,,,,,
+karte007.en.html,WF-44,"2 800 … 2 900 MHz
+	(S-Band)",,275 or 400 Hz,0.35 or 1.5 µs,,,650 kW,,200 km,,,,,,,
+karte008.en.html,8GR260,"34.5 … 35.2 GHz (EU) or
+	31.8 … 33.4 GHz (US)
+	(Ka-Band)",,2.5 kHz,0.04 µs,,,20 kW,,2.5 NM (≙ 4.5 km),,,0.6°,,40 rpm,,
+karte009.en.html,Agave,X-Band,,,,,,,,40 NM (≙ 74 km),,,,,,,
+karte010.en.html,WR-73,"5.586 GHz
+	(C-Band)",,,1 µs,,,146 kW,,,,,β= 1.52°;ε= 1.62°,,,,
+karte011.en.html,AN/APG-76,X-Band,,,,,,12 kW,,100 NM (≙ 185 km),,,,,,,
+karte012.en.html,AN/GMD-1,"1 660 … 1 700 MHz
+	(L-Band)",,,,,,,,200 km,,,,,,,
+karte013.en.html,Pilot,X-Band,,,,,,,1 W,24 NM (≙ 45 km),,,,,24 … 28 min⁻¹,,
+karte014.en.html,9ZW,"2 700 … 2 900 MHz
+	(S-Band)",,≈ 250 Hz,2.3 µs,,,2 × 750 kW,,200 NM (≙ 370 km),,300 m,β= 2° ;ε= 1°,,10 rpm,,
+karte015.en.html,AN/APQ-72,X-Band,,,,,,,,200 NM (≙ 370 km),,,,,,,
+karte016.en.html,AN/APS-15,"9 375 MHz
+	(X-Band)",,622 Hz,1 µs,,,> 40 kW,50 W,100 mi (≙ 160 km),,± 150 m,3°,,20 rpm,,
+karte017.en.html,SU,X-Band,,600 Hz,1 μs,,,50 kW,,40 km,,,,,6 rpm,,
+karte018.en.html,SD,"113 … 114 MHz
+	(VHF-Band)",,60 Hz,8.5 µs,,,100 kW,,20 NM (≙ 37 km),,± 450 m,,,,,
+karte019.en.html,AN/SPN-12,"10 000 … 10 250 MHz
+	(X-Band)",,,,,,,10 W,"2 mi (≙ 3,2 km)",,,3.3 or 4.25°,,,,
+karte020.en.html,AN/SPQ-2,"2 700 … 2 900 MHz
+	(S-Band)",,350 … 850 Hz,1 µs,,,700 kW,,50 NM (≙ 92 km),150 m,15 m; 1°,3°,,6 min⁻¹,,
+karte021.en.html,MR-710 “Top Steer”,"2.0 … 2.5 GHz
+	(S-Band)",,,,,,300 kW,,150 km,,,,,15 rpm,,
+karte022.en.html,MR-90 “Front Dome”,X-Band,,,,,,,,30 km,,,,,,,
+karte023.en.html,NMD-451,S-Band,,,,,,250 kW,,300 km,,,,,,,
+karte024.en.html,MR-220 “Peel Cone”,S-Band,,1000 Hz,0.8 µs,,,45 kW,,25 NM (≙ 46 km),110 m,,0.9°,,20 rpm,,
+karte025.en.html,Type 14,"2 940 … 3 060 MHz
+	(S-Band)",,500 Hz,1.9 µs,,,500 kW,475 W,,310 yd,,1.5°,,,,
+karte026.en.html,Type 79,"43 MHz
+	(VHF-Band)",,50 Hz,8 … 30 µs,,,70 kW,,40 NM (≙ 74 km),,,,,(manually),,
+karte027.en.html,S 244 (Marconi),"2.7 … 2.9 GHz,2.9 … 3.1 GHz, or3.1 … 3.3 GHz
+	(S-Band)",,200 … 500 Hz,2.5 … 5.5 µs,,,2.5 … 3.0 MW,3.5 kW,200 NM (≙ 370 km),,500 m,β= 3.7° ;ε= 0.6°,,,,
+karte028.en.html,S 247 (Marconi),"2.7 … 2.9 GHz
+	(S-Band)",,200 … 550 Hz,2.5 … 5.5 µs,,,3 MW,3.75 kW,140 NM (≙ 260 km),,,0.53°,,,,
+karte029.en.html,S 234 (Marconi),,"585 … 610 MHz
+	(UHF-Band)",,500 … 800 Hz,2 or 4 µs,,,60 kW,,60 NM(≙ 110 km),,,2.1°,,10 min⁻¹,,
+karte030.en.html,Antilope,Ku-Band,,,,,,,,16 NM (≙ 30 km),,,,,,,
+karte031.en.html,Type 966,"216 … 224 MHz
+	(VHF-Band)",,185 … 196 Hz,10 µs,,,320 kW,,200 NM (≙ 370 km),,,,,,,
+karte032.en.html,Type 975,"9 320 … 9 500 MHz
+	(X-Band)",,1 100 Hz,0.17 or 0.32 µs,,,50 kW,,25 NM (≙ 46 km),,,,,,,
+karte033.en.html,ASR-30,"1 250 … 1 350 MHz
+	(L-Band)",,524 Hz (average),2 µs,,,2 MW,3.65 kW,120 NM (≙ 220 km),,,1.6°,,12 rpm,5 000 hrs,
+karte034.en.html,LW/AW Mk Ⅰ,"200 MHz
+	(VHF-Band)",,50 Hz,20 µs,,,10 … 15 kW,,100 NM (≙ 185 km),,,,,,,
+karte035.en.html,Mk. 23 TAS,"1 215 … 1 400 MHz
+	(L-Band)",,,,,,,,110 NM (≙ 200 km),,,,,,,
+karte036.en.html,SLA 3,X-Band,,,,,,,,15 NM (≙ 28 km),,,,,,,
+karte037.en.html,SNW 50,"9 360 … 9 460 MHz
+	X-Band)",,333 Hz,2 µs,,,40 kW,,200 NM (≙ 370 km),,,0.5°,,"7, 10, 14, or 21 rpm",,
+karte038.en.html,SNW 10,VHF-Band,,,,,,,,160 NM (≙ 300 km),,,,,,,
+karte039.en.html,S 654,"1 295 … 1 365 MHz
+	(L-Band)",,590 or 350 Hz,2.5 or 4 µs,,,0.8 or 2.3 MW,,100 or 180 NM (≙ 185 or 333 km),,,1.7°,,7.5 or 15 rpm,,
+karte040.en.html,S 233 (Marconi),"2 940 … 3 060 MHz
+	(S-Band)",,250 or 500 Hz,0.5 … 2µs,,,900 kW,,80 NM (≙ 150 km),,,0.7°,,0.5 … 10 rpm,,
+karte041.en.html,OPRL-4,X-Band,,,,,,,,,,,,,,,
+karte042.en.html,Type 909,C-Band,,,,,,,,40 NM (≙ 74 km),,,,,,,
+karte043.en.html,TRS 3220 “Pollux”,X-Band,,1 500 Hz,0.3 µs,,,200 kW,90 W,16 NM (≙ 30 km),50 m,20 m; 0.5 mrad,2°,,,,
+karte044.en.html,WM-20 Serie,X-Band,,,,,,180 kW … 1 MW,,32 NM (≙ 60 km),,0.8 mrad,,,,,
+karte045.en.html,Eagle Coastal Radar,J-Band,,,,,,,,50 km,,15 m; 0.09°,,,,,
+karte046.en.html,SkySpy,C-Band),,,,,,50 kW,,,,,2°,,,,
+karte047.en.html,Type 910,X-Band,,,,,,5 kW,,30 km,,,,,,,
+karte048.en.html,Type 967/968,,"1 260 … 1 360 MHz
+	(L-Band)",,7 230 Hz,6 µs,,,59 kW,,,,,4.6°,,30 rpm,,
+karte049.en.html,AN/APG-59,X-Band,,,,,,,,,,,,,,,
+karte050.en.html,ALWIN,"53.5 MHz
+	(VHF-Band)",,< 50 kHz,,,,36 kW,1.8 kW,95 km,150 m,,6.5°,,,,
+karte051.en.html,JTPS-P9,L-Band),,,,,,,,,,,,,,,
+karte052.en.html,ASMI-18X,"9 410 MHz
+	(X-Band)",250 µs,4 kHz,40 ns,54 µs,196 µs,20 kW,200 W,8 km,6 m,,0.43°,,60 rpm,,
+karte053.en.html,RDR-4B,"9 345 MHz
+	(X-Band)",,"380, 1600 or 6000 Hz",2 or 6 or 18 µs,,,125 kW,,320 NM (≙ 590 km),,,3.3° or 3.8°,,,,
+karte054.en.html,Falcon,C-Band,,,,,,55 kW,1.5 kW,100 NM (≙ 185 km),85 m,20 m; 0.2º,1.25º,,6 or 12 rpm,100 hrs,
+karte055.en.html,Geus-2,"200 … 214 MHz
+	(VHF-Band)",,,"2,5 µs",,,90 kW,,80 km,,,,,6 or 12 min⁻¹,,
+karte056.en.html,SG,"3 000 MHz
+	(S-Band)",,,1.3 … 2 µs,,,,,64 km,,,,,,,
+karte057.en.html,"TRS 2052, TRS 2053, TRS 2056",L-Band,,350 Hz(3-fold staggered),3 µs,,,2.2 MW,2 kW,230 NM (≙ 430 km),,,,,6 rpm,,
+karte058.en.html,Type 581,L-Band,,300 / 600 Hz,4 µs / 2 µs,,,500 kW,600 W,100 NM (≙ 190 km),1 km,"1 km, 1°",4°,> 15,6 rpm,,
+karte059.en.html,Type 518 Hai Ying,C-Band,,,,,,,,100 NM (≙ 185 km),,± 100 m; ± 0.8º,,,,,
+karte060.en.html,Type 517,VHF-Band,,,,,,,,300 km,,,,,,,
+karte061.en.html,RAT-31S/M,S-Band,,1000 Hz,1 µs,,,500 kW,500 W,80 NM (≙ 150 km),,50 m; 0.35°,,,15 rpm,,
+karte062.en.html,MM/SPN-703,"9 375 MHz
+	(X-Band)",,5 200 … 650 Hz,0.05 … 1.5 µs,,,20 kW,1 kW,120 NM (≙ 220 km),9 m,,1.2º,,,,
+karte063.en.html,ZW07,X-Band,,,,,,,,22 km,,,,,,,
+karte064.en.html,AN/TPS-74,X-Band,,3 750 Hz,,,,,,40 km,,,1.4°,,,,
+karte065.en.html,Stentor,"9 400 … 9 600 MHz
+	(X-Band)",,,,,,60 kW,,60 km,40 m,20 m; 0.25°,,,,>1 000 hrs,
+karte066.en.html,Falcon II,"5 450 … 5 825 MHz
+	(C-Band)",,,,,,55 kW,1.5 kW,55 or 85 NM(≙ 110 or 160 km),85 m,20 m; 0.2°,2.4°,,,,
+karte067.en.html,S 1810,"8 600 … 9 500 MHz
+	(X-Band)",,2 or 4 kHz,0.2; 1 or 2 µs,,,50 kW,,40 NM (≙ 75 km),,,1.1°,,24 rpm,,
+karte068.en.html,AN/FPN-62,"9 000 … 9 160 MHz
+	(X-Band)",,3 300 Hz,0.18 µs,,,45 kW,45 W,15 NM (≙ 28 km),,,,,,,
+karte069.en.html,AN/FPS-74,S-Band,,974 Hz,1 µs,,,1 MW,,,,,0.6°,,,,
+karte070.en.html,Type 702,C + X-Band,,,,,,,,40 km,,,1.1° or 2.2°,,,,
+karte071.en.html,MM/SPN-728,X-Band,,,,,,,,40 NM (≙ 74 km),,,,,,,
+karte072.en.html,RAN-12 L/X,L + X-Band,,,,,,,,25 NM (≙ 46 km),,,,,,,
+karte073.en.html,Sea Giraffe,C-Band,,,,,,60 kW,1 200 W,150 km,,,1.8°,,30 or 60 rpm,,
+karte074.en.html,AN/SPG-53,X-Band,,1 000 Hz,0.25 µs,,,250 kW,"62,5 W",60 NM (≙ 110 km),75 m,,1.6°,,,,
+karte075.en.html,MM/SPS-702,X-Band,,,,,,,,40 NM (≙ 74 km),,,,,,,
+karte076.en.html,RM-2,"9 340 MHz
+	(X-Band)",,500 Hz,1 µs,,,100 kW,50 W,200 km,150 m,,1.1°,,,,
+karte077.en.html,AN/APS-133,"9 371 … 9 381 MHz
+	(X-Band)",,200 or 800 Hz,0.4; 2.35 or 5 µs,,,65 kW,,300 NM (≙ 560 km),,,2.9°,,,,
+karte078.en.html,AN/APQ-126,"16 500  ±40 MHz 
+	(Ku-Band)",,3 600; 720 or 360 Hz,0.2; 1 or 2 µs,,,60 kW,,50 NM (≙ 92 km),,,,,,,
+karte079.en.html,ASR-803,"1 250 … 1 350 MHz
+	(L-Band)",,800 Hz,1.1 µs,,,,,80 mi (≙ 128 km),,,1.25°,,12 rpm,,
+karte080.en.html,Argos-10,L-Band,,,,,,10 MW,,250 NM (≙ 460 km),,,,,5 rpm,,
+karte081.en.html,MRL-2,"9 595 MHz
+	(X-Band)",,600 or 300 Hz,1 or 2 µs,,,210 kW,,300 km,,,0.73°,,6 rpm,,
+karte082.en.html,MRL-1,"37 500 MHz
+	(Ka-Band)",,600 Hz,0.45 µs,,,65 kW,,,,,0.2°,,6 rpm,,
+karte083.en.html,S-264,,"582 … 606 MHz
+	(UHF-Band)",,500 … 800 Hz,2 or 4 µs,,,50 kW,,110 NM(≙ 200 km),,,2.2°,,5 or 10 rpm,,
+karte084.en.html,Type 267,,"9,65 … 9,7 GHz
+	(X-Band)",,500 Hz,1.2 µs,,,30 kW,18 W,,,,4.5°,,4.5 … 5 rpm,,
+karte085.en.html,AN/MPQ-29,"8 500 … 9 600 MHz
+	(X-Band)",,2 or 4 kHz,0.25 or 0.5 µs,,,40 kW,,50 NM (≙ 92 km),,20 m; 0.06°,3°,,,,
+karte086.en.html,AN/SPS-21,"5.5 … 5.6 GHz
+	(C-Band)",,1 500 Hz,0.19 µs,,,10 kW,,16 NM (≙ 30 km),,,2°,,,,
+karte087.en.html,RPK-1,"9.25 … 9.7 GHz
+	(X-Band)",,,,,,,,55 km,,,,,,,
+karte088.en.html,RPK-2,"14.6 … 15.6 GHz
+	(Ku-Band)",,,,,,110 kW,,50 km,,,,,,,
+karte089.en.html,Type 96,L-Band,,,,,,2 MW,,175 NM (≙ 325 km),,,,,6 rpm,,
+karte090.en.html,AN/TPS-33,"9 345 … 9 405 MHz
+	(X-Band)",,1 600 Hz,0.4 µs,,,<7 kW,4 W,20 km,,,,,,,
+karte091.en.html,AN/FPS-36,"1 250 … 1 350 MHz
+	(L-Band)",,325 … 400 Hz,2 µs,,,500 kW,,230 NM (≙ 426 km),,,1.4°,,6 rpm,,
+karte092.en.html,AN/FPS-75,"1 250 … 1 350 MHz
+	(L-Band)",,325 … 400 Hz,2 µs,,,500 kW,,200 NM (≙ 370 km),,,1.4°,,,,
+karte093.en.html,AN/TPN-17,"9 000 … 9 160 MHz
+	(X-Band)",666 µs,1 500 Hz,0.55 µs,500 µs,166 µs,160 kW,132 W,40 NM (≙ 74 km),90 m,,,,,,
+karte094.en.html,AN/GPN-6,"2 700 … 2 900 MHz
+	(S-Band)",,1 000 Hz,0.9 µs,,,500 kW,450 W,60 NM (≙ 110 km),140 m,,,,,,
+karte095.en.html,TRS-2310,"9,0 … 9,2 GHz (X-Band)",bad,,,0.5 µs,,,,50 W,17.5 km,,,,,,,
+karte096.en.html,TA-23,"1 270 … 1 370 MHz
+	(L-Band)",,250 Hz,4 µs,,,2.2 MW,,180 NM (≙ 330 km),,,1.25°,,6 rpm,,
+karte097.en.html,PS-16/F,"86 … 90 MHz
+	(VHF-Band)",,250 Hz,5 or 15 µs,,,500 kW,,300 km,,,40°,,,,
+karte098.en.html,AN/SPN-4,"3 010 … 3 100 MHz
+	(S-Band)",,1 000 Hz,0.4 µs,,,15 kW,6 W,50 NM (≙ 90 km),90 m,,3.5°,,7 rpm,,
+karte099.en.html,AN/FPS-56,L-Band,,200 … 400 Hz,,,,,,200 NM (≙ 370 km),,,,,,,
+karte100.en.html,AN/SPG-48,"8 500 … 9 600 MHz
+	(X-Band)",,1 320 Hz,0.25 µs,,,250 kW,,37 km,,,2.4°,,,,
+karte001.en.html,AN/APS-3,"9 310 … 9 375 MHz
+	(X-Band)",,,,,,25 kW,,18 km,,,,,,,
+karte002.en.html,Rainbow weather radar,X-Band,,,,,,70 kW,,200 NM (≙ 370 km),,,,,,,
+karte003.en.html,AN/FPS-31,"420 … 430 MHz
+	(UHF-Band)",,300 Hz (± 10 Hz),6 µs,,,2 MW,3.6 kW,250 NM (≙ 460 km),,,,,6 rpm,,
+karte004.en.html,AN/FPS-37,"1 280 … 1 350 MHz
+	(L-Band)",,360 Hz,3 µs,,,1.2 MW,1080 W,200 NM (≙ 370 km),,,1.3°,,6 rpm,,
+karte005.en.html,HIPAR,"1 350 … 1 450 MHz
+	(L-Band)",,417 … 438 Hz,6 µs,,,6 MW,26 kW,500 km,,,1.2°,,,,
+karte006.en.html,AN/MPS-29,"35 GHz
+	(K-Band)",,10 kHz,0.05 µs,,,15 kW,,18 km,,,0.2°,,,,
+karte007.en.html,AN/SPN-18,"9 320 … 9 430 MHz
+	(X-Band)",,800 or 2 000 Hz,0.25 or 0.65 µs,,,40 kW,20 W,40 NM (≙ 75 km),46 m,"2%, 1°","β=1,9°; ε=20°",20,9 rpm,,
+karte008.en.html,"AN/SPN-21, AN/SPS-35 ","9 335 … 9 405 MHz
+	(X-Band)",,750 or 1 500 Hz,0.2 µs,,,7 kW,,32 NM (≙ 60 km),45 m,,2.2°,,20 rpm,,
+karte009.en.html,AN/TPS-41,"8 500 … 9 600 MHz
+	(X-Band)",,"200, 400 or 800 Hz",1 or 5 µs,,,250 kW,,150 mi (≙ 240 km),,,1.5°,,5 rpm,1 000 hrs,
+karte010.en.html,CWS-2,"2 700 … 3 100 MHz
+	(S-Band)",,,,,,,,60 NM (≙ 111 km),,,,,,,
+karte011.en.html,RL-4AS,"2.7 … 2.9 GHz
+	(S-Band)",,600 Hz,2 µs,,,2 × 800 kW,,110 NM (≙ 200 km),,,2°,,6 or 12 rpm,,
+karte012.en.html,RL-5M,"2.7 … 2.9 GHz
+	(S-Band)",,,2 µs,,,2 × 800 kW,,110 NM (≙ 200 km),300 m,± 120 m; 0.7°,2°,,6 or 12 rpm,,
+karte013.en.html,AN/CPS-2,"510 … 725 MHz
+	(UHF-Band)",,,,,,,,70 mi (≙ 112 km),,,,,,,
+karte014.en.html,SCR-627,"200 MHz
+	(VHF-Band)",,,,,,225 kW,,280 km,,,,,,,
+karte015.en.html,AN/FPS-105(V),"5650 … 5925 MHz
+	(C-Band)",,160 or 640 Hz,0.25; 0.5 or 1 µs,,,1 MW,,60 000 km,,,,,0 … 8 min⁻¹,,
+karte016.en.html,AN/FPS-79,"432 MHz
+	(UHF-Band)",,,,,,,,4 300 km,,,,,,,
+karte017.en.html,AN/MPS-36,"5 400 … 5 900 MHz
+	(C-Band)",,,,,,1 MW,1 kW,60 000 km,0.6 m,,1.2°,,0 … 8 min⁻¹,100 h,
+karte018.en.html,Start-1,S-Band,,,,,,,,300 km,,,,,,,
+karte019.en.html,Mk. 13,"8 815 ± 75 MHz
+	(X-Band)",,1 800 Hz,2.4 µs,,,50 kW,27 W,25 NM (≙ 46 km),360 m,5 m; 2 mils,0.9°,,,,
+karte020.en.html,VRRVY,S-Band,,360 or 720 Hz,1 or 2 µs,,,400 kW,350 W,300 km,,,,,2; 4 or 6 rpm,,
+karte021.en.html,Mk. 8,"3 050 ± 50 MHz
+	(S-Band)",,800 Hz,0.6 µs,,,"15 … 20 kW,later 20 … 30 kW","14, later 24 W",30 NM (≙ 55 km),110 m,,2°,,,,
+karte022.en.html,Mk. 4,"700 MHz
+	(UHF-Band)",,1 639 Hz,1.5 µs,,,20 kW,46 W,17 NM (≙ 32 km),360 m,,12°,,,,
+karte023.en.html,Mk. 12,"920 … 970 MHz
+	(UHF-Band)",,480 Hz,1 µs,,,100 kW,48 W,22 NM (≙ 42 km),460 m,,10°,,,,
+karte024.en.html,Mk. 22,"9 375 ± 30 MHz
+	(X-Band)",,"480 Hz or 
+		1 639 Hz",0.5 µs,,,25 … 35 kW,"7 W or 
+		25 W",10 NM (≙ 18 km),90 m,,β= 1.2° ;ε= 4.5°,,,,
+karte025.en.html,ASB,"515 MHz
+	(UHF-Band)",,,2 µs,,,200 kW,,50 mi (≙ 80 km),,,,,,,
+karte026.en.html,3RM-20,"9 345 … 9 405 MHz
+	(X-Band)",,6; 3; 1.5 or 0.75 kHz,0.05; 0.15; 0.5 or 1.5 µs,,,20 kW,60 W,40 NM (≙ 74 km),,,1.2°,,25 rpm,,
+karte027.en.html,AI.23,X-Band,,1 000 Hz,1 µs,,,100 kW,,40 NM (≙ 74 km),,,,,,,
+karte028.en.html,CWS-3,X-Band,,,,,,,,50 NM (≙ 92 km),,,,,,,
+karte029.en.html,E-190,"9 735 MHz
+	(X-Band)",,400 Hz,2.2 µs,,,15 kW,,150 NM (≙ 280 km),,,3.7°,,,,
+karte030.en.html,RW-31,S-Band,,,,,,800 kW,,240 km,,,,,,,
+karte031.en.html,AN/APQ-140,J-Band,,,,,,,,NM (≙  km),,,,,,,
+karte032.en.html,Primus 30,"9 373 ± 30 MHz
+	(X-Band)",,107.5 Hz,,,,8 kW,,200 NM (≙ 370 km),,,10° or 7.9°,,,,
+karte033.en.html,AN/APS-38,"9 320 ± 10 MHz
+	(X-Band)",,"800, 400 or 200 Hz","0.5, 2.25 or 4.5 µs",,,50 kW,20 W,37 NM (≙ 64 km),,,,,,,
+karte034.en.html,PAR-1,"9 000 … 9 160 MHz
+	(X-Band)",,2 000 Hz,0.5 µs,,,22 kW,220 W,10 NM (≙ 18 km),"80 m, 1.2°",2%,"course: β=  0.8°; ε= 2°
+	glide: ε= 0.5°; β=  3.6°",,"2 AZ, 2 EL scans per second",,
+karte035.en.html,Calypso,X-Band,,,1 µs or 50 ns,,,25 kW,,20 NM (≙ 37 km),,,,,,,
+karte036.en.html,Varan,X-Band,,,,,,,,200 NM (≙ 370 km),3 m,,,,,,
+karte037.en.html,CWS-1,S-Band,,,,,,500 kW,,60 NM (≙ 111 km),,,,,,,
+karte038.en.html,DRBI-10,S-Band,,,,,,,,,,,,,,,
+karte039.en.html,DRBV-20,VHF-Band,,,,,,550 kW,,400 km,,,,,,,
+karte040.en.html,SRN-207,"9 320 … 9 500 MHz
+	(X-Band)",,1 500 Hz,0.4 or 0.08 µs,,,3 kW,,32 NM (≙ 60 km),20 m,1.5% or 50 m and 1°,2.6°,,30 rpm,,
+karte041.en.html,DRBN-30,X-Band,,,,,,,,25 NM (≙ 46 km),,,,,,,
+karte042.en.html,MM/SPQ-2,X-Band,,1 500 … 3 000 Hz,0.15 µs,,,25 kW,20 W,40 NM (≙ 74 km),,,0.6°,,40 rpm,,
+karte043.en.html,Mark 25 radar,"8 500 … 9 000 MHz
+	(X-Band)",,2 000 Hz,0.2 µs,,,50 kW,,24 NM (≙ 45 km),36 m,,1.3°,,,,
+karte044.en.html,AN/FPS-103,"9 375 MHz
+	(X-Band)",,400 Hz,2.25 µs,,,45 kW,,150 NM (≙ 280 km),,,2.9° or 3.6°,,,,
+karte045.en.html,AN/FPS-60,"1 200 … 1 300 MHz
+	(L-Band)",,,,,,2· 2 MW,"4.3 or
+		8.6 kW",,,,,,,,
+karte046.en.html,Don,"9 280 … 9 480 MHz
+	(X-Band)",,756 … 876 or1572 … 1656 Hz,0.7 … 1.3 or0.1 … 1.7 µs,,,80 kW,,12 NM (≙ 22 km),,,1°,,11 … 20 rpm,,
+karte047.en.html,Donets,"9 300 … 9 450 MHz
+	(X-Band)",,1 600 … 1 800 or3 200 … 3 400 Hz,0.3 … 0.7 or0.1 … 0.4 µs,,,80 kW,,15 NM (≙ 28 km),,,1.3° … 2.0°,,8 … 18 rpm,,
+karte048.en.html,RUS-2,"75 … 83 MHz
+	(HF-Band)",,,12 µs,,,70 … 120 kW,,150 km,,1.5 km; 3°,,,,,
+karte049.en.html,9S18,I-Band,,,,,,,3.5 kW,120 km,,1000 m; 1°,4°,,3 … 12 rpm,,
+karte050.en.html,Aïda,X-Band,,,,,,250 kW,,,,,,,,,
+karte051.en.html,AN/APS-10,"9 375 ±55 MHz
+	(X-Band)",,405 or 810 Hz,2.2 or 0.8 µs,,,10 kW,,50 NM (≙ 92 km),,,5°,,30 rpm,,
+karte052.en.html,Marconi Type 11,"565 MHz
+	(UHF-Band)",,500 Hz,4 µs,,,50 kW,,60 NM (≙ 110 km),,,β= 4° ;ε= 11°,,,,
+karte053.en.html,Kivach,"9 400 … 9 460 MHz
+	(X-Band)",,3.0 or 2.0 kHz,0.1 or 0.3 µs,,,7 kW,28 W,25 NM (≙ 46 km),,,"β= 1.7° or 1°;
+		ε= 25°",,17 (± 2) rpm,,
+karte054.en.html,FuG 74 “Kulmbach”,"3.3 GHz
+	(S-Band)",,,,,,100 kW,,50 km,,,,,20 rpm,,
+karte055.en.html,Korshun,J-Band,,,,,,,,8.5 km,,,,,,,
+karte056.en.html,AN/APG-5,"2 500 MHz
+	(S-Band)",,,,,,500 W,,2.75 km,,,28°,,,,
+karte057.en.html,JLP-40,S-Band,,,,,,,,150 NM (≙ 270 km),,500 m; 0.5°,,,,,
+karte058.en.html,DRBV 50,G-Band,,,,,,,,25 NM (≙ 46 km),,,,,,,
+karte059.en.html,Type 16/24,"192 … 209 MHz
+	(VHF-Band)",,300 … 540 Hz,3.5 or 8 µs,,,80 … 100 kW,,,,,,,,,
+karte060.en.html,REL-2,"1 220 … 1 350 MHz
+	(L-Band)",,,,,,,,160 NM (≙ 300 km),,,1.1°,,,,
+karte061.en.html,ASR-6,"2 700 … 2 900 MHz
+	(S-Band)",,700 … 1200 Hz,0.833 µs,,,400 kW,400 W,60 NM (≙ 110 km),,,1.4°,,15 rpm,,
+karte062.en.html,WSR-74,,"2 890 MHz
+	(S-Band)",,160 or 640 Hz,4 or 1 µs,,,500 kW,,,,,2°,,6 rpm,,
+karte063.en.html,AN/SPN-22,"9 320 … 9 430 MHz
+	(X-Band)",,1.1; 1.5; 2.0 kHz,0.2 µs,,,7 kW,,32 NM (≙ 60 km),,,1.9°,,20 rpm,,
+karte064.en.html,MR-10,"8 945 … 9 450,9 540 … 9 775 MHz
+	(X-Band)",,"520 … 590,1 024 … 1 415,1 456 … 1 584 Hz",0.2 … 0.7 µs,,,150 kW,,160 NM (≙ 300 km),,,1°,,6 rpm,,
+karte065.en.html,ASC-10,X-Band,,,,,,,"1 mW, 10 mW, 100 mW, 1 W",1.5 … 3 km,5 m,,β= 0.7° ; ε= 22°,,24 rpm,,
+karte066.en.html,ZW-01,X-Band,,,1 µs,,,,,50 NM (≙ 90 km),,,,,,,
+karte067.en.html,LW-01,"1 220 … 1 350 MHz
+	(L-Band)",,900 Hz,3 µs,,,600 kW,2 kW,140 NM (≙ 260 km),500 m,,,,0 … 8 rpm,,
+karte068.en.html,AR-15,S-Band,,,,,,2 × 600 kW,,80 NM (≙ 150 km),,,1.4°,,15 rpm,,
+karte069.en.html,Type 159,"9 345 … 9 405 MHz
+	(X-Band)",,,,,,,,,,,,,,,
+karte070.en.html,MM/BPS-704,"9 375 MHz
+	(X-Band)",,5 200 … 650 Hz,0.05 … 1.5 µs,,,7 or 20 kW,,40 NM (≙ 74 km),9 m,,β= 2.2° ; ε= 11°,,,,
+karte071.en.html,ORB-31,X-Band,,,,,,,,,,,,,,,
+karte072.en.html,SCR-602 T1,"176 … 212 MHz
+	(VHF-Band)",,,,,,85 kW,,18 NM (≙ 33 km),,,,,4 rpm,,
+karte073.en.html,SCR-588,"209 MHz
+	(VHF-Band)",,300 … 700 Hz,2 or 5 µs,,,125 kW,,40 or 105 NM(≙ 74 or 195 km),,"± 900 m, ± 0.5°",,,0 … 6 rpm,,
+karte001.en.html,KORAL Land Based Radar Electronic Warfare System,"S-Band to
+	K-Band",150 km,,
+karte002.en.html,AN/SLQ-32(V)6 and (V)7 Electronic Warfare System,"S-Band to
+	K-Band"
+karte004.en.html,JY-50,VHF-Band,,,
+karte005.en.html,MUTES,S … K- Band,,,,,,,,,,,,,,,
+karte006.en.html,Khortytsia-M,25 … 6 000 MHz,45 km,,
+karte007.en.html,Plastun-RP3000,25 … 3 000 MHz,15 km,,
+karte001.en.html,Compact radar takes an inside view,70 … 100 GHz (W-Band),10 mW,3 km,,,,,
+karte002.en.html,120 GHz Radar Front End,"122 GHz … 123 GHz
+	(N-Band)",1 mW,> 10 m,,,ca. 30 degrees,,
+karte003.en.html,ST100 Starter Kit,"24 … 24.5 GHz
+	(K-Band)",4 mW,10 m … >200 m,,,,,
+karte004.en.html,Didactional Multifunction Radar DMR “Scientific Radar”,"S, C oder K-Band",4 mW,> 20 m,,,,,
+karte005.en.html,Skyradar Basic II,"24 GHz … 24,25 GHz
+	(K-Band)",4 mW,> 300 m,,,,,
+karte006.en.html,Didactic Primary Radar DPR 886,"2,4 … 2,7 GHz
+	(S-Band)",,150 m,"1,5 m",30 cm,6°,,
+karte007.en.html,Didactical Noiseradar “Skyradar Pro”,"20 GHz … 28 GHz
+	(K-Band)",3.2 mW,"9,5 m",7 … 30 cm,"3,5 cm",1°,,
+karte008.en.html,Omniradar RIC60A,"57 … 64 GHz
+	(V-Band)",,,,,,,,5 m,21 mm,2 mm,,,,,
+karte009.en.html,XeThru X4,"7.29 or 8.748 GHz
+	(C … X-Band)",,,,,,-0.7; 4.1 or 6.3 dBm,,9.6 m,,,,,,,
+karte010.en.html,NCR-84,"80 GHz
+	(W-Band)",,,,,,,,30 m,,1 mm,3° or 6°,,,,
+karte011.en.html,IVS-167,"24.0 … 24.5 GHz
+	(K-Band)",1 mW,30 cm,3 cm,11°
+karte012.en.html,SL-2100P/34,"10.532 GHz
+	(X-Band)",,,,,,,60 W,> 4 km,,,β= 5° ;ε= 2.5°,,,,
+karte013.en.html,RIR 980,C-Band,,,"0.25, 0.5 or 1 µs",,,1 MW,1 kW,280 km,,,,,,,
+karte014.en.html,Phoenix,X-Band,,,,,,,25 mW EIRP,"8,8 km",0.25 m,,45°,,,,
+karte015.en.html,RIAS,VHF-Band,,,,,,,,,,,,,,,
+karte002.en.html,NRS-12 “Score Board”,UHF-Band,synchron to the PSR,200 … 750 Hzsynchronously to the PSR,12 Microseconds,,,4 Kilowatts,,,450 m,,20 Degrees,> 10,synchron to the PSR,,
+karte003.en.html,1030 / 1090 MHz,,,,,,up to 2 kW,,,,,,,
+karte004.en.html,MSSR 2000 I,1030 / 1090 MHz,,,,,,up to 2 kW,,,,,,,,,
+karte005.en.html,Parol (1L22),UHF,,,> 12 µs,,,,,up to 600 km,,,,,synchronous to the primary radar,,
+karte006.en.html,Siemens 1990,1030 / 1090 MHz,synchronuous to the primary radar,synchronuous to the primary radar,depending on mode,,,up to 2 kW,up to 100 watts,up to 250 NM,500 m,,10 degrees,3 … 5,synchronuous to the primary radar,,
+karte007.en.html,AN/TPX-46(V),1030 / 1090 MHz,synchronuous to the primary radar,synchronuous to the primary radar,depending on mode,,,"1,000 or 2,000 W, selectable",,,,,,,integrated in the main antenna,,
+karte008.en.html,RSM 970 S,1030 / 1090 MHz,,,depending on mode,,,"up to 2,000 W",,up to 256 NM (≙ ca. 300 km),15m,,"2,4°",,up to 15 rpm,,
+karte009.en.html,1030 / 1090 MHz,,,depending on mode,,,"up to 2,000 W",,up to 256 NM (≙ ca. 300 km),15m,,"2,4°",,up to 15 rpm
+karte010.en.html,"1030 MHz (upload) with1090 MHz (download) and837,5 MHz (upload) with740 MHz (download)",up to 10 kW (reduced to 3 kW normally),,up to 250 NM (≙ ca. 465 km),100 m,,0.6°,10 s as En-Route Radar4 or 6 s as TAR,,
+karte011.en.html,AN/TPX-50,1030 / 1090 MHz,,375 … 450 Hz,,,,360 W,1 W,,,,,,,,
+karte012.en.html,AN/TPX-3,157 … 187 MHz,,200 … 750 Hz,5 … 8 µs,,,,,,,,,,,,
+karte013.en.html,Type 242,,Aerial outfit,165 … 185 MHz,,125 or 50 Hz,6 µs,,,1 kW,,,,,60°,,,,
+karte014.en.html,Type 1010,"1 030, 1 090 MHz
+	(L-Band)",,150 … 450 Hz,,,,2 kW,,,,,7°,,,,
+karte015.en.html,Trassa-1,"… 
+	(UHF, L-Band)",,,,,,,,360 km,,100 m,,,,,
+karte016.en.html,Type 243,"157 … 187 MHz
+	(A-Band)",,50 or 100 Hz,10 µs,,,1 kW,,,,,,,,,
+karte017.en.html,Raduga 2,,837.5 / 740 MHz,,150 … 500 Hz,,,,12 kW,,400 km,,"150 m, 0.3°",3.3°,,,,
+karte018.en.html,DLD-100C,"1 030 / 1 090 MHz
+	(D-Band)",,,,,,2.5 kW,100 W,256 NM (≙ 474 km),≤55 m,"≤30 m, ≤0.05°",2.45°,,5 … 15 min⁻¹,30 000 h,
+karte019.en.html,S 200R,L-Band,,,,,,,,200 NM (≙ 370 km),,,,,,,
+karte020.en.html,L-IESA NR-IFF,L-Band,,,,,,1.6 … 2.4 kW,,>200 NM (≙ 370 km),,,6° … 8°,,,> 4 500 hrs,
+karte021.en.html,AN/APX-76,1 030 MHz (sorgulama)1 090 MHz (yeniden oynatma),< 400 Hz,,,,,2 kW,20 W,,,,,,,,
+karte022.en.html,AN/APX-100(V),1 030 MHz (interrogate)1 090 MHz (replay),,,,,,500 W,5 W,,,,,,,2 000 hrs,
+karte023.en.html,AN/TPX-26,"1 080 … 1 130 MHz
+	(L-Band)",,,,,,1 500 W,,165 NM (≙ 300 km),,,,,,,
+karte024.en.html,NESIS 4000,"1 030 and 1 090 MHz
+	(L-Band)",,,,,,3.8 kW,,220 NM (≙ 410 km),,,,,virtually: 60 rpm,,
+karte025.en.html,AN/TPX-41,"1030 and 1090 MHz
+	(L-Band)",,,,,,1.5 kW,,200 mi (≙ 320 km),,,,,,,
+karte022.en.html,########,"… 
+	(%%%-Band)",,,,,,,,NM (≙  km),,,,,,,
+karte001.en.html,########,"… 
+	(%%%-Band)",,,,,,,,NM (≙  km),,,,,,,
+karte078.en.html,########,"… 
+	(%%%-Band)",,,,,,,,NM (≙  km),,,,,,,
+karte062.en.html,########,"… 
+	(%%%-Band)",,,,,,,,,,,,,,,
+karte041.en.html,########,"… 
+	(%%%-Band)",,,,,,,,,,,,,,,
+karte019.en.html,########,"… 
+	(%%%-Band)",,,,,,,,NM (≙  km),,,,,,,
+karte020.en.html,########,"… 
+	(%%%-Band)",,,,,,,,NM (≙  km),,,,,,,
+karte043.en.html,########,"… 
+	(%%%-Band)",,,,,,,,NM (≙  km),,,,,,,
+karte083.en.html,########,"… 
+	(%%%-Band)",,,,,,,,NM (≙  km),,,,,,,
+karte006.en.html,########,%%%-Band),,,,,,,,,,
+karte065.en.html,########,"… 
+	(%%%-Band)",,,,,,,,NM (≙  km),,,,,,,
+karte074.en.html,########,"… 
+	(%%%-Band)",,,,,,,,NM (≙  km),,,,,,,
+karte008.en.html,########,"… 
+	(%%%-Band)",,,,,,,,,,,,,,,
+karte016.en.html,########,"… 
+	(%%%-Band)",,,,,,,,,,,,,,,
+karte026.en.html,########,"… 
+	(%%%-Band)",,,,,,,,NM (≙  km),,,,,,,
